@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 // dot env file allow us to hide information that we dont want to share on github and other place.
 // https://www.youtube.com/watch?v=17UVejOw3zA
 //https://www.youtube.com/watch?v=txGL-Ld9zD8
@@ -18,6 +19,7 @@ const pharmacy = require("./API/routes/pharmacy");
 //  mongoos
 // https://www.youtube.com/watch?v=5QEwqX5U_2M
 const connectMongoDB = require("./config/conn");
+
 const app = express();
 
 dotenv.config({ path: "./config/.env" });
@@ -32,6 +34,7 @@ connectMongoDB()
   });
 
 //  middleware
+app.use(cors());
 app.use(express.json());
 app.use("/doctors", doctors);
 app.use("/pharmacy", pharmacy);
