@@ -2,7 +2,6 @@ const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
 const profileInfoSchema = new Schema({
-  profileID: { type: mongoose.Schema.Types.ObjectId, ref: "profileInfo" },
   username: {
     type: String,
     max: [100, "Max Length Is 100 Characters"],
@@ -24,8 +23,8 @@ const profileInfoSchema = new Schema({
     max: [100, "Max Length Is 100 Characters"],
   },
   identity: {
-    type: number,
-    enum: [0, 1, 2, 3],
+    type:String,
+    max: [1, "Max Length Is 1 Characters"],
   },
 });
 

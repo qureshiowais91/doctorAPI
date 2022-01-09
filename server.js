@@ -1,24 +1,13 @@
+// auther : Qureshi Owais
 const express = require("express");
 const cors = require("cors");
 const morgan = require("morgan");
-// dot env file allow us to hide information that we dont want to share on github and other place.
-// https://www.youtube.com/watch?v=17UVejOw3zA
-//https://www.youtube.com/watch?v=txGL-Ld9zD8
+
 const dotenv = require("dotenv");
-//  MVC and Basic Server
-// https://www.iamtimsmith.com/blog/creating-a-basic-server-with-express-js
 const doctor = require("./API/doctor/routes/doctor");
 const patient = require("./API/patient/routes/patient");
-// mongoose
-// https://www.quora.com/What-is-mongoose-for-MongoDb?share=1
-// https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/
-// https://masteringjs.io/tutorials/mongoose/explain
+const info = require("./API/info/routes/info");
 
-// YT links
-//   mongodb
-// https://www.youtube.com/watch?v=Www6cTUymCY
-//  mongoos
-// https://www.youtube.com/watch?v=5QEwqX5U_2M
 const connectMongoDB = require("./config/conn");
 
 const app = express();
@@ -35,6 +24,7 @@ app.use(express.json());
 
 app.use("/api/v1/doctor", doctor);
 app.use("/api/v1/patient", patient);
+app.use("/api/v1/profileInfo", info);
 
 app.listen(PORT, () => {
   console.log(`server ${PORT}`);

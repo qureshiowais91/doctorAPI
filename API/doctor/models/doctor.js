@@ -9,7 +9,7 @@ const doctoreSchema = new Schema({
   speciality: {
     type: String,
     max: 50,
-    trim: true,
+    trim: true, 
     required: [true, "Please Add Speciality"],
   },
   fees: {
