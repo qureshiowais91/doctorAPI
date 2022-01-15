@@ -9,7 +9,7 @@ const profileInfoSchema = new Schema({
   legalname: {
     type: String,
     max: [100, "Max Length Is 100 Characters"],
-  },
+  }, 
   email: {
     type: String,
     max: [100, "Max Length Is 100 Characters"],
@@ -23,9 +23,10 @@ const profileInfoSchema = new Schema({
     max: [100, "Max Length Is 100 Characters"],
   },
   identity: {
-    type:String,
-    max: [1, "Max Length Is 1 Characters"],
-  },
+    type: String,
+    max: [1, "Max & min Length Is 1 Characters"],    
+    min: [1, "Max & min Length Is 1 Characters"],
+  },                                                  
 });
 
 module.exports = mongoose.model("profileInfo", profileInfoSchema);

@@ -9,7 +9,7 @@ const doctoreSchema = new Schema({
   speciality: {
     type: String,
     max: 50,
-    trim: true, 
+    trim: true,
     required: [true, "Please Add Speciality"],
   },
   fees: {
@@ -30,7 +30,7 @@ const doctoreSchema = new Schema({
     max: 50,
     required: [true, "Please Add Speciality"],
   },
-  patient: { type: mongoose.Schema.Types.ObjectId, ref: "patient" },
+  patient: [{ type: mongoose.Schema.Types.ObjectId, ref: "patient" }],
 });
 
 module.exports = mongoose.model("doctors", doctoreSchema);
