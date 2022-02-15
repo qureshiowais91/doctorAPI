@@ -1,0 +1,7 @@
+per patient time between two appoiment must minimum 45min
+forced appoinment allowed but no cashback if patient miss 
+    appoiment by 30min and no reschedule must take new appoiment
+
+
+as soon as doctor click on next patient
+    next five

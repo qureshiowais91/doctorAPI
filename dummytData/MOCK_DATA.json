@@ -1,0 +1,7002 @@
+{
+   "HU54 2565 3130 5031 0399 0007 3003": {
+      "speciality": "ULTI",
+      "fees": "$63.83",
+      "opentime": "8:45 AM",
+      "closetime": "9:01 PM",
+      "patient": "Van Sacaze"
+   },
+   "GE29 LB57 7660 2529 1273 04": {
+      "speciality": "MDT",
+      "fees": "$95.48",
+      "opentime": "9:19 AM",
+      "closetime": "9:26 PM",
+      "patient": "Remy Dolman"
+   },
+   "IE96 LRMJ 0210 1367 3339 62": {
+      "speciality": "BEL",
+      "fees": "$98.11",
+      "opentime": "8:21 AM",
+      "closetime": "6:45 PM",
+      "patient": "Dianemarie Peacher"
+   },
+   "BA29 5293 5403 1383 8188": {
+      "speciality": "SXI",
+      "fees": "$98.29",
+      "opentime": "8:18 AM",
+      "closetime": "10:52 PM",
+      "patient": "Carol-jean Driffe"
+   },
+   "FR78 8167 7394 97XQ FLLD ATZ5 R89": {
+      "speciality": "ALDR",
+      "fees": "$95.02",
+      "opentime": "9:32 AM",
+      "closetime": "8:13 PM",
+      "patient": "Bourke Alishoner"
+   },
+   "FR09 3174 2420 24HT OSPM UNZK 436": {
+      "speciality": "SPRT",
+      "fees": "$56.59",
+      "opentime": "8:31 AM",
+      "closetime": "7:54 PM",
+      "patient": "Kerry Turfes"
+   },
+   "NL53 KITY 0120 2514 34": {
+      "speciality": "GAINO",
+      "fees": "$66.55",
+      "opentime": "9:20 AM",
+      "closetime": "6:04 PM",
+      "patient": "Bevon Jerred"
+   },
+   "GI74 CUTF MCLE 7EZ8 IVGT TLC": {
+      "speciality": "SKX",
+      "fees": "$87.34",
+      "opentime": "8:12 AM",
+      "closetime": "10:56 PM",
+      "patient": "Anny Neeve"
+   },
+   "GI60 MOLK O2EZ SUKL KKEE RSE": {
+      "speciality": "GPIAW",
+      "fees": "$79.47",
+      "opentime": "8:41 AM",
+      "closetime": "10:25 PM",
+      "patient": "Lenee Baysting"
+   },
+   "AD89 6637 0582 BBOL FDGH QLCD": {
+      "speciality": "MRNS",
+      "fees": "$42.55",
+      "opentime": "8:41 AM",
+      "closetime": "10:05 PM",
+      "patient": "Obidiah Bruyns"
+   },
+   "AL65 8459 1691 QXNP EAJF EHCN MZW4": {
+      "speciality": "NESRW",
+      "fees": "$33.68",
+      "opentime": "9:08 AM",
+      "closetime": "9:31 PM",
+      "patient": "Twyla Sparkwell"
+   },
+   "PK89 ZGKJ CEEI RL7F BKKP AEPP": {
+      "speciality": "MUS",
+      "fees": "$41.34",
+      "opentime": "8:30 AM",
+      "closetime": "6:40 PM",
+      "patient": "Clarinda Padefield"
+   },
+   "HU48 0527 6581 6463 5224 5317 6216": {
+      "speciality": "FTNT",
+      "fees": "$90.48",
+      "opentime": "9:40 AM",
+      "closetime": "10:48 PM",
+      "patient": "Aurthur Teissier"
+   },
+   "EE48 8174 8488 2843 4365": {
+      "speciality": "COHU",
+      "fees": "$57.31",
+      "opentime": "9:50 AM",
+      "closetime": "8:30 PM",
+      "patient": "Mano O'Gorman"
+   },
+   "FO91 7548 1196 8299 39": {
+      "speciality": "SYBT",
+      "fees": "$64.85",
+      "opentime": "9:50 AM",
+      "closetime": "6:06 PM",
+      "patient": "Boigie Buddock"
+   },
+   "SM41 E692 8322 336E MLIR QG5E H8Z": {
+      "speciality": "IBKC",
+      "fees": "$42.93",
+      "opentime": "8:59 AM",
+      "closetime": "6:12 PM",
+      "patient": "Park Gownge"
+   },
+   "FR18 2374 6615 25I4 BLAH 7KKF K96": {
+      "speciality": "SAN^A",
+      "fees": "$60.08",
+      "opentime": "9:50 AM",
+      "closetime": "9:09 PM",
+      "patient": "Pincus Chitter"
+   },
+   "LT23 1501 0720 2673 5019": {
+      "speciality": "ASND",
+      "fees": "$99.43",
+      "opentime": "9:11 AM",
+      "closetime": "6:14 PM",
+      "patient": "Oona McGraith"
+   },
+   "BG30 FYMI 1091 74VC LAEL VN": {
+      "speciality": "ENDP",
+      "fees": "$38.86",
+      "opentime": "8:03 AM",
+      "closetime": "6:13 PM",
+      "patient": "Edan Paolotto"
+   },
+   "IT83 O085 7564 069B EHXE MS5S IQK": {
+      "speciality": "NEE^H",
+      "fees": "$41.77",
+      "opentime": "9:40 AM",
+      "closetime": "6:23 PM",
+      "patient": "Dotty Gravestone"
+   },
+   "NL23 LNWW 4286 1290 25": {
+      "speciality": "EXD",
+      "fees": "$73.61",
+      "opentime": "9:32 AM",
+      "closetime": "8:56 PM",
+      "patient": "Jorge Gentery"
+   },
+   "TN59 4349 5117 7641 1579 4507": {
+      "speciality": "CUI",
+      "fees": "$36.36",
+      "opentime": "9:37 AM",
+      "closetime": "10:55 PM",
+      "patient": "Denney Espinazo"
+   },
+   "FR23 2293 7916 7674 Q7OP Y6BF C10": {
+      "speciality": "RWLK",
+      "fees": "$95.40",
+      "opentime": "9:30 AM",
+      "closetime": "8:19 PM",
+      "patient": "Kristen Dwelley"
+   },
+   "MU58 TRXL 9386 2694 9191 8627 685W RK": {
+      "speciality": "NNC",
+      "fees": "$97.67",
+      "opentime": "9:54 AM",
+      "closetime": "7:50 PM",
+      "patient": "Lynsey Everley"
+   },
+   "PS75 NUOL MDXO RCCI KKAL PPFY TY1S O": {
+      "speciality": "ABR^A",
+      "fees": "$58.85",
+      "opentime": "8:58 AM",
+      "closetime": "10:13 PM",
+      "patient": "Heloise Yeardsley"
+   },
+   "DE65 4861 5951 6310 9474 03": {
+      "speciality": "NVO",
+      "fees": "$62.96",
+      "opentime": "9:15 AM",
+      "closetime": "7:03 PM",
+      "patient": "Tiffany Goldsbrough"
+   },
+   "ES56 0460 8320 0157 9353 4000": {
+      "speciality": "WRB^D",
+      "fees": "$54.80",
+      "opentime": "8:40 AM",
+      "closetime": "10:23 PM",
+      "patient": "Monah Shepherd"
+   },
+   "FI94 5877 7877 1988 80": {
+      "speciality": "EDUC",
+      "fees": "$62.87",
+      "opentime": "8:56 AM",
+      "closetime": "9:07 PM",
+      "patient": "Karlyn Caig"
+   },
+   "GL22 7559 5053 8107 96": {
+      "speciality": "GG",
+      "fees": "$67.19",
+      "opentime": "9:21 AM",
+      "closetime": "7:31 PM",
+      "patient": "Durand Curling"
+   },
+   "GB78 YCAM 8457 4451 1749 71": {
+      "speciality": "NXTDW",
+      "fees": "$84.73",
+      "opentime": "8:35 AM",
+      "closetime": "7:06 PM",
+      "patient": "Zollie Catteroll"
+   },
+   "NO02 9072 6538 002": {
+      "speciality": "MTOR",
+      "fees": "$80.68",
+      "opentime": "8:33 AM",
+      "closetime": "9:42 PM",
+      "patient": "Alexio Balk"
+   },
+   "PL78 1996 1106 5777 2416 8223 9401": {
+      "speciality": "SYT",
+      "fees": "$88.14",
+      "opentime": "9:02 AM",
+      "closetime": "8:46 PM",
+      "patient": "Antony Dillingham"
+   },
+   "MD48 HTCS JHXQ 8QQF XVC2 HBP1": {
+      "speciality": "NYNY",
+      "fees": "$47.76",
+      "opentime": "8:53 AM",
+      "closetime": "9:36 PM",
+      "patient": "Orly Ubach"
+   },
+   "FR34 9173 8300 57BX OW5G 0FYJ J51": {
+      "speciality": "ALB",
+      "fees": "$54.59",
+      "opentime": "9:00 AM",
+      "closetime": "7:27 PM",
+      "patient": "Che Daile"
+   },
+   "PT53 4423 5581 5357 3004 4188 1": {
+      "speciality": "CHEKW",
+      "fees": "$40.74",
+      "opentime": "8:58 AM",
+      "closetime": "10:46 PM",
+      "patient": "Eddie Petrollo"
+   },
+   "LI85 9447 3MZU WERN FMPP Q": {
+      "speciality": "CBRL",
+      "fees": "$46.43",
+      "opentime": "8:55 AM",
+      "closetime": "6:12 PM",
+      "patient": "Myrna Figin"
+   },
+   "SA50 2608 9QAC HOZP 1ONW DTFA": {
+      "speciality": "CCXI",
+      "fees": "$31.10",
+      "opentime": "9:03 AM",
+      "closetime": "10:18 PM",
+      "patient": "Charissa Valde"
+   },
+   "EE46 7302 3685 9587 8330": {
+      "speciality": "HCN^I",
+      "fees": "$35.33",
+      "opentime": "9:27 AM",
+      "closetime": "8:14 PM",
+      "patient": "Brnaby Kimmel"
+   },
+   "IL96 0514 9692 8575 0087 884": {
+      "speciality": "CSCO",
+      "fees": "$69.56",
+      "opentime": "8:34 AM",
+      "closetime": "6:11 PM",
+      "patient": "Berny Heath"
+   },
+   "PS42 ZLWT YYCQ IMQN MKCG MZVG KAEH K": {
+      "speciality": "BIT",
+      "fees": "$63.57",
+      "opentime": "8:24 AM",
+      "closetime": "10:39 PM",
+      "patient": "Vernen Gillio"
+   },
+   "AL43 4128 2401 3SSQ HHKD OWPU X87Z": {
+      "speciality": "SOV^C",
+      "fees": "$65.97",
+      "opentime": "9:01 AM",
+      "closetime": "8:21 PM",
+      "patient": "Goldie Legrice"
+   },
+   "FR80 2290 7890 85DV BZ06 TNAO M24": {
+      "speciality": "XOG",
+      "fees": "$47.02",
+      "opentime": "8:39 AM",
+      "closetime": "8:32 PM",
+      "patient": "Astrix Saxon"
+   },
+   "PL24 2880 3253 0633 3487 8094 5968": {
+      "speciality": "KNX",
+      "fees": "$61.16",
+      "opentime": "9:38 AM",
+      "closetime": "9:36 PM",
+      "patient": "Windy Duester"
+   },
+   "CR60 2054 9485 5680 9696 2": {
+      "speciality": "MPACU",
+      "fees": "$94.64",
+      "opentime": "9:47 AM",
+      "closetime": "7:04 PM",
+      "patient": "Katerine Farre"
+   },
+   "GB03 WPUA 4145 3032 7203 51": {
+      "speciality": "LCNB",
+      "fees": "$94.66",
+      "opentime": "8:30 AM",
+      "closetime": "9:26 PM",
+      "patient": "Harmon Canedo"
+   },
+   "ES29 9483 2132 4423 6425 5141": {
+      "speciality": "INSM",
+      "fees": "$87.68",
+      "opentime": "8:59 AM",
+      "closetime": "9:37 PM",
+      "patient": "Moyna Sprey"
+   },
+   "VG30 JITP 1328 8384 9676 8393": {
+      "speciality": "AIV^A",
+      "fees": "$87.11",
+      "opentime": "8:07 AM",
+      "closetime": "8:21 PM",
+      "patient": "Andra Brakespear"
+   },
+   "PK67 EWHZ 6I0L L7OR VKZG TRIW": {
+      "speciality": "AXDX",
+      "fees": "$38.56",
+      "opentime": "9:55 AM",
+      "closetime": "6:58 PM",
+      "patient": "Matthew De Banke"
+   },
+   "PL16 3707 8960 8734 3717 5690 7185": {
+      "speciality": "HPI",
+      "fees": "$81.46",
+      "opentime": "8:30 AM",
+      "closetime": "6:34 PM",
+      "patient": "Marietta Behan"
+   },
+   "IE80 JCPP 6913 6090 0622 01": {
+      "speciality": "SGRP",
+      "fees": "$42.03",
+      "opentime": "8:08 AM",
+      "closetime": "10:20 PM",
+      "patient": "Annissa MacDaid"
+   },
+   "SK50 9541 6499 1095 9823 7745": {
+      "speciality": "QTEC",
+      "fees": "$72.30",
+      "opentime": "9:25 AM",
+      "closetime": "6:45 PM",
+      "patient": "Shea Barwood"
+   },
+   "CZ29 0268 0008 6851 0587 5864": {
+      "speciality": "SYX",
+      "fees": "$98.84",
+      "opentime": "9:27 AM",
+      "closetime": "9:38 PM",
+      "patient": "Valida Tiron"
+   },
+   "GT13 U9HD I6MS BWXT OO3N DV37 YEIV": {
+      "speciality": "CCJ",
+      "fees": "$53.53",
+      "opentime": "8:29 AM",
+      "closetime": "6:09 PM",
+      "patient": "Ninette MacRirie"
+   },
+   "SI88 2440 3400 5614 494": {
+      "speciality": "FAB",
+      "fees": "$35.53",
+      "opentime": "8:43 AM",
+      "closetime": "6:13 PM",
+      "patient": "York Reimer"
+   },
+   "GE79 XU74 1009 6737 1535 68": {
+      "speciality": "BLVDU",
+      "fees": "$78.31",
+      "opentime": "8:15 AM",
+      "closetime": "7:51 PM",
+      "patient": "Pat Lamprecht"
+   },
+   "FR71 0929 9185 40DK YYWW SPH9 Y77": {
+      "speciality": "RELY",
+      "fees": "$48.05",
+      "opentime": "8:43 AM",
+      "closetime": "8:59 PM",
+      "patient": "Angelica Newlands"
+   },
+   "VG69 SKWK 9871 2548 3545 4803": {
+      "speciality": "IMGN",
+      "fees": "$64.92",
+      "opentime": "8:31 AM",
+      "closetime": "8:59 PM",
+      "patient": "Garwin Sorsbie"
+   },
+   "CZ70 9167 5998 7944 0969 6406": {
+      "speciality": "HRL",
+      "fees": "$79.30",
+      "opentime": "9:46 AM",
+      "closetime": "7:39 PM",
+      "patient": "Bridget Haddon"
+   },
+   "LV30 QFYW RWQ9 ZESQ VJPU V": {
+      "speciality": "PY",
+      "fees": "$42.55",
+      "opentime": "9:27 AM",
+      "closetime": "7:18 PM",
+      "patient": "Ado Tatchell"
+   },
+   "BE19 2391 3796 7729": {
+      "speciality": "CCL",
+      "fees": "$45.09",
+      "opentime": "8:27 AM",
+      "closetime": "9:04 PM",
+      "patient": "Joshua Orro"
+   },
+   "PT64 4745 1933 4474 8344 7620 0": {
+      "speciality": "NMM",
+      "fees": "$87.07",
+      "opentime": "8:45 AM",
+      "closetime": "8:14 PM",
+      "patient": "Marion Groven"
+   },
+   "BG95 EKPK 5806 91BC RZLG P0": {
+      "speciality": "HURC",
+      "fees": "$62.48",
+      "opentime": "9:20 AM",
+      "closetime": "8:31 PM",
+      "patient": "Emelina Brisse"
+   },
+   "FR69 8755 6523 321Q LMNR PDEG W07": {
+      "speciality": "LW",
+      "fees": "$31.73",
+      "opentime": "9:53 AM",
+      "closetime": "9:56 PM",
+      "patient": "Carilyn Twitty"
+   },
+   "FR19 1448 6205 44II MW3Q IUEF O18": {
+      "speciality": "BA",
+      "fees": "$64.02",
+      "opentime": "9:12 AM",
+      "closetime": "10:45 PM",
+      "patient": "Brenda Borton"
+   },
+   "LI41 1468 6HUZ 340W CXJC O": {
+      "speciality": "OXBRW",
+      "fees": "$86.78",
+      "opentime": "9:22 AM",
+      "closetime": "7:15 PM",
+      "patient": "Shela Tosdevin"
+   },
+   "FR56 5803 1844 818K 6SGP WBFQ O91": {
+      "speciality": "NYCB^U",
+      "fees": "$72.08",
+      "opentime": "9:11 AM",
+      "closetime": "10:24 PM",
+      "patient": "Karee Korting"
+   },
+   "SM73 Z333 9577 8182 3KHC LWKL HJZ": {
+      "speciality": "RF^A",
+      "fees": "$84.90",
+      "opentime": "8:48 AM",
+      "closetime": "7:11 PM",
+      "patient": "Ricki Behagg"
+   },
+   "BH27 LWPI XHNQ RL4M FKK9 9R": {
+      "speciality": "SBSI",
+      "fees": "$94.15",
+      "opentime": "8:29 AM",
+      "closetime": "6:42 PM",
+      "patient": "Allx Snaddon"
+   },
+   "KW50 YYDM SG1I VDOP G2IL P80R STOQ ZD": {
+      "speciality": "LPG",
+      "fees": "$78.87",
+      "opentime": "9:22 AM",
+      "closetime": "7:45 PM",
+      "patient": "Jecho Corbitt"
+   },
+   "RS31 9023 6937 0631 1873 81": {
+      "speciality": "YUMC",
+      "fees": "$43.30",
+      "opentime": "8:13 AM",
+      "closetime": "6:07 PM",
+      "patient": "Kerk Gibbin"
+   },
+   "FR81 6733 9244 836P NEYU 3IN7 I65": {
+      "speciality": "BNED",
+      "fees": "$55.14",
+      "opentime": "9:55 AM",
+      "closetime": "7:15 PM",
+      "patient": "Marci Ellicott"
+   },
+   "HU73 8562 6337 0581 0178 3083 6339": {
+      "speciality": "TSEM",
+      "fees": "$61.24",
+      "opentime": "9:47 AM",
+      "closetime": "10:58 PM",
+      "patient": "Allys McLenahan"
+   },
+   "TR84 7888 4DD4 GFSP MG77 5QOR 7P": {
+      "speciality": "PSA^W",
+      "fees": "$86.91",
+      "opentime": "8:33 AM",
+      "closetime": "9:55 PM",
+      "patient": "Junina Shawcroft"
+   },
+   "FR06 1182 3335 03DU 4OF9 E07W X80": {
+      "speciality": "MBT",
+      "fees": "$35.83",
+      "opentime": "9:15 AM",
+      "closetime": "10:07 PM",
+      "patient": "Ezechiel Chanders"
+   },
+   "CH84 3964 5TRQ KMY4 6LPP T": {
+      "speciality": "SVVC",
+      "fees": "$90.00",
+      "opentime": "9:04 AM",
+      "closetime": "6:06 PM",
+      "patient": "Loralyn Iorizzo"
+   },
+   "MK03 761L EN6K JLMK U17": {
+      "speciality": "CSQ",
+      "fees": "$45.10",
+      "opentime": "8:31 AM",
+      "closetime": "10:45 PM",
+      "patient": "Christye Extal"
+   },
+   "GI33 LECJ MCUA KAYG 3AO2 KQY": {
+      "speciality": "DOOR",
+      "fees": "$31.93",
+      "opentime": "8:06 AM",
+      "closetime": "10:54 PM",
+      "patient": "Joey Augur"
+   },
+   "LI23 6406 7JGU EFOP 9UFZ 4": {
+      "speciality": "PNTA.CL",
+      "fees": "$46.00",
+      "opentime": "9:39 AM",
+      "closetime": "8:16 PM",
+      "patient": "Amalie Scanlin"
+   },
+   "FR02 0126 6016 23XM RSXG PWUZ M25": {
+      "speciality": "SID",
+      "fees": "$72.86",
+      "opentime": "8:11 AM",
+      "closetime": "9:21 PM",
+      "patient": "Michail Hardacre"
+   },
+   "SE14 4776 7274 9547 5793 9711": {
+      "speciality": "CLNS^E",
+      "fees": "$58.24",
+      "opentime": "8:52 AM",
+      "closetime": "6:56 PM",
+      "patient": "Francesco Mitkcov"
+   },
+   "CY30 1592 6947 EEEF 2QL5 Y8LD VQO0": {
+      "speciality": "ARAY",
+      "fees": "$97.05",
+      "opentime": "9:15 AM",
+      "closetime": "8:43 PM",
+      "patient": "Irina Kidds"
+   },
+   "SK26 3659 3440 5890 8484 7847": {
+      "speciality": "ABUS",
+      "fees": "$90.92",
+      "opentime": "8:19 AM",
+      "closetime": "9:09 PM",
+      "patient": "Micheline Laity"
+   },
+   "FR55 4151 4639 06SB GLW1 L5T6 I93": {
+      "speciality": "EML",
+      "fees": "$96.44",
+      "opentime": "9:03 AM",
+      "closetime": "6:21 PM",
+      "patient": "Archy Schohier"
+   },
+   "CY32 6886 4410 G1YK V03R 7HRA ECI0": {
+      "speciality": "JPC",
+      "fees": "$50.41",
+      "opentime": "8:21 AM",
+      "closetime": "6:58 PM",
+      "patient": "Ermina Kopecka"
+   },
+   "LB51 0544 MQMP MAAO 0CBH AP9O VA4E": {
+      "speciality": "IRCP",
+      "fees": "$31.14",
+      "opentime": "8:46 AM",
+      "closetime": "7:57 PM",
+      "patient": "Simonette Peacher"
+   },
+   "FR18 1301 2238 52PM M0QW IHHY L94": {
+      "speciality": "HDNG",
+      "fees": "$31.60",
+      "opentime": "9:10 AM",
+      "closetime": "9:15 PM",
+      "patient": "Hali O'dell"
+   },
+   "EE67 3159 8511 2901 6396": {
+      "speciality": "CTIC",
+      "fees": "$40.21",
+      "opentime": "9:50 AM",
+      "closetime": "10:18 PM",
+      "patient": "Pegeen Nettle"
+   },
+   "IS63 6964 5625 2925 3615 7843 35": {
+      "speciality": "MOGLC",
+      "fees": "$60.61",
+      "opentime": "8:49 AM",
+      "closetime": "6:28 PM",
+      "patient": "Donavon Candish"
+   },
+   "SA63 49GK BN8Q X9YL LIIO 9KOV": {
+      "speciality": "NDRA",
+      "fees": "$48.93",
+      "opentime": "8:37 AM",
+      "closetime": "10:17 PM",
+      "patient": "Arnie Bednell"
+   },
+   "RS39 3063 8817 0106 2211 81": {
+      "speciality": "QTM",
+      "fees": "$70.72",
+      "opentime": "9:59 AM",
+      "closetime": "10:59 PM",
+      "patient": "Lorianne Salisbury"
+   },
+   "SM69 Z516 5067 756I WHQ9 S1LU 9V2": {
+      "speciality": "TRVN",
+      "fees": "$31.56",
+      "opentime": "9:06 AM",
+      "closetime": "9:23 PM",
+      "patient": "Brita Beddon"
+   },
+   "AE97 4237 2634 5819 7418 568": {
+      "speciality": "SAN",
+      "fees": "$42.79",
+      "opentime": "8:05 AM",
+      "closetime": "6:11 PM",
+      "patient": "Pinchas Dobing"
+   },
+   "DE61 5208 8882 8419 9497 79": {
+      "speciality": "SODA",
+      "fees": "$37.23",
+      "opentime": "9:52 AM",
+      "closetime": "10:37 PM",
+      "patient": "Jonas Kibbey"
+   },
+   "SI48 1861 9659 1818 429": {
+      "speciality": "IONS",
+      "fees": "$85.92",
+      "opentime": "9:29 AM",
+      "closetime": "7:45 PM",
+      "patient": "Tanner Allbut"
+   },
+   "FO20 9228 0646 3414 09": {
+      "speciality": "DDF",
+      "fees": "$54.89",
+      "opentime": "8:47 AM",
+      "closetime": "6:43 PM",
+      "patient": "Richard Mateev"
+   },
+   "IT32 B880 0371 400W CRTR FTZB COD": {
+      "speciality": "MMDMR",
+      "fees": "$49.33",
+      "opentime": "9:32 AM",
+      "closetime": "7:55 PM",
+      "patient": "Norbert McCumskay"
+   },
+   "VG26 MRIP 2570 2623 8705 3825": {
+      "speciality": "HEQ",
+      "fees": "$78.42",
+      "opentime": "9:44 AM",
+      "closetime": "10:38 PM",
+      "patient": "Emelyne Tonks"
+   },
+   "LI67 4589 0FQK J5FN TFWI 3": {
+      "speciality": "HE^U",
+      "fees": "$76.29",
+      "opentime": "9:48 AM",
+      "closetime": "9:20 PM",
+      "patient": "Lexine Wiltshier"
+   },
+   "GE34 JD13 3196 4594 4536 98": {
+      "speciality": "SPLK",
+      "fees": "$90.74",
+      "opentime": "9:40 AM",
+      "closetime": "9:38 PM",
+      "patient": "Zebadiah Blanchet"
+   },
+   "FR84 1509 2198 91HR 7T6X NX2G D27": {
+      "speciality": "MSEX",
+      "fees": "$90.44",
+      "opentime": "8:59 AM",
+      "closetime": "10:43 PM",
+      "patient": "Warner Gutsell"
+   },
+   "LB71 3225 UD6L IGTM APMQ 49MJ 0CB7": {
+      "speciality": "RSO^A",
+      "fees": "$73.58",
+      "opentime": "8:11 AM",
+      "closetime": "6:09 PM",
+      "patient": "Caprice McCarney"
+   },
+   "LT18 6572 6038 5302 0584": {
+      "speciality": "MNK",
+      "fees": "$72.94",
+      "opentime": "8:00 AM",
+      "closetime": "10:21 PM",
+      "patient": "Shaylynn Korneichuk"
+   },
+   "EE09 7754 6613 7771 4774": {
+      "speciality": "BAM",
+      "fees": "$65.79",
+      "opentime": "9:46 AM",
+      "closetime": "7:49 PM",
+      "patient": "Chick Silverston"
+   },
+   "GI85 HVTA 6H7A MYTI SJDK XJQ": {
+      "speciality": "Z",
+      "fees": "$96.35",
+      "opentime": "9:22 AM",
+      "closetime": "6:51 PM",
+      "patient": "Gertruda Bodman"
+   },
+   "FR05 9104 5198 411G OG8E IMXJ O06": {
+      "speciality": "SBNY",
+      "fees": "$62.74",
+      "opentime": "8:55 AM",
+      "closetime": "6:38 PM",
+      "patient": "Alic Ellar"
+   },
+   "IS48 8082 6330 2451 3278 6239 00": {
+      "speciality": "DBL",
+      "fees": "$70.20",
+      "opentime": "8:06 AM",
+      "closetime": "7:26 PM",
+      "patient": "Leontine Kaye"
+   },
+   "GL43 3148 4862 8511 97": {
+      "speciality": "ACCO",
+      "fees": "$67.57",
+      "opentime": "9:07 AM",
+      "closetime": "8:57 PM",
+      "patient": "Giulietta Santino"
+   },
+   "SA44 90V3 ITRH KE0A PQYT XBV5": {
+      "speciality": "HSIC",
+      "fees": "$30.67",
+      "opentime": "8:08 AM",
+      "closetime": "6:24 PM",
+      "patient": "Brena Littefair"
+   },
+   "SK66 8467 2981 9880 5163 9331": {
+      "speciality": "PEB^C",
+      "fees": "$59.09",
+      "opentime": "8:37 AM",
+      "closetime": "9:08 PM",
+      "patient": "Engelbert Caswall"
+   },
+   "NO06 2125 4077 429": {
+      "speciality": "BML^I",
+      "fees": "$39.44",
+      "opentime": "9:19 AM",
+      "closetime": "6:23 PM",
+      "patient": "Frannie Heggie"
+   },
+   "FR18 0034 5702 09FK NYIP O8KE U80": {
+      "speciality": "SKX",
+      "fees": "$35.32",
+      "opentime": "8:30 AM",
+      "closetime": "9:18 PM",
+      "patient": "Crystie Huegett"
+   },
+   "FR95 0471 7642 87OD 8MYD CCYM Q85": {
+      "speciality": "DDBI",
+      "fees": "$88.39",
+      "opentime": "8:29 AM",
+      "closetime": "7:30 PM",
+      "patient": "Nina Avieson"
+   },
+   "KW28 QQQG IJMS OURK 1RVJ MRYU STBL LH": {
+      "speciality": "STI.WS.B",
+      "fees": "$67.74",
+      "opentime": "8:14 AM",
+      "closetime": "9:25 PM",
+      "patient": "Aura Greig"
+   },
+   "FR54 9588 3524 29DJ NFI8 CYIT X50": {
+      "speciality": "WPZ",
+      "fees": "$56.44",
+      "opentime": "8:38 AM",
+      "closetime": "7:17 PM",
+      "patient": "Henka Eades"
+   },
+   "FR12 9425 9477 41OR BLRL FDHR 078": {
+      "speciality": "SLCT",
+      "fees": "$83.16",
+      "opentime": "8:20 AM",
+      "closetime": "10:08 PM",
+      "patient": "Marita Spearing"
+   },
+   "MR13 5111 6050 6725 4254 0455 403": {
+      "speciality": "DATA",
+      "fees": "$54.95",
+      "opentime": "8:32 AM",
+      "closetime": "7:11 PM",
+      "patient": "Rustin Wychard"
+   },
+   "MC73 9880 5112 50CS ZI5F E1VN H65": {
+      "speciality": "TRMB",
+      "fees": "$44.46",
+      "opentime": "9:54 AM",
+      "closetime": "10:20 PM",
+      "patient": "Patrick MattiCCI"
+   },
+   "FR04 5504 3388 73ZH EG1S IUAA C52": {
+      "speciality": "SCE^F",
+      "fees": "$47.15",
+      "opentime": "8:33 AM",
+      "closetime": "10:24 PM",
+      "patient": "Yasmin Domerq"
+   },
+   "SA32 11RO X7EN VXA0 JJ3C 3GV6": {
+      "speciality": "DWFI",
+      "fees": "$38.82",
+      "opentime": "9:52 AM",
+      "closetime": "10:20 PM",
+      "patient": "Douglas Hayball"
+   },
+   "MK17 290J NVAO RA4K X86": {
+      "speciality": "MARA",
+      "fees": "$79.35",
+      "opentime": "8:53 AM",
+      "closetime": "8:06 PM",
+      "patient": "Marney Van der Veldt"
+   },
+   "GB14 HYQB 3866 4610 1435 60": {
+      "speciality": "CSBK",
+      "fees": "$63.41",
+      "opentime": "8:08 AM",
+      "closetime": "7:15 PM",
+      "patient": "Christy Kures"
+   },
+   "HU95 0672 9909 6840 0307 4441 4361": {
+      "speciality": "AMRI",
+      "fees": "$73.80",
+      "opentime": "9:26 AM",
+      "closetime": "8:54 PM",
+      "patient": "Shalne Farn"
+   },
+   "IS36 6090 5832 1224 5429 7508 86": {
+      "speciality": "HFBL",
+      "fees": "$52.76",
+      "opentime": "9:35 AM",
+      "closetime": "9:19 PM",
+      "patient": "Josias Lettington"
+   },
+   "AZ12 VHDV SI7W PRR7 8WXD YAJB EIFR": {
+      "speciality": "UBNT",
+      "fees": "$92.63",
+      "opentime": "8:04 AM",
+      "closetime": "10:29 PM",
+      "patient": "Gaelan Infante"
+   },
+   "SK60 6900 4377 5100 7061 5117": {
+      "speciality": "DRAD",
+      "fees": "$87.14",
+      "opentime": "9:57 AM",
+      "closetime": "10:37 PM",
+      "patient": "Adora Dunnan"
+   },
+   "FR73 8691 5470 14IF CAFL HEFE M95": {
+      "speciality": "CHI",
+      "fees": "$70.35",
+      "opentime": "9:30 AM",
+      "closetime": "9:38 PM",
+      "patient": "Kit Soggee"
+   },
+   "FR73 8667 1666 56DQ XIUV XIGN J08": {
+      "speciality": "DHR",
+      "fees": "$93.30",
+      "opentime": "8:17 AM",
+      "closetime": "10:08 PM",
+      "patient": "Tallie Keynd"
+   },
+   "BE10 9104 2560 2263": {
+      "speciality": "MTRX",
+      "fees": "$59.85",
+      "opentime": "9:21 AM",
+      "closetime": "6:41 PM",
+      "patient": "Gabe Danielsson"
+   },
+   "ME72 7835 0526 5903 5108 50": {
+      "speciality": "MANT",
+      "fees": "$34.23",
+      "opentime": "9:16 AM",
+      "closetime": "9:44 PM",
+      "patient": "Britni Garrigan"
+   },
+   "GI81 XYGX 4IUI NR2A 86Q6 IOQ": {
+      "speciality": "DSPG",
+      "fees": "$73.07",
+      "opentime": "8:22 AM",
+      "closetime": "8:51 PM",
+      "patient": "Sonny Shenton"
+   },
+   "IL64 7176 9527 2187 6060 451": {
+      "speciality": "BCC",
+      "fees": "$64.30",
+      "opentime": "8:22 AM",
+      "closetime": "10:17 PM",
+      "patient": "Norton Horning"
+   },
+   "FR66 1109 0593 79VL YW6E T2SS X98": {
+      "speciality": "SHSP",
+      "fees": "$74.49",
+      "opentime": "8:06 AM",
+      "closetime": "8:02 PM",
+      "patient": "Geraldine O'Flannery"
+   },
+   "RO21 XXIZ OLLL JDBL YN3I SYHD": {
+      "speciality": "WR",
+      "fees": "$60.50",
+      "opentime": "8:18 AM",
+      "closetime": "6:31 PM",
+      "patient": "Riane Dreini"
+   },
+   "LU51 111E 8MIR 6PDR EHUJ": {
+      "speciality": "PAY",
+      "fees": "$33.57",
+      "opentime": "9:17 AM",
+      "closetime": "6:47 PM",
+      "patient": "Fancie Cogzell"
+   },
+   "FR60 3423 4204 81TY 04QJ UJCB Q94": {
+      "speciality": "SLNOW",
+      "fees": "$46.87",
+      "opentime": "9:53 AM",
+      "closetime": "8:59 PM",
+      "patient": "Trix Semrad"
+   },
+   "BA42 0222 2544 4514 6288": {
+      "speciality": "OSG",
+      "fees": "$97.62",
+      "opentime": "9:20 AM",
+      "closetime": "10:10 PM",
+      "patient": "Francois Shippard"
+   },
+   "SE14 0167 6254 3120 6857 0679": {
+      "speciality": "CMC",
+      "fees": "$96.63",
+      "opentime": "8:22 AM",
+      "closetime": "10:56 PM",
+      "patient": "Saundra Rawsthorne"
+   },
+   "CH62 5792 6AUG BMRK 5BED 3": {
+      "speciality": "VVUS",
+      "fees": "$89.93",
+      "opentime": "8:26 AM",
+      "closetime": "7:02 PM",
+      "patient": "Stefan Gawthorpe"
+   },
+   "PT94 4943 2543 7832 1432 7655 9": {
+      "speciality": "STKL",
+      "fees": "$88.81",
+      "opentime": "9:42 AM",
+      "closetime": "7:25 PM",
+      "patient": "Karrah Tanser"
+   },
+   "FR45 5279 3951 3374 4XYN L6CX Z43": {
+      "speciality": "DOW",
+      "fees": "$81.33",
+      "opentime": "8:50 AM",
+      "closetime": "6:58 PM",
+      "patient": "Missie Garcia"
+   },
+   "FR13 6503 0826 84T8 KG4M NTYJ W47": {
+      "speciality": "NAN",
+      "fees": "$70.26",
+      "opentime": "9:50 AM",
+      "closetime": "7:15 PM",
+      "patient": "Zebadiah Waylett"
+   },
+   "NO40 7890 6014 498": {
+      "speciality": "ARKR",
+      "fees": "$69.29",
+      "opentime": "8:15 AM",
+      "closetime": "10:47 PM",
+      "patient": "Gardiner Tattersdill"
+   },
+   "NL80 QJDL 0765 9677 68": {
+      "speciality": "AMRN",
+      "fees": "$82.89",
+      "opentime": "8:59 AM",
+      "closetime": "10:57 PM",
+      "patient": "Armin Tace"
+   },
+   "IL30 8063 1409 1440 8356 203": {
+      "speciality": "PG",
+      "fees": "$30.98",
+      "opentime": "8:54 AM",
+      "closetime": "7:12 PM",
+      "patient": "Artair Whife"
+   },
+   "FR85 1221 7629 20OS TQ2X 6VOQ P51": {
+      "speciality": "NAVG",
+      "fees": "$34.35",
+      "opentime": "8:39 AM",
+      "closetime": "6:31 PM",
+      "patient": "Jimmy Blesdill"
+   },
+   "FR86 3906 3959 31MP ATQT WPFX 328": {
+      "speciality": "OVBC",
+      "fees": "$82.24",
+      "opentime": "9:12 AM",
+      "closetime": "6:44 PM",
+      "patient": "Pattie McQuilliam"
+   },
+   "GE09 CD76 8249 6483 5689 62": {
+      "speciality": "NVFY",
+      "fees": "$33.13",
+      "opentime": "9:39 AM",
+      "closetime": "7:02 PM",
+      "patient": "Jilli Imloch"
+   },
+   "FR98 1051 9424 63OM UZ0S 0K9G O55": {
+      "speciality": "QTM",
+      "fees": "$74.17",
+      "opentime": "9:49 AM",
+      "closetime": "6:36 PM",
+      "patient": "Lamont Kanzler"
+   },
+   "GE79 XF20 4233 3255 9339 03": {
+      "speciality": "BLVDU",
+      "fees": "$92.09",
+      "opentime": "9:53 AM",
+      "closetime": "7:40 PM",
+      "patient": "Kenna Counihan"
+   },
+   "GB50 QLIJ 3007 1119 7116 76": {
+      "speciality": "MUR",
+      "fees": "$82.42",
+      "opentime": "8:20 AM",
+      "closetime": "8:20 PM",
+      "patient": "Oswell Longland"
+   },
+   "MT31 YUQQ 6679 1HE8 JPJX HH4K YE30 GBX": {
+      "speciality": "LWAY",
+      "fees": "$35.34",
+      "opentime": "8:13 AM",
+      "closetime": "8:54 PM",
+      "patient": "Moishe Halifax"
+   },
+   "SM21 N602 9359 263I KUXZ GLQL HEL": {
+      "speciality": "NCIT",
+      "fees": "$92.95",
+      "opentime": "8:19 AM",
+      "closetime": "9:43 PM",
+      "patient": "Morrie Stanhope"
+   },
+   "LI96 1509 1QGM FPMQ JJLW N": {
+      "speciality": "BSF",
+      "fees": "$61.46",
+      "opentime": "9:10 AM",
+      "closetime": "7:04 PM",
+      "patient": "Katherine Pealing"
+   },
+   "DE38 7142 1490 9617 0860 12": {
+      "speciality": "UNT",
+      "fees": "$68.89",
+      "opentime": "9:09 AM",
+      "closetime": "10:32 PM",
+      "patient": "Nerita Marham"
+   },
+   "LV71 XEVM DJNR ZKZ2 EKIK U": {
+      "speciality": "PVBC",
+      "fees": "$53.53",
+      "opentime": "8:04 AM",
+      "closetime": "9:25 PM",
+      "patient": "Odey Keener"
+   },
+   "GB13 XTKG 5310 5619 8539 43": {
+      "speciality": "CTSH",
+      "fees": "$65.77",
+      "opentime": "9:54 AM",
+      "closetime": "7:21 PM",
+      "patient": "Chandra Marians"
+   },
+   "MU79 JHTG 5532 3615 8948 8694 403M QW": {
+      "speciality": "ITIC",
+      "fees": "$69.15",
+      "opentime": "9:53 AM",
+      "closetime": "10:23 PM",
+      "patient": "Sigvard Folker"
+   },
+   "IS29 8846 2351 8539 3543 3578 76": {
+      "speciality": "HPJ",
+      "fees": "$98.39",
+      "opentime": "8:09 AM",
+      "closetime": "7:49 PM",
+      "patient": "Wilmette Freestone"
+   },
+   "GL97 4672 1937 4332 53": {
+      "speciality": "KTWO",
+      "fees": "$93.25",
+      "opentime": "8:33 AM",
+      "closetime": "6:48 PM",
+      "patient": "Iago Gilvear"
+   },
+   "SK97 1236 8651 3525 6682 5185": {
+      "speciality": "FSV",
+      "fees": "$94.33",
+      "opentime": "9:52 AM",
+      "closetime": "9:42 PM",
+      "patient": "Harcourt Sneesby"
+   },
+   "FR79 2726 8969 744R ZDLY K11Z 362": {
+      "speciality": "SNGX",
+      "fees": "$68.38",
+      "opentime": "9:34 AM",
+      "closetime": "6:41 PM",
+      "patient": "Timothy Berzen"
+   },
+   "BE79 0315 3541 4052": {
+      "speciality": "CHH",
+      "fees": "$78.25",
+      "opentime": "8:24 AM",
+      "closetime": "6:26 PM",
+      "patient": "Ayn Mulgrew"
+   },
+   "PT28 4443 6732 8744 4029 3767 0": {
+      "speciality": "BYD",
+      "fees": "$80.58",
+      "opentime": "9:21 AM",
+      "closetime": "9:44 PM",
+      "patient": "Carlin Emery"
+   },
+   "FR65 5207 9457 05QZ FYJP GFHL P13": {
+      "speciality": "GSHTU",
+      "fees": "$59.32",
+      "opentime": "9:22 AM",
+      "closetime": "10:46 PM",
+      "patient": "Isa Deery"
+   },
+   "DO38 ORF2 5855 8807 1844 2359 5795": {
+      "speciality": "SKYS",
+      "fees": "$86.46",
+      "opentime": "8:41 AM",
+      "closetime": "10:10 PM",
+      "patient": "Hastings Sallnow"
+   },
+   "GL54 0679 5314 7153 36": {
+      "speciality": "ALNY",
+      "fees": "$31.21",
+      "opentime": "9:31 AM",
+      "closetime": "7:26 PM",
+      "patient": "Ruby Pyford"
+   },
+   "BA06 6798 9314 0576 7847": {
+      "speciality": "BKH",
+      "fees": "$42.61",
+      "opentime": "8:08 AM",
+      "closetime": "9:34 PM",
+      "patient": "Zackariah Hassekl"
+   },
+   "SE66 9150 9478 6953 3226 0866": {
+      "speciality": "BOKF",
+      "fees": "$78.01",
+      "opentime": "9:24 AM",
+      "closetime": "6:10 PM",
+      "patient": "Rudolfo Bassano"
+   },
+   "MU83 GLLI 4086 2165 9566 6695 181M AX": {
+      "speciality": "BVXV",
+      "fees": "$60.18",
+      "opentime": "9:32 AM",
+      "closetime": "9:36 PM",
+      "patient": "Kailey Van der Son"
+   },
+   "FR68 3570 4384 24OP JSSG Y3EY P05": {
+      "speciality": "VMBS",
+      "fees": "$66.53",
+      "opentime": "8:29 AM",
+      "closetime": "6:53 PM",
+      "patient": "Dani Meriguet"
+   },
+   "MT69 IKND 3319 7IOT I6A1 G728 WY7R OFY": {
+      "speciality": "MASI",
+      "fees": "$30.74",
+      "opentime": "8:18 AM",
+      "closetime": "6:41 PM",
+      "patient": "Erhard De Domenicis"
+   },
+   "FR13 0163 3197 678C 0OOI YLRZ O95": {
+      "speciality": "VIIZ",
+      "fees": "$62.10",
+      "opentime": "8:20 AM",
+      "closetime": "10:23 PM",
+      "patient": "Kym Gribbon"
+   },
+   "BA62 4098 7238 0504 3250": {
+      "speciality": "GLADO",
+      "fees": "$31.12",
+      "opentime": "9:34 AM",
+      "closetime": "10:36 PM",
+      "patient": "Fonz McGawn"
+   },
+   "LU98 9062 YPFH YY9L LG83": {
+      "speciality": "ALLE",
+      "fees": "$35.90",
+      "opentime": "9:33 AM",
+      "closetime": "8:57 PM",
+      "patient": "Nicky Oglethorpe"
+   },
+   "GL81 3934 5435 2154 98": {
+      "speciality": "HYLS",
+      "fees": "$30.08",
+      "opentime": "8:29 AM",
+      "closetime": "6:37 PM",
+      "patient": "Karim Genty"
+   },
+   "BR83 7606 8556 7691 5393 6762 185F B": {
+      "speciality": "ONSIW",
+      "fees": "$69.37",
+      "opentime": "9:30 AM",
+      "closetime": "9:35 PM",
+      "patient": "Geoffry Longbone"
+   },
+   "FR92 5062 7987 58SD 5IMM GMRK X50": {
+      "speciality": "PRIM",
+      "fees": "$79.46",
+      "opentime": "9:22 AM",
+      "closetime": "7:31 PM",
+      "patient": "Vin Abba"
+   },
+   "DO61 Q3NZ 2643 0651 4152 0894 9233": {
+      "speciality": "PACW",
+      "fees": "$71.66",
+      "opentime": "9:57 AM",
+      "closetime": "6:15 PM",
+      "patient": "Margarita Madden"
+   },
+   "DK31 4223 0634 9024 73": {
+      "speciality": "ARNA",
+      "fees": "$75.03",
+      "opentime": "9:29 AM",
+      "closetime": "9:22 PM",
+      "patient": "Roby Vaneschi"
+   },
+   "MT81 AKDZ 5257 7YHS 9W8D XRRK NKKO DY8": {
+      "speciality": "ORN",
+      "fees": "$91.94",
+      "opentime": "9:05 AM",
+      "closetime": "8:05 PM",
+      "patient": "Casper Endley"
+   },
+   "IL71 4712 2523 2287 0277 551": {
+      "speciality": "GXP^B",
+      "fees": "$54.37",
+      "opentime": "8:47 AM",
+      "closetime": "10:05 PM",
+      "patient": "Sean Manon"
+   },
+   "RS88 2830 4494 8438 8372 07": {
+      "speciality": "WD",
+      "fees": "$98.03",
+      "opentime": "8:22 AM",
+      "closetime": "6:54 PM",
+      "patient": "Christin Ruxton"
+   },
+   "MK09 404Q GJY3 UP6H P32": {
+      "speciality": "TPZ",
+      "fees": "$82.60",
+      "opentime": "9:00 AM",
+      "closetime": "7:05 PM",
+      "patient": "Knox Beiderbeck"
+   },
+   "CZ76 3968 8766 0524 4076 6305": {
+      "speciality": "VECO",
+      "fees": "$67.36",
+      "opentime": "8:49 AM",
+      "closetime": "9:41 PM",
+      "patient": "Tarra Gillie"
+   },
+   "LB27 6564 B4UK ZMER MMCQ DEYT XKZ0": {
+      "speciality": "UCFC",
+      "fees": "$69.91",
+      "opentime": "8:24 AM",
+      "closetime": "10:39 PM",
+      "patient": "Joana Moncaster"
+   },
+   "FR30 8600 7835 08E3 4YEB MTSX 834": {
+      "speciality": "MPX",
+      "fees": "$65.96",
+      "opentime": "9:02 AM",
+      "closetime": "7:33 PM",
+      "patient": "Rockey Walicki"
+   },
+   "ES31 5415 5285 2082 4962 9616": {
+      "speciality": "SHOO",
+      "fees": "$34.69",
+      "opentime": "9:47 AM",
+      "closetime": "6:44 PM",
+      "patient": "Corinna Sneesby"
+   },
+   "LT88 3981 4623 6400 8470": {
+      "speciality": "CFMS",
+      "fees": "$99.21",
+      "opentime": "8:27 AM",
+      "closetime": "9:14 PM",
+      "patient": "Andi MacLise"
+   },
+   "BR91 1609 6854 2419 5474 0630 677S A": {
+      "speciality": "ETB",
+      "fees": "$58.62",
+      "opentime": "8:05 AM",
+      "closetime": "10:02 PM",
+      "patient": "Marco Manhood"
+   },
+   "FR84 5463 7111 84DS UBHF 72MP Q56": {
+      "speciality": "R",
+      "fees": "$81.85",
+      "opentime": "8:01 AM",
+      "closetime": "7:38 PM",
+      "patient": "Fae Buntin"
+   },
+   "SI02 8052 0848 5562 132": {
+      "speciality": "CPF",
+      "fees": "$33.97",
+      "opentime": "8:30 AM",
+      "closetime": "6:56 PM",
+      "patient": "Rafaelia Millsap"
+   },
+   "CH51 5286 9IUL CYYE 3XSZ A": {
+      "speciality": "GLOP^A",
+      "fees": "$54.24",
+      "opentime": "8:20 AM",
+      "closetime": "10:54 PM",
+      "patient": "Justin Jerdan"
+   },
+   "LB15 9996 7ZBB AQRS 3QA3 DKOG O4OV": {
+      "speciality": "CHSCM",
+      "fees": "$79.77",
+      "opentime": "9:02 AM",
+      "closetime": "7:32 PM",
+      "patient": "Ermentrude Adie"
+   },
+   "MR45 9183 3976 4685 2996 7290 157": {
+      "speciality": "GDEN",
+      "fees": "$53.54",
+      "opentime": "9:08 AM",
+      "closetime": "7:27 PM",
+      "patient": "Caritta Perett"
+   },
+   "FR51 1548 6976 28YF JCID I41E N09": {
+      "speciality": "BOOM",
+      "fees": "$60.39",
+      "opentime": "8:41 AM",
+      "closetime": "9:54 PM",
+      "patient": "Karia Ortiga"
+   },
+   "FR63 1262 4469 43FY WMMO GIAP X53": {
+      "speciality": "LBRDA",
+      "fees": "$80.32",
+      "opentime": "8:51 AM",
+      "closetime": "8:04 PM",
+      "patient": "Graig Dewerson"
+   },
+   "AZ62 RWRA 8HOV GXYW VNLR UGOO FG9C": {
+      "speciality": "CACI",
+      "fees": "$60.26",
+      "opentime": "9:13 AM",
+      "closetime": "7:16 PM",
+      "patient": "Muhammad Jubert"
+   },
+   "NL37 VONW 8160 1412 25": {
+      "speciality": "CLRO",
+      "fees": "$31.92",
+      "opentime": "8:54 AM",
+      "closetime": "10:13 PM",
+      "patient": "Sascha Carde"
+   },
+   "PK86 UAXC VZAR VVEK UHE5 OC9O": {
+      "speciality": "VNO^K",
+      "fees": "$57.62",
+      "opentime": "9:29 AM",
+      "closetime": "6:47 PM",
+      "patient": "Lewiss Drysdall"
+   },
+   "IS29 6712 2368 4426 9926 3604 66": {
+      "speciality": "FCFP",
+      "fees": "$43.50",
+      "opentime": "9:39 AM",
+      "closetime": "9:04 PM",
+      "patient": "Ulric Darwin"
+   },
+   "MC23 2304 0283 34FB YB1V 4RHG T36": {
+      "speciality": "RETA",
+      "fees": "$71.83",
+      "opentime": "9:14 AM",
+      "closetime": "8:14 PM",
+      "patient": "Shawn Wingfield"
+   },
+   "DK95 9335 8023 3615 08": {
+      "speciality": "RHT",
+      "fees": "$50.05",
+      "opentime": "8:13 AM",
+      "closetime": "10:39 PM",
+      "patient": "Laural Gepson"
+   },
+   "MD59 OI1P 6XOU 5FJG FWM9 M89E": {
+      "speciality": "MORN",
+      "fees": "$86.72",
+      "opentime": "9:32 AM",
+      "closetime": "8:30 PM",
+      "patient": "Hazlett Machen"
+   },
+   "IE86 BZZG 8585 3629 3093 31": {
+      "speciality": "LITB",
+      "fees": "$78.30",
+      "opentime": "8:01 AM",
+      "closetime": "9:54 PM",
+      "patient": "Malina Pellissier"
+   },
+   "GR92 5176 318E YESG CDMT PRYE QLL": {
+      "speciality": "ROP",
+      "fees": "$35.04",
+      "opentime": "9:35 AM",
+      "closetime": "9:55 PM",
+      "patient": "Roxy Bernier"
+   },
+   "SM07 T365 9521 5710 6ZG4 DWDL 8NX": {
+      "speciality": "NEWTZ",
+      "fees": "$53.97",
+      "opentime": "8:00 AM",
+      "closetime": "7:05 PM",
+      "patient": "Ingar Pummery"
+   },
+   "HR39 6233 9900 3064 1238 4": {
+      "speciality": "WMIH",
+      "fees": "$81.68",
+      "opentime": "9:46 AM",
+      "closetime": "8:59 PM",
+      "patient": "Wit Pedrocchi"
+   },
+   "AD12 3969 3653 9D4M CINT RSAO": {
+      "speciality": "ASH",
+      "fees": "$95.02",
+      "opentime": "9:33 AM",
+      "closetime": "6:50 PM",
+      "patient": "Cherish Ebbles"
+   },
+   "RO13 QDLG E9BZ CDME WSOJ NAFA": {
+      "speciality": "SCSS",
+      "fees": "$51.34",
+      "opentime": "9:54 AM",
+      "closetime": "7:56 PM",
+      "patient": "Rufus Kohnert"
+   },
+   "LI51 6783 6H3K OO50 0S5D O": {
+      "speciality": "CPLA",
+      "fees": "$89.14",
+      "opentime": "8:25 AM",
+      "closetime": "10:12 PM",
+      "patient": "Wendi Faiers"
+   },
+   "IT39 R047 6159 795D S5UN KTZB LI3": {
+      "speciality": "DTV",
+      "fees": "$85.94",
+      "opentime": "9:15 AM",
+      "closetime": "10:09 PM",
+      "patient": "Frank Duckerin"
+   },
+   "ES74 6147 2801 3372 5560 2424": {
+      "speciality": "BBT^F",
+      "fees": "$70.23",
+      "opentime": "8:52 AM",
+      "closetime": "10:23 PM",
+      "patient": "Garland Guitonneau"
+   },
+   "FR74 5189 1667 639J M663 NGT6 A74": {
+      "speciality": "FND",
+      "fees": "$48.25",
+      "opentime": "9:36 AM",
+      "closetime": "7:40 PM",
+      "patient": "Saxon Izon"
+   },
+   "FR24 4112 6399 71YW BUCI TENX F19": {
+      "speciality": "SMBK",
+      "fees": "$37.27",
+      "opentime": "8:01 AM",
+      "closetime": "10:48 PM",
+      "patient": "Chery Cardello"
+   },
+   "KW17 HSBQ VFVU G1YA MZTB 2RCP VLLS AE": {
+      "speciality": "SDRL",
+      "fees": "$77.80",
+      "opentime": "8:04 AM",
+      "closetime": "7:05 PM",
+      "patient": "Carney Chatband"
+   },
+   "NL97 YQOM 1461 1572 36": {
+      "speciality": "TDJ",
+      "fees": "$52.99",
+      "opentime": "8:19 AM",
+      "closetime": "8:52 PM",
+      "patient": "Etan Penrose"
+   },
+   "IT52 S839 5898 792M BAID NSKL RSE": {
+      "speciality": "CHEK",
+      "fees": "$80.49",
+      "opentime": "8:09 AM",
+      "closetime": "8:23 PM",
+      "patient": "Robinson Ellerton"
+   },
+   "BA87 5980 5547 9421 1502": {
+      "speciality": "GAM",
+      "fees": "$95.92",
+      "opentime": "9:13 AM",
+      "closetime": "9:59 PM",
+      "patient": "Iain Binding"
+   },
+   "FR26 0522 8573 78B8 AZVJ LVSG G07": {
+      "speciality": "KSS",
+      "fees": "$43.35",
+      "opentime": "8:47 AM",
+      "closetime": "6:40 PM",
+      "patient": "Anna-maria Charley"
+   },
+   "LI84 8126 9A2N FNSO DW9J W": {
+      "speciality": "TGTX",
+      "fees": "$51.30",
+      "opentime": "9:31 AM",
+      "closetime": "6:22 PM",
+      "patient": "Audie Heater"
+   },
+   "IE24 XXUY 6196 5773 2282 56": {
+      "speciality": "PRI",
+      "fees": "$68.59",
+      "opentime": "8:48 AM",
+      "closetime": "10:47 PM",
+      "patient": "Ring Blest"
+   },
+   "LU07 317M FRZM KNPW NBOD": {
+      "speciality": "WK",
+      "fees": "$65.32",
+      "opentime": "8:33 AM",
+      "closetime": "8:02 PM",
+      "patient": "Lindy Elwin"
+   },
+   "KZ79 2549 JOU7 VJGD 3SKV": {
+      "speciality": "NWPX",
+      "fees": "$49.53",
+      "opentime": "8:52 AM",
+      "closetime": "6:46 PM",
+      "patient": "Angy Petry"
+   },
+   "NO90 0813 4708 256": {
+      "speciality": "XHR",
+      "fees": "$34.38",
+      "opentime": "9:43 AM",
+      "closetime": "10:51 PM",
+      "patient": "Dan Gotts"
+   },
+   "RS98 9569 0091 9704 2464 59": {
+      "speciality": "FPXI",
+      "fees": "$51.58",
+      "opentime": "9:29 AM",
+      "closetime": "10:00 PM",
+      "patient": "Tristan Hubane"
+   },
+   "CH26 6759 4NST G9Q2 PWBO F": {
+      "speciality": "PVG",
+      "fees": "$95.26",
+      "opentime": "9:23 AM",
+      "closetime": "7:47 PM",
+      "patient": "Peder Giacomo"
+   },
+   "CH83 5591 6K5T DQKZ 7TV0 2": {
+      "speciality": "VVV",
+      "fees": "$52.64",
+      "opentime": "8:24 AM",
+      "closetime": "8:25 PM",
+      "patient": "Drusie Senior"
+   },
+   "VG80 EIEG 2150 7459 2858 4497": {
+      "speciality": "CIA",
+      "fees": "$43.09",
+      "opentime": "9:45 AM",
+      "closetime": "9:59 PM",
+      "patient": "Doug Ducaen"
+   },
+   "CY95 7244 1378 JWMI NEST FVF2 QKZP": {
+      "speciality": "OPK",
+      "fees": "$74.84",
+      "opentime": "9:06 AM",
+      "closetime": "8:04 PM",
+      "patient": "Auberon Boylin"
+   },
+   "AE82 5471 4499 6487 8750 455": {
+      "speciality": "ALL^F",
+      "fees": "$45.31",
+      "opentime": "8:14 AM",
+      "closetime": "7:01 PM",
+      "patient": "Lauren Duff"
+   },
+   "RS31 9075 9395 1853 2543 86": {
+      "speciality": "AEH",
+      "fees": "$90.63",
+      "opentime": "8:55 AM",
+      "closetime": "7:12 PM",
+      "patient": "Adey Ollie"
+   },
+   "DK57 0938 4708 1209 06": {
+      "speciality": "PRTS",
+      "fees": "$71.15",
+      "opentime": "9:43 AM",
+      "closetime": "9:56 PM",
+      "patient": "Care Malling"
+   },
+   "ME61 9949 4510 1690 9557 04": {
+      "speciality": "MEOH",
+      "fees": "$71.82",
+      "opentime": "8:37 AM",
+      "closetime": "9:03 PM",
+      "patient": "Nolana Croutear"
+   },
+   "FO14 8810 4991 9240 72": {
+      "speciality": "CVTI",
+      "fees": "$80.05",
+      "opentime": "8:44 AM",
+      "closetime": "10:13 PM",
+      "patient": "Madge Copperwaite"
+   },
+   "KW75 UBRW MVCX 77HU CMPK KKBW U188 MA": {
+      "speciality": "ETV",
+      "fees": "$41.51",
+      "opentime": "9:38 AM",
+      "closetime": "8:47 PM",
+      "patient": "Gaylor Edeson"
+   },
+   "FR12 0993 0093 55MC CBRW HNYU 430": {
+      "speciality": "CEL",
+      "fees": "$42.52",
+      "opentime": "8:07 AM",
+      "closetime": "6:07 PM",
+      "patient": "Shela Schaumann"
+   },
+   "MC81 1010 1191 323H SVBI ZM1G U51": {
+      "speciality": "HBI",
+      "fees": "$36.48",
+      "opentime": "8:15 AM",
+      "closetime": "10:29 PM",
+      "patient": "Vanni Lounds"
+   },
+   "FR08 1679 9930 73TB CQWJ JTO0 R14": {
+      "speciality": "HAFC",
+      "fees": "$37.66",
+      "opentime": "8:00 AM",
+      "closetime": "6:56 PM",
+      "patient": "Licha Klee"
+   },
+   "BE86 2132 6885 4745": {
+      "speciality": "AGNCB",
+      "fees": "$87.42",
+      "opentime": "8:23 AM",
+      "closetime": "8:42 PM",
+      "patient": "Selinda Venditto"
+   },
+   "BH68 BSCG YE0S K12X O3GR SJ": {
+      "speciality": "CYHHZ",
+      "fees": "$32.61",
+      "opentime": "9:36 AM",
+      "closetime": "8:11 PM",
+      "patient": "Edyth Radbourne"
+   },
+   "LU53 462F UL8L I19T 7VSU": {
+      "speciality": "PSA^A",
+      "fees": "$62.77",
+      "opentime": "9:47 AM",
+      "closetime": "6:04 PM",
+      "patient": "Sadella Blaze"
+   },
+   "DE14 7034 0535 3655 8528 37": {
+      "speciality": "MSCI",
+      "fees": "$51.50",
+      "opentime": "8:58 AM",
+      "closetime": "8:50 PM",
+      "patient": "Aron Betke"
+   },
+   "FO52 0515 1234 3683 56": {
+      "speciality": "GWRE",
+      "fees": "$90.48",
+      "opentime": "8:55 AM",
+      "closetime": "7:58 PM",
+      "patient": "Lenora Cuesta"
+   },
+   "RS20 3320 9956 4194 3957 65": {
+      "speciality": "ARIS",
+      "fees": "$64.23",
+      "opentime": "9:06 AM",
+      "closetime": "9:35 PM",
+      "patient": "Ross Phillpotts"
+   },
+   "NL39 PWAP 4919 8233 74": {
+      "speciality": "KN",
+      "fees": "$88.27",
+      "opentime": "8:13 AM",
+      "closetime": "6:21 PM",
+      "patient": "Ethelda Sandeland"
+   },
+   "LV58 HNOZ VAMS S9ZB OJQU D": {
+      "speciality": "MARA",
+      "fees": "$62.65",
+      "opentime": "8:41 AM",
+      "closetime": "6:55 PM",
+      "patient": "Rossy Stonelake"
+   },
+   "CR32 5869 9171 6059 2088 1": {
+      "speciality": "EYES",
+      "fees": "$48.86",
+      "opentime": "8:48 AM",
+      "closetime": "7:20 PM",
+      "patient": "Shannon Buckles"
+   },
+   "MK56 297Z 9RIV EPB3 787": {
+      "speciality": "UG",
+      "fees": "$89.82",
+      "opentime": "8:03 AM",
+      "closetime": "7:51 PM",
+      "patient": "Avril Fulford"
+   },
+   "IT04 V242 7183 1311 DUQV 6RFD TVH": {
+      "speciality": "SPLS",
+      "fees": "$43.17",
+      "opentime": "8:58 AM",
+      "closetime": "9:36 PM",
+      "patient": "Gillian Le Frank"
+   },
+   "NO02 3723 2928 338": {
+      "speciality": "full_name",
+      "fees": "$78.77",
+      "opentime": "9:27 AM",
+      "closetime": "8:21 PM",
+      "patient": "Cami Poulglais"
+   },
+   "CR85 7629 1280 2275 6878 4": {
+      "speciality": "TITN",
+      "fees": "$85.86",
+      "opentime": "9:56 AM",
+      "closetime": "10:19 PM",
+      "patient": "Theresa Lambarton"
+   },
+   "SK57 6151 5178 3397 7742 6215": {
+      "speciality": "LAKE",
+      "fees": "$65.56",
+      "opentime": "9:02 AM",
+      "closetime": "8:31 PM",
+      "patient": "Giuseppe Bernardt"
+   },
+   "BG28 KFOL 5640 95ZE C0AZ PL": {
+      "speciality": "PAVM",
+      "fees": "$63.21",
+      "opentime": "9:13 AM",
+      "closetime": "10:31 PM",
+      "patient": "Broderic Tomkies"
+   },
+   "KZ17 168H UH4T JYBN OPCZ": {
+      "speciality": "CW",
+      "fees": "$46.53",
+      "opentime": "9:51 AM",
+      "closetime": "6:53 PM",
+      "patient": "Erin Rudsdale"
+   },
+   "MR34 5327 5632 6913 3097 6773 594": {
+      "speciality": "AEB",
+      "fees": "$38.07",
+      "opentime": "8:38 AM",
+      "closetime": "6:08 PM",
+      "patient": "Ellyn Boase"
+   },
+   "GE52 CE87 7611 2334 6779 45": {
+      "speciality": "TCBI",
+      "fees": "$80.12",
+      "opentime": "9:32 AM",
+      "closetime": "7:36 PM",
+      "patient": "Kyrstin D'Antuoni"
+   },
+   "CY26 9877 3722 XQSP 6OXY GOCR VYTL": {
+      "speciality": "STRL",
+      "fees": "$60.29",
+      "opentime": "9:15 AM",
+      "closetime": "10:15 PM",
+      "patient": "Berenice Dubose"
+   },
+   "CH95 4751 41UQ FAVS Y0X8 P": {
+      "speciality": "ARRS",
+      "fees": "$97.24",
+      "opentime": "9:24 AM",
+      "closetime": "6:46 PM",
+      "patient": "Milty Mathis"
+   },
+   "LI22 0851 2CX5 NJK2 RWYE N": {
+      "speciality": "DEO",
+      "fees": "$68.13",
+      "opentime": "8:10 AM",
+      "closetime": "10:53 PM",
+      "patient": "Ryley Ferneley"
+   },
+   "EE47 2923 5540 0211 4736": {
+      "speciality": "ATV",
+      "fees": "$38.12",
+      "opentime": "9:05 AM",
+      "closetime": "7:28 PM",
+      "patient": "Mallissa Gowlett"
+   },
+   "GT26 DZGH C7G5 ETYO JJXR JH3K 8XJL": {
+      "speciality": "DWAC",
+      "fees": "$50.78",
+      "opentime": "9:31 AM",
+      "closetime": "9:35 PM",
+      "patient": "Ollie Beardon"
+   },
+   "SA77 15YL KL3R FI4Q MHCP PEW6": {
+      "speciality": "AXAR",
+      "fees": "$41.86",
+      "opentime": "8:40 AM",
+      "closetime": "6:17 PM",
+      "patient": "Fremont Marchington"
+   },
+   "CR60 9355 8717 1944 6500 7": {
+      "speciality": "WRB^C",
+      "fees": "$35.00",
+      "opentime": "9:36 AM",
+      "closetime": "7:01 PM",
+      "patient": "Abba Heibel"
+   },
+   "AZ96 OVAS RLDU N8W4 SQJC RK8M EU2P": {
+      "speciality": "NSH",
+      "fees": "$46.88",
+      "opentime": "8:16 AM",
+      "closetime": "6:53 PM",
+      "patient": "Maisey Anespie"
+   },
+   "TR70 8222 6GBA VXOS E3H8 F0G8 0B": {
+      "speciality": "ERIE",
+      "fees": "$77.95",
+      "opentime": "8:08 AM",
+      "closetime": "7:56 PM",
+      "patient": "Donella Swanne"
+   },
+   "PS64 JAUQ IQOO TBI8 IYMH OFKS RCGY O": {
+      "speciality": "MNTA",
+      "fees": "$45.02",
+      "opentime": "8:41 AM",
+      "closetime": "9:14 PM",
+      "patient": "Helenka Cousins"
+   },
+   "FR97 2310 7316 88JB FO6I O6RY G43": {
+      "speciality": "HBAN",
+      "fees": "$90.76",
+      "opentime": "9:27 AM",
+      "closetime": "6:10 PM",
+      "patient": "Devy Grissett"
+   },
+   "NO46 7808 8708 880": {
+      "speciality": "VKQ",
+      "fees": "$62.51",
+      "opentime": "9:21 AM",
+      "closetime": "7:48 PM",
+      "patient": "Carrol Rowe"
+   },
+   "IT71 L989 6427 857V QB45 ZKSR III": {
+      "speciality": "GAB^H",
+      "fees": "$65.65",
+      "opentime": "8:31 AM",
+      "closetime": "7:48 PM",
+      "patient": "Quinn Flacknoe"
+   },
+   "SM67 P461 7306 2168 AEWR M0M4 NC3": {
+      "speciality": "LGI",
+      "fees": "$72.94",
+      "opentime": "9:18 AM",
+      "closetime": "6:37 PM",
+      "patient": "Collette Martinello"
+   },
+   "HR64 8414 7969 4894 1985 3": {
+      "speciality": "EBMT",
+      "fees": "$68.96",
+      "opentime": "9:08 AM",
+      "closetime": "6:35 PM",
+      "patient": "Barbette Yetton"
+   },
+   "GB18 FCNA 1312 4682 6485 94": {
+      "speciality": "ENG",
+      "fees": "$33.68",
+      "opentime": "8:12 AM",
+      "closetime": "9:11 PM",
+      "patient": "Ellswerth Dobie"
+   },
+   "LI27 6488 5PQU 20JV YMPA 5": {
+      "speciality": "MUH",
+      "fees": "$50.26",
+      "opentime": "8:45 AM",
+      "closetime": "6:39 PM",
+      "patient": "Barrie Barrowcliff"
+   },
+   "LB05 7190 WDNU UQMF YYKC 3J8T XP2P": {
+      "speciality": "GNTX",
+      "fees": "$65.01",
+      "opentime": "8:26 AM",
+      "closetime": "7:57 PM",
+      "patient": "Adrien Silverson"
+   },
+   "SI42 8799 4381 5106 324": {
+      "speciality": "ACRX",
+      "fees": "$95.89",
+      "opentime": "9:32 AM",
+      "closetime": "9:00 PM",
+      "patient": "Robert Cheshire"
+   },
+   "TR69 0478 0TDD JLUZ PRXA IZZE 6L": {
+      "speciality": "GLOG",
+      "fees": "$67.06",
+      "opentime": "8:52 AM",
+      "closetime": "10:18 PM",
+      "patient": "Elly Shewry"
+   },
+   "FO34 8324 9697 2147 96": {
+      "speciality": "HCSG",
+      "fees": "$49.45",
+      "opentime": "9:24 AM",
+      "closetime": "8:51 PM",
+      "patient": "Ally Erington"
+   },
+   "BR97 7996 5030 5302 9717 9894 859E S": {
+      "speciality": "WCC",
+      "fees": "$89.13",
+      "opentime": "8:18 AM",
+      "closetime": "9:41 PM",
+      "patient": "Dermot Blackler"
+   },
+   "RO35 XCZH ATZW LZAZ HG9P 4AGJ": {
+      "speciality": "CYBR",
+      "fees": "$50.31",
+      "opentime": "8:54 AM",
+      "closetime": "9:50 PM",
+      "patient": "Mildrid Kuhle"
+   },
+   "FR39 6224 4273 07LF VXUB SYZQ R98": {
+      "speciality": "LVLT",
+      "fees": "$35.49",
+      "opentime": "8:26 AM",
+      "closetime": "6:23 PM",
+      "patient": "Janeen Ryam"
+   },
+   "BA52 1828 4156 1170 8953": {
+      "speciality": "CLNT",
+      "fees": "$92.10",
+      "opentime": "8:32 AM",
+      "closetime": "7:51 PM",
+      "patient": "Tiphany Philipet"
+   },
+   "SM96 J212 4877 541U RVA1 XPTH CDK": {
+      "speciality": "WPG^I",
+      "fees": "$73.71",
+      "opentime": "9:31 AM",
+      "closetime": "9:15 PM",
+      "patient": "Lennard Dalton"
+   },
+   "KW95 YNXG YVGH K9IF A8DW 1NBC K4NN GY": {
+      "speciality": "GNCA",
+      "fees": "$59.71",
+      "opentime": "9:20 AM",
+      "closetime": "10:54 PM",
+      "patient": "Zebulon Burmingham"
+   },
+   "MC45 7907 8481 08OQ 9PZJ ATBX T05": {
+      "speciality": "ICON",
+      "fees": "$73.90",
+      "opentime": "9:38 AM",
+      "closetime": "7:48 PM",
+      "patient": "Simonette Corten"
+   },
+   "SK56 5236 5592 1986 6100 9148": {
+      "speciality": "BNJ",
+      "fees": "$38.05",
+      "opentime": "9:24 AM",
+      "closetime": "10:14 PM",
+      "patient": "Ileane Riep"
+   },
+   "FR59 4704 0458 77UP MRIN AP26 R37": {
+      "speciality": "ADUS",
+      "fees": "$77.82",
+      "opentime": "8:48 AM",
+      "closetime": "6:26 PM",
+      "patient": "Alexandre Huggins"
+   },
+   "AT72 8249 9702 5250 6706": {
+      "speciality": "LLEX",
+      "fees": "$82.84",
+      "opentime": "8:21 AM",
+      "closetime": "10:49 PM",
+      "patient": "Christa Carr"
+   },
+   "FR89 0266 6883 889K ARXC 44WJ Y70": {
+      "speciality": "FAST",
+      "fees": "$38.97",
+      "opentime": "9:02 AM",
+      "closetime": "7:03 PM",
+      "patient": "Edy Osgarby"
+   },
+   "TN26 4607 2154 8314 2352 8855": {
+      "speciality": "OMN",
+      "fees": "$80.60",
+      "opentime": "8:59 AM",
+      "closetime": "6:10 PM",
+      "patient": "Penelope Boffin"
+   },
+   "MR97 7440 9338 8745 9032 2312 775": {
+      "speciality": "PHI",
+      "fees": "$76.16",
+      "opentime": "9:11 AM",
+      "closetime": "6:12 PM",
+      "patient": "Cindie Rosenstock"
+   },
+   "SE88 5085 7392 2322 4707 7475": {
+      "speciality": "LAYN",
+      "fees": "$70.37",
+      "opentime": "9:43 AM",
+      "closetime": "7:03 PM",
+      "patient": "Charleen Copcutt"
+   },
+   "BE97 2036 2587 7937": {
+      "speciality": "STLRU",
+      "fees": "$94.76",
+      "opentime": "8:48 AM",
+      "closetime": "6:01 PM",
+      "patient": "Julina Milne"
+   },
+   "LU61 614B PFZB HGMW KJA3": {
+      "speciality": "SPKEP",
+      "fees": "$89.01",
+      "opentime": "9:40 AM",
+      "closetime": "8:20 PM",
+      "patient": "Egbert Biaggioli"
+   },
+   "LV90 VHHE BLS3 YNC4 2NIV D": {
+      "speciality": "COHR",
+      "fees": "$62.36",
+      "opentime": "8:46 AM",
+      "closetime": "10:38 PM",
+      "patient": "Dolley Benjefield"
+   },
+   "MU57 XJFZ 1395 7343 7155 4746 971U VG": {
+      "speciality": "DL",
+      "fees": "$37.15",
+      "opentime": "9:18 AM",
+      "closetime": "6:39 PM",
+      "patient": "Emmie Sharpley"
+   },
+   "FR84 1221 2175 06VQ YTYS AKYF R08": {
+      "speciality": "QUMU",
+      "fees": "$67.34",
+      "opentime": "8:26 AM",
+      "closetime": "7:18 PM",
+      "patient": "Arlen Cannaway"
+   },
+   "FO61 1314 7131 1093 93": {
+      "speciality": "IMI",
+      "fees": "$35.46",
+      "opentime": "8:46 AM",
+      "closetime": "10:27 PM",
+      "patient": "Claybourne Nutten"
+   },
+   "NL29 CXJF 7540 2519 93": {
+      "speciality": "NBN",
+      "fees": "$62.94",
+      "opentime": "9:07 AM",
+      "closetime": "9:00 PM",
+      "patient": "Ainslie Le Surf"
+   },
+   "GT18 3MFJ QQ82 JUMU 3NXO LAWV QLM4": {
+      "speciality": "BOSC",
+      "fees": "$80.70",
+      "opentime": "8:41 AM",
+      "closetime": "6:07 PM",
+      "patient": "Johanna Lemm"
+   },
+   "KZ07 858H VNOM 5RWC JKVS": {
+      "speciality": "NMK^B",
+      "fees": "$61.46",
+      "opentime": "9:07 AM",
+      "closetime": "7:47 PM",
+      "patient": "Parker Robison"
+   },
+   "DO09 DY5O 9969 5419 3190 3831 5184": {
+      "speciality": "OMAA",
+      "fees": "$75.34",
+      "opentime": "9:29 AM",
+      "closetime": "8:04 PM",
+      "patient": "Cart Bardsley"
+   },
+   "FO03 8380 9998 2573 48": {
+      "speciality": "AMPH",
+      "fees": "$48.10",
+      "opentime": "8:33 AM",
+      "closetime": "8:54 PM",
+      "patient": "Brett Regi"
+   },
+   "GI96 EYSF VRCJ G81S OP2E OXY": {
+      "speciality": "ZAYO",
+      "fees": "$53.63",
+      "opentime": "9:19 AM",
+      "closetime": "7:04 PM",
+      "patient": "Kendricks Malitrott"
+   },
+   "IE04 OMNM 9062 1519 0606 34": {
+      "speciality": "SHLD",
+      "fees": "$97.43",
+      "opentime": "9:31 AM",
+      "closetime": "10:51 PM",
+      "patient": "Clerkclaude Hellmer"
+   },
+   "GR76 4874 082B GYXH N4AS Y2CB P8T": {
+      "speciality": "GNL",
+      "fees": "$95.78",
+      "opentime": "9:30 AM",
+      "closetime": "9:15 PM",
+      "patient": "Daphna Shearwood"
+   },
+   "ME36 1220 9585 0568 3115 02": {
+      "speciality": "ATVI",
+      "fees": "$92.97",
+      "opentime": "9:55 AM",
+      "closetime": "9:41 PM",
+      "patient": "Xenos Snowding"
+   },
+   "AL42 7418 5445 QHIG XYRW BHSE COHO": {
+      "speciality": "USAP",
+      "fees": "$83.80",
+      "opentime": "8:50 AM",
+      "closetime": "10:42 PM",
+      "patient": "Morrie Sheerin"
+   },
+   "ES34 4544 1728 7903 1900 4760": {
+      "speciality": "GUT",
+      "fees": "$50.91",
+      "opentime": "9:55 AM",
+      "closetime": "10:27 PM",
+      "patient": "Jo Crace"
+   },
+   "BR18 6696 7766 0714 7039 6509 268P B": {
+      "speciality": "SCL",
+      "fees": "$96.79",
+      "opentime": "9:55 AM",
+      "closetime": "8:12 PM",
+      "patient": "Mort Skatcher"
+   },
+   "FO82 8441 5814 9232 67": {
+      "speciality": "UBS",
+      "fees": "$31.28",
+      "opentime": "8:17 AM",
+      "closetime": "9:16 PM",
+      "patient": "Arabella Whiston"
+   },
+   "HR07 8340 0207 9651 6806 3": {
+      "speciality": "POLA",
+      "fees": "$78.72",
+      "opentime": "9:54 AM",
+      "closetime": "9:13 PM",
+      "patient": "Nikola Degnen"
+   },
+   "FR89 1756 6328 278N WTYO UP0J K05": {
+      "speciality": "AXS^E",
+      "fees": "$79.88",
+      "opentime": "8:18 AM",
+      "closetime": "6:00 PM",
+      "patient": "Alisha Chellam"
+   },
+   "SE60 9869 1273 7952 2774 9077": {
+      "speciality": "DTEA",
+      "fees": "$90.35",
+      "opentime": "8:16 AM",
+      "closetime": "7:58 PM",
+      "patient": "Clarence Dickin"
+   },
+   "LU24 6950 B1HZ 6INO GQ8E": {
+      "speciality": "CORE",
+      "fees": "$62.08",
+      "opentime": "9:31 AM",
+      "closetime": "6:36 PM",
+      "patient": "Brianna Perfitt"
+   },
+   "TR37 6228 4RGB LPYG 2I7H OFUX WW": {
+      "speciality": "HBMD",
+      "fees": "$42.93",
+      "opentime": "8:29 AM",
+      "closetime": "9:51 PM",
+      "patient": "Galven Crocombe"
+   },
+   "AE11 4235 4314 1353 0657 030": {
+      "speciality": "GLAD",
+      "fees": "$52.82",
+      "opentime": "9:02 AM",
+      "closetime": "10:54 PM",
+      "patient": "Bryant Scarff"
+   },
+   "LT89 4889 3618 8252 8874": {
+      "speciality": "NXJ",
+      "fees": "$76.64",
+      "opentime": "9:30 AM",
+      "closetime": "8:36 PM",
+      "patient": "Robin Dunnion"
+   },
+   "KZ11 030O NKF7 4YSK RTAU": {
+      "speciality": "CUNB",
+      "fees": "$72.55",
+      "opentime": "8:08 AM",
+      "closetime": "7:10 PM",
+      "patient": "Joyan Dawdry"
+   },
+   "SA25 909L VMGW KPAC JURC OUZB": {
+      "speciality": "ECR",
+      "fees": "$66.71",
+      "opentime": "8:48 AM",
+      "closetime": "7:17 PM",
+      "patient": "Odo Mughal"
+   },
+   "BG65 EHDL 7178 38RI DLLS BV": {
+      "speciality": "PGNX",
+      "fees": "$36.47",
+      "opentime": "9:31 AM",
+      "closetime": "8:26 PM",
+      "patient": "Arnold Trimmill"
+   },
+   "FR04 4077 9112 923L SB1G JUZ2 J04": {
+      "speciality": "SMMF",
+      "fees": "$73.01",
+      "opentime": "8:15 AM",
+      "closetime": "7:46 PM",
+      "patient": "Cate Cannaway"
+   },
+   "DE10 1479 8857 5727 3150 02": {
+      "speciality": "AXAS",
+      "fees": "$52.77",
+      "opentime": "8:15 AM",
+      "closetime": "8:39 PM",
+      "patient": "Cordie Triggol"
+   },
+   "PK09 PGSZ M4RY U232 Y10F W04O": {
+      "speciality": "KKR",
+      "fees": "$66.64",
+      "opentime": "9:54 AM",
+      "closetime": "10:59 PM",
+      "patient": "Evin Bette"
+   },
+   "FR59 7677 2126 53A7 DZGX CVXT C40": {
+      "speciality": "PFMT",
+      "fees": "$49.90",
+      "opentime": "9:00 AM",
+      "closetime": "9:45 PM",
+      "patient": "Rani Kinze"
+   },
+   "GI02 MCIY GWOY QRO2 APGP BTH": {
+      "speciality": "CAA",
+      "fees": "$81.82",
+      "opentime": "9:50 AM",
+      "closetime": "10:18 PM",
+      "patient": "Bridie Jimson"
+   },
+   "NL33 NBUP 4887 1337 49": {
+      "speciality": "NDLS",
+      "fees": "$47.39",
+      "opentime": "9:48 AM",
+      "closetime": "10:05 PM",
+      "patient": "Nelie Bullocke"
+   },
+   "MR30 1962 0745 8585 4739 6217 682": {
+      "speciality": "KRC^H",
+      "fees": "$80.60",
+      "opentime": "8:54 AM",
+      "closetime": "8:15 PM",
+      "patient": "Evangelin Pashler"
+   },
+   "CH59 5137 9RAS 2OCD JHZC Y": {
+      "speciality": "RNP",
+      "fees": "$66.77",
+      "opentime": "8:33 AM",
+      "closetime": "8:19 PM",
+      "patient": "Emilio Jilliss"
+   },
+   "PS75 LVDM E60M GPIZ BFCH GKOF LZZ3 Z": {
+      "speciality": "AKR",
+      "fees": "$40.81",
+      "opentime": "9:14 AM",
+      "closetime": "8:30 PM",
+      "patient": "Merridie Longhorne"
+   },
+   "EE25 5567 6477 8374 9621": {
+      "speciality": "SUP",
+      "fees": "$46.65",
+      "opentime": "9:57 AM",
+      "closetime": "9:47 PM",
+      "patient": "Andras Amis"
+   },
+   "MU73 OBAM 1286 5922 6361 6986 660F JK": {
+      "speciality": "K",
+      "fees": "$87.41",
+      "opentime": "9:35 AM",
+      "closetime": "7:35 PM",
+      "patient": "Flin Fairpool"
+   },
+   "DE52 7614 2139 0432 9583 63": {
+      "speciality": "MNI",
+      "fees": "$43.73",
+      "opentime": "9:03 AM",
+      "closetime": "9:14 PM",
+      "patient": "Aloin Corbridge"
+   },
+   "NO46 3375 2317 771": {
+      "speciality": "CE",
+      "fees": "$32.09",
+      "opentime": "8:58 AM",
+      "closetime": "8:06 PM",
+      "patient": "Kahlil Russan"
+   },
+   "VG32 YOKY 7968 0846 2578 8516": {
+      "speciality": "DOV",
+      "fees": "$94.10",
+      "opentime": "8:03 AM",
+      "closetime": "10:35 PM",
+      "patient": "Oberon Blanchflower"
+   },
+   "DE62 4878 7000 1275 2454 97": {
+      "speciality": "NBB",
+      "fees": "$88.99",
+      "opentime": "9:13 AM",
+      "closetime": "9:19 PM",
+      "patient": "Hatty Garrique"
+   },
+   "PS55 WMLP BHQY GPEY GI5D 8OJU XU5V X": {
+      "speciality": "GPIC",
+      "fees": "$70.77",
+      "opentime": "9:46 AM",
+      "closetime": "10:37 PM",
+      "patient": "Neill McCathy"
+   },
+   "NL53 OOQW 1695 2434 14": {
+      "speciality": "SMBC",
+      "fees": "$73.70",
+      "opentime": "8:29 AM",
+      "closetime": "8:02 PM",
+      "patient": "Fania Burger"
+   },
+   "HR95 6284 2680 9871 5784 5": {
+      "speciality": "RBS^S",
+      "fees": "$71.89",
+      "opentime": "8:31 AM",
+      "closetime": "8:15 PM",
+      "patient": "Erie Whapham"
+   },
+   "PT73 4377 0502 2479 8419 3987 1": {
+      "speciality": "TTI",
+      "fees": "$82.14",
+      "opentime": "9:27 AM",
+      "closetime": "10:14 PM",
+      "patient": "Talyah Billin"
+   },
+   "LB51 4084 1FTF YTFB TIGZ FBEW HDOP": {
+      "speciality": "FPH",
+      "fees": "$48.54",
+      "opentime": "8:32 AM",
+      "closetime": "10:02 PM",
+      "patient": "Cody Gribbell"
+   },
+   "FR45 9573 3772 11X8 U7FQ KFXE M32": {
+      "speciality": "RSO^C",
+      "fees": "$91.75",
+      "opentime": "8:15 AM",
+      "closetime": "7:20 PM",
+      "patient": "Gard Blatchford"
+   },
+   "DK48 1619 7932 1166 63": {
+      "speciality": "MATR",
+      "fees": "$90.80",
+      "opentime": "8:18 AM",
+      "closetime": "7:58 PM",
+      "patient": "Killy Breinlein"
+   },
+   "TN21 5764 8209 9498 3130 3266": {
+      "speciality": "GTYHW",
+      "fees": "$84.75",
+      "opentime": "8:47 AM",
+      "closetime": "10:43 PM",
+      "patient": "Khalil Lidster"
+   },
+   "GT85 KYKB KCQ0 3QY1 UW9Z RRB8 DEU0": {
+      "speciality": "SFUN",
+      "fees": "$85.65",
+      "opentime": "9:24 AM",
+      "closetime": "9:33 PM",
+      "patient": "Deana Doerr"
+   },
+   "SI87 8603 6621 9326 959": {
+      "speciality": "RPD",
+      "fees": "$37.11",
+      "opentime": "9:30 AM",
+      "closetime": "9:26 PM",
+      "patient": "Rae Sopper"
+   },
+   "LU47 568P EBJJ MBNI ACSQ": {
+      "speciality": "VER",
+      "fees": "$37.00",
+      "opentime": "8:10 AM",
+      "closetime": "10:20 PM",
+      "patient": "Anne-marie Blockley"
+   },
+   "MT07 KGMR 7097 0N7G ZIPU FEHB X9RJ MPU": {
+      "speciality": "CIZ",
+      "fees": "$92.68",
+      "opentime": "9:20 AM",
+      "closetime": "10:22 PM",
+      "patient": "Kellen Joselevitz"
+   },
+   "IL07 5460 0597 9701 2660 476": {
+      "speciality": "ELJ",
+      "fees": "$95.44",
+      "opentime": "8:36 AM",
+      "closetime": "9:53 PM",
+      "patient": "Tomi Rissen"
+   },
+   "FR93 8505 7466 95YQ YGES OETC 158": {
+      "speciality": "SMSI",
+      "fees": "$40.83",
+      "opentime": "8:37 AM",
+      "closetime": "10:36 PM",
+      "patient": "Odey Djurdjevic"
+   },
+   "AT03 4265 3586 6149 5268": {
+      "speciality": "CG",
+      "fees": "$64.77",
+      "opentime": "8:40 AM",
+      "closetime": "8:14 PM",
+      "patient": "Imogen Triggel"
+   },
+   "AL19 6187 5598 8RVR EBFP X60A OCYG": {
+      "speciality": "VSTO",
+      "fees": "$56.06",
+      "opentime": "9:11 AM",
+      "closetime": "7:19 PM",
+      "patient": "Jeralee Neilan"
+   },
+   "SA23 76K5 VJP3 HI3S J6TA 51SX": {
+      "speciality": "TIL",
+      "fees": "$55.22",
+      "opentime": "9:39 AM",
+      "closetime": "6:20 PM",
+      "patient": "Vin Pittoli"
+   },
+   "IS52 9739 4788 2094 6749 3311 19": {
+      "speciality": "CNS",
+      "fees": "$37.36",
+      "opentime": "9:18 AM",
+      "closetime": "7:45 PM",
+      "patient": "Giacomo Ketton"
+   },
+   "FR21 4965 2360 61QD PEN0 ZXZH U69": {
+      "speciality": "ETB",
+      "fees": "$46.77",
+      "opentime": "8:39 AM",
+      "closetime": "10:39 PM",
+      "patient": "Doralynn Gissing"
+   },
+   "FR71 9603 9226 94BV JEE1 1LLI Q05": {
+      "speciality": "TFX",
+      "fees": "$64.82",
+      "opentime": "8:58 AM",
+      "closetime": "8:22 PM",
+      "patient": "Stefa Dumbleton"
+   },
+   "AZ18 WZQA LMVP GPXL 8WYF 9DBU VBHQ": {
+      "speciality": "FN",
+      "fees": "$87.68",
+      "opentime": "9:58 AM",
+      "closetime": "10:02 PM",
+      "patient": "Laryssa Gladman"
+   },
+   "RO95 ZGVW XEU4 QGSY KD2Y 8HNK": {
+      "speciality": "VEON",
+      "fees": "$56.57",
+      "opentime": "8:22 AM",
+      "closetime": "7:28 PM",
+      "patient": "Dayle Anselmi"
+   },
+   "SI12 5093 8620 4390 592": {
+      "speciality": "MRCC",
+      "fees": "$57.38",
+      "opentime": "8:09 AM",
+      "closetime": "7:20 PM",
+      "patient": "Michal Willford"
+   },
+   "PT54 7897 5458 6907 4734 9061 7": {
+      "speciality": "WING",
+      "fees": "$73.81",
+      "opentime": "9:53 AM",
+      "closetime": "8:14 PM",
+      "patient": "Lexi Kobierzycki"
+   },
+   "RO47 BTUV V5UY LCAZ OIBM JIHW": {
+      "speciality": "NKSH",
+      "fees": "$82.74",
+      "opentime": "8:55 AM",
+      "closetime": "6:05 PM",
+      "patient": "Sergent Charlesworth"
+   },
+   "CH47 1836 1H1M KRC6 EWX5 O": {
+      "speciality": "AKP",
+      "fees": "$50.23",
+      "opentime": "8:56 AM",
+      "closetime": "7:25 PM",
+      "patient": "Christophorus Drogan"
+   },
+   "LT38 9083 4266 8558 1609": {
+      "speciality": "GOGL",
+      "fees": "$68.30",
+      "opentime": "8:53 AM",
+      "closetime": "8:20 PM",
+      "patient": "Coop David"
+   },
+   "GR03 5251 681L YBTV J1FW SC26 GNC": {
+      "speciality": "KSU",
+      "fees": "$71.35",
+      "opentime": "8:36 AM",
+      "closetime": "10:33 PM",
+      "patient": "Marjie Freund"
+   },
+   "IT09 Y474 5070 4995 R2H5 DXE1 CIH": {
+      "speciality": "JHX",
+      "fees": "$93.09",
+      "opentime": "9:09 AM",
+      "closetime": "8:12 PM",
+      "patient": "Sarajane Tefft"
+   },
+   "BR08 5316 7742 2490 5971 3182 562V Q": {
+      "speciality": "NVDQ",
+      "fees": "$39.11",
+      "opentime": "9:48 AM",
+      "closetime": "8:19 PM",
+      "patient": "Jesselyn Bottrell"
+   },
+   "HR25 2548 8791 6478 9391 6": {
+      "speciality": "ETN",
+      "fees": "$64.51",
+      "opentime": "8:52 AM",
+      "closetime": "10:43 PM",
+      "patient": "Cirillo Salway"
+   },
+   "FR24 8211 0968 48RW LFVP NM9M E03": {
+      "speciality": "WRE",
+      "fees": "$64.31",
+      "opentime": "8:24 AM",
+      "closetime": "9:06 PM",
+      "patient": "Bride Tampen"
+   },
+   "EE71 0909 8699 6987 3675": {
+      "speciality": "MFA",
+      "fees": "$34.42",
+      "opentime": "8:46 AM",
+      "closetime": "10:58 PM",
+      "patient": "Marketa Gaynor"
+   },
+   "KW90 OCHU QQNC EBTI FONL UMC4 FLFS YX": {
+      "speciality": "SYNL",
+      "fees": "$58.81",
+      "opentime": "9:33 AM",
+      "closetime": "10:02 PM",
+      "patient": "Jon Secretan"
+   },
+   "RS70 2710 2055 3297 2468 63": {
+      "speciality": "SBH",
+      "fees": "$39.33",
+      "opentime": "8:44 AM",
+      "closetime": "8:08 PM",
+      "patient": "Octavia Ruddin"
+   },
+   "IE07 GVTK 7792 4107 2852 51": {
+      "speciality": "COWNL",
+      "fees": "$63.72",
+      "opentime": "8:04 AM",
+      "closetime": "9:08 PM",
+      "patient": "Basia Stare"
+   },
+   "MR41 3526 4677 0875 1878 2958 847": {
+      "speciality": "BEAT",
+      "fees": "$64.69",
+      "opentime": "8:27 AM",
+      "closetime": "7:09 PM",
+      "patient": "Cullen Attryde"
+   },
+   "TR55 6948 4OYF SAAM NOU6 UGKO X1": {
+      "speciality": "EAGL",
+      "fees": "$49.34",
+      "opentime": "8:43 AM",
+      "closetime": "7:50 PM",
+      "patient": "Clemence Coyle"
+   },
+   "LI57 6915 5GNY U97F 3YNT 8": {
+      "speciality": "MHNB.CL",
+      "fees": "$54.87",
+      "opentime": "9:06 AM",
+      "closetime": "10:04 PM",
+      "patient": "Cesare Postance"
+   },
+   "SM05 C704 4144 591I K2YJ EDLX UUH": {
+      "speciality": "WTFCM",
+      "fees": "$75.36",
+      "opentime": "9:31 AM",
+      "closetime": "7:29 PM",
+      "patient": "Janet Everett"
+   },
+   "ME19 6843 9518 8558 4185 53": {
+      "speciality": "NUW",
+      "fees": "$39.82",
+      "opentime": "8:57 AM",
+      "closetime": "7:04 PM",
+      "patient": "Emelita Albone"
+   },
+   "KW57 DXLW Z6H1 8YZO 9OCG DGXP 9EXR KR": {
+      "speciality": "FBHS",
+      "fees": "$90.60",
+      "opentime": "8:14 AM",
+      "closetime": "10:33 PM",
+      "patient": "Red Vassman"
+   },
+   "TR09 3516 2HUP INX6 YMMP 7F6J XB": {
+      "speciality": "CSWI",
+      "fees": "$49.96",
+      "opentime": "9:39 AM",
+      "closetime": "10:27 PM",
+      "patient": "Clint Fruish"
+   },
+   "MU70 RPYP 1410 6932 1698 2695 811W BQ": {
+      "speciality": "ABBV",
+      "fees": "$84.07",
+      "opentime": "8:42 AM",
+      "closetime": "6:59 PM",
+      "patient": "Fredric Lambart"
+   },
+   "DE84 6697 6861 3658 7987 79": {
+      "speciality": "ATKR",
+      "fees": "$77.27",
+      "opentime": "9:15 AM",
+      "closetime": "9:56 PM",
+      "patient": "Griselda Cheer"
+   },
+   "FR69 1999 6169 80YZ RCJV GWXJ 788": {
+      "speciality": "KTWO",
+      "fees": "$46.98",
+      "opentime": "9:31 AM",
+      "closetime": "10:09 PM",
+      "patient": "Caspar Shervil"
+   },
+   "MD05 YPFM RSWN UO7E H7WL CXS9": {
+      "speciality": "JHG",
+      "fees": "$78.06",
+      "opentime": "8:12 AM",
+      "closetime": "10:23 PM",
+      "patient": "Arnoldo Whistan"
+   },
+   "GI50 YCEN XPRI T8QK L8CN 3UH": {
+      "speciality": "NXTM",
+      "fees": "$73.23",
+      "opentime": "9:36 AM",
+      "closetime": "6:46 PM",
+      "patient": "Darlleen Bifield"
+   },
+   "DE54 1862 1792 9233 7617 44": {
+      "speciality": "TRUE",
+      "fees": "$32.72",
+      "opentime": "8:52 AM",
+      "closetime": "8:30 PM",
+      "patient": "Renie McAree"
+   },
+   "MT55 RFDN 9716 4EJ2 C6DJ KTOF CJMO ITH": {
+      "speciality": "SHBI",
+      "fees": "$90.26",
+      "opentime": "9:53 AM",
+      "closetime": "9:55 PM",
+      "patient": "Basilius Hankey"
+   },
+   "MC10 3452 9898 37RA HXIQ WUKS D85": {
+      "speciality": "ERJ",
+      "fees": "$89.63",
+      "opentime": "8:00 AM",
+      "closetime": "6:07 PM",
+      "patient": "Hillary Melby"
+   },
+   "IL42 6948 0850 6266 7970 983": {
+      "speciality": "BXMT",
+      "fees": "$68.58",
+      "opentime": "8:57 AM",
+      "closetime": "7:14 PM",
+      "patient": "Jamesy Stapleton"
+   },
+   "MT14 JGZI 6997 3PG1 WBUW IV6Z TJ6M RW4": {
+      "speciality": "BOH",
+      "fees": "$43.63",
+      "opentime": "9:46 AM",
+      "closetime": "6:17 PM",
+      "patient": "Marianna Otley"
+   },
+   "PL27 0486 2831 4922 3305 6396 3402": {
+      "speciality": "ANDAR",
+      "fees": "$33.22",
+      "opentime": "8:58 AM",
+      "closetime": "9:34 PM",
+      "patient": "Emalia Powling"
+   },
+   "GI06 PKJE T0UI GPO3 URXU UV3": {
+      "speciality": "EPR^C",
+      "fees": "$79.25",
+      "opentime": "9:38 AM",
+      "closetime": "10:12 PM",
+      "patient": "Milena Catherick"
+   },
+   "GE58 RU69 9078 6550 5535 08": {
+      "speciality": "STZ",
+      "fees": "$67.66",
+      "opentime": "8:52 AM",
+      "closetime": "7:35 PM",
+      "patient": "Paulina Ply"
+   },
+   "FR19 4948 9369 92WK 1UWS PRKX L35": {
+      "speciality": "TRNO^A.CL",
+      "fees": "$91.15",
+      "opentime": "8:14 AM",
+      "closetime": "9:58 PM",
+      "patient": "Si Roycroft"
+   },
+   "MK26 703B B2O1 VDDP L04": {
+      "speciality": "LECO",
+      "fees": "$69.74",
+      "opentime": "9:22 AM",
+      "closetime": "10:00 PM",
+      "patient": "Nonnah Pettersen"
+   },
+   "CY85 1385 3922 F8XV DBOM Y9IK IHQO": {
+      "speciality": "SVU",
+      "fees": "$88.78",
+      "opentime": "9:22 AM",
+      "closetime": "8:42 PM",
+      "patient": "Monique Corr"
+   },
+   "AZ52 UOSL PWYK BYZQ QSGV 93MN QOAQ": {
+      "speciality": "JAZZ",
+      "fees": "$78.90",
+      "opentime": "9:56 AM",
+      "closetime": "9:31 PM",
+      "patient": "Corella Rollings"
+   },
+   "FR93 0134 3887 416M A6UZ 4UDW H48": {
+      "speciality": "NEE^I",
+      "fees": "$37.76",
+      "opentime": "8:39 AM",
+      "closetime": "6:59 PM",
+      "patient": "Pierette Siehard"
+   },
+   "GE15 QR20 2805 5518 5232 13": {
+      "speciality": "RDVY",
+      "fees": "$38.65",
+      "opentime": "8:40 AM",
+      "closetime": "10:23 PM",
+      "patient": "Frasier Chavrin"
+   },
+   "DK32 4150 8078 2792 14": {
+      "speciality": "CELH",
+      "fees": "$57.14",
+      "opentime": "9:15 AM",
+      "closetime": "7:49 PM",
+      "patient": "Trevar Balogh"
+   },
+   "LT14 1811 8742 1634 4485": {
+      "speciality": "REIS",
+      "fees": "$83.99",
+      "opentime": "8:24 AM",
+      "closetime": "10:36 PM",
+      "patient": "Palm Isbell"
+   },
+   "IL33 5838 2734 1751 6132 254": {
+      "speciality": "MLI",
+      "fees": "$52.66",
+      "opentime": "8:37 AM",
+      "closetime": "6:29 PM",
+      "patient": "Belita Bowen"
+   },
+   "LU49 581C JRP1 AHNW HHOY": {
+      "speciality": "KIO",
+      "fees": "$34.42",
+      "opentime": "9:48 AM",
+      "closetime": "8:20 PM",
+      "patient": "Wittie Minillo"
+   },
+   "LI37 3808 8GTL 08J5 XTFK S": {
+      "speciality": "NTWK",
+      "fees": "$68.14",
+      "opentime": "9:28 AM",
+      "closetime": "6:05 PM",
+      "patient": "Kiel Barnby"
+   },
+   "FR03 5057 6257 97HH KOBT SKFN G99": {
+      "speciality": "CHU",
+      "fees": "$30.03",
+      "opentime": "9:16 AM",
+      "closetime": "6:13 PM",
+      "patient": "Aile Muller"
+   },
+   "DK58 6550 3994 6796 87": {
+      "speciality": "ACGLP",
+      "fees": "$97.90",
+      "opentime": "8:15 AM",
+      "closetime": "10:58 PM",
+      "patient": "Roxy Van Merwe"
+   },
+   "FR13 6059 5597 50IH XMWJ YHB0 G16": {
+      "speciality": "CVGI",
+      "fees": "$67.02",
+      "opentime": "8:13 AM",
+      "closetime": "8:18 PM",
+      "patient": "Rhody Honeywood"
+   },
+   "GL83 3818 5444 6908 68": {
+      "speciality": "ICHR",
+      "fees": "$60.95",
+      "opentime": "8:46 AM",
+      "closetime": "10:54 PM",
+      "patient": "Kile Guynemer"
+   },
+   "MK48 671W SVWY MZ12 K69": {
+      "speciality": "CRDT",
+      "fees": "$46.97",
+      "opentime": "8:21 AM",
+      "closetime": "9:24 PM",
+      "patient": "Chester Rains"
+   },
+   "AL33 0439 3675 M1FN 9BWK LSYR SZVH": {
+      "speciality": "JNCE",
+      "fees": "$60.40",
+      "opentime": "8:46 AM",
+      "closetime": "10:03 PM",
+      "patient": "Essa Moulden"
+   },
+   "BH48 ZRAB VF3L CEX3 VPQ5 4R": {
+      "speciality": "AMGN",
+      "fees": "$41.83",
+      "opentime": "9:14 AM",
+      "closetime": "10:56 PM",
+      "patient": "Leonerd Pitcaithley"
+   },
+   "LU08 096V EE6G RRAY D9KW": {
+      "speciality": "SSW^D",
+      "fees": "$60.47",
+      "opentime": "9:51 AM",
+      "closetime": "10:30 PM",
+      "patient": "Conrade Sargeaunt"
+   },
+   "FR56 6913 9200 73UR HT7B RKIJ C65": {
+      "speciality": "CLNS^B",
+      "fees": "$73.37",
+      "opentime": "9:43 AM",
+      "closetime": "7:35 PM",
+      "patient": "Emanuel Treece"
+   },
+   "SK63 0147 8049 7661 6320 3681": {
+      "speciality": "CFX",
+      "fees": "$31.79",
+      "opentime": "8:25 AM",
+      "closetime": "8:39 PM",
+      "patient": "Hanny Elmore"
+   },
+   "FR62 2706 4428 27ET 9OAM ZQBB P66": {
+      "speciality": "NVDQ",
+      "fees": "$95.27",
+      "opentime": "9:49 AM",
+      "closetime": "8:00 PM",
+      "patient": "Jacinthe Hoyle"
+   },
+   "GE59 KG72 5318 8509 9757 14": {
+      "speciality": "GJH",
+      "fees": "$96.31",
+      "opentime": "8:04 AM",
+      "closetime": "10:37 PM",
+      "patient": "Mervin Utley"
+   },
+   "ME73 4368 8014 9386 5482 98": {
+      "speciality": "TOPS",
+      "fees": "$51.44",
+      "opentime": "9:01 AM",
+      "closetime": "8:01 PM",
+      "patient": "Filmer Mourant"
+   },
+   "FR35 7401 1456 66AY TKCQ JGVF X32": {
+      "speciality": "EXXI",
+      "fees": "$40.98",
+      "opentime": "8:26 AM",
+      "closetime": "10:36 PM",
+      "patient": "Jock Spohrmann"
+   },
+   "ES77 5356 9707 7696 7687 5443": {
+      "speciality": "ADTN",
+      "fees": "$86.10",
+      "opentime": "9:53 AM",
+      "closetime": "6:17 PM",
+      "patient": "Kandy Dearnaley"
+   },
+   "FR26 0965 6249 74LD 8PSK QLDL D58": {
+      "speciality": "NSH",
+      "fees": "$59.57",
+      "opentime": "8:35 AM",
+      "closetime": "10:40 PM",
+      "patient": "Car Lonsbrough"
+   },
+   "FR23 9498 8100 05PA FV8I OVYS Q10": {
+      "speciality": "OLD",
+      "fees": "$50.38",
+      "opentime": "8:22 AM",
+      "closetime": "10:21 PM",
+      "patient": "Frazier O'Shea"
+   },
+   "LV82 WERB JGKB AW8L FXEX B": {
+      "speciality": "TORM          ",
+      "fees": "$48.66",
+      "opentime": "9:45 AM",
+      "closetime": "8:31 PM",
+      "patient": "Tedie Plowes"
+   },
+   "AE83 3268 2810 6481 8985 252": {
+      "speciality": "OKSB",
+      "fees": "$99.81",
+      "opentime": "9:57 AM",
+      "closetime": "8:19 PM",
+      "patient": "Drusi McMackin"
+   },
+   "IS62 3727 2897 1323 6412 9755 69": {
+      "speciality": "VRX",
+      "fees": "$59.27",
+      "opentime": "9:40 AM",
+      "closetime": "6:58 PM",
+      "patient": "Sheela Betts"
+   },
+   "DE09 2527 1627 9146 0101 46": {
+      "speciality": "ARGS",
+      "fees": "$66.46",
+      "opentime": "9:40 AM",
+      "closetime": "8:31 PM",
+      "patient": "Andrea Elverston"
+   },
+   "FR93 8318 8636 51FQ HAHE BNXP F80": {
+      "speciality": "MSFT",
+      "fees": "$48.07",
+      "opentime": "8:06 AM",
+      "closetime": "6:08 PM",
+      "patient": "Jemie Massei"
+   },
+   "FR12 9170 0622 18UK VJVO Q1VL F38": {
+      "speciality": "MSON",
+      "fees": "$71.17",
+      "opentime": "9:20 AM",
+      "closetime": "10:37 PM",
+      "patient": "Chris Winterburn"
+   },
+   "FR22 4444 0377 52FX 77IV QL1U F78": {
+      "speciality": "SOR",
+      "fees": "$98.21",
+      "opentime": "9:54 AM",
+      "closetime": "7:32 PM",
+      "patient": "Jaimie Boules"
+   },
+   "IT97 U352 5065 371P GCKT 8O8D CQJ": {
+      "speciality": "SKOR",
+      "fees": "$79.00",
+      "opentime": "8:11 AM",
+      "closetime": "6:25 PM",
+      "patient": "Annalise Weathey"
+   },
+   "MT32 UNIY 0639 4YCR VCMX 7JKN BTDK NSA": {
+      "speciality": "CUBI^F",
+      "fees": "$95.41",
+      "opentime": "9:59 AM",
+      "closetime": "8:05 PM",
+      "patient": "Kamila Noblet"
+   },
+   "FR33 5553 2292 00G1 WT0S X3SD G03": {
+      "speciality": "CERU",
+      "fees": "$68.98",
+      "opentime": "8:44 AM",
+      "closetime": "8:54 PM",
+      "patient": "Darcy Seal"
+   },
+   "LU26 237L Q9WN MHDK RL6X": {
+      "speciality": "WCST",
+      "fees": "$30.57",
+      "opentime": "9:51 AM",
+      "closetime": "7:28 PM",
+      "patient": "Fredric Swaite"
+   },
+   "FO03 5205 1282 3196 19": {
+      "speciality": "MHF",
+      "fees": "$77.65",
+      "opentime": "9:56 AM",
+      "closetime": "8:31 PM",
+      "patient": "Esma Fickling"
+   },
+   "CR92 3834 3528 7837 6849 1": {
+      "speciality": "ABX",
+      "fees": "$67.11",
+      "opentime": "8:22 AM",
+      "closetime": "8:05 PM",
+      "patient": "Corry McMeeking"
+   },
+   "FR88 6044 9815 10KD GNWY BOB1 G30": {
+      "speciality": "SSWN",
+      "fees": "$79.22",
+      "opentime": "9:59 AM",
+      "closetime": "10:41 PM",
+      "patient": "Pietra Cammish"
+   },
+   "FR96 0937 2348 7052 LDSX 8PYS C63": {
+      "speciality": "ORI",
+      "fees": "$40.13",
+      "opentime": "8:10 AM",
+      "closetime": "10:11 PM",
+      "patient": "Krystal Chapelhow"
+   },
+   "PL82 5742 3600 3575 5116 8220 2775": {
+      "speciality": "VAR",
+      "fees": "$42.28",
+      "opentime": "9:35 AM",
+      "closetime": "6:23 PM",
+      "patient": "Alica Ravillas"
+   },
+   "IS43 5002 4748 2877 2598 6701 09": {
+      "speciality": "WFC^R",
+      "fees": "$83.14",
+      "opentime": "9:06 AM",
+      "closetime": "6:19 PM",
+      "patient": "Wernher Packer"
+   },
+   "BR20 7498 9130 7730 1539 9604 818V H": {
+      "speciality": "VIRC",
+      "fees": "$41.25",
+      "opentime": "9:01 AM",
+      "closetime": "9:21 PM",
+      "patient": "Hollie Earland"
+   },
+   "LT28 4557 7607 9838 9192": {
+      "speciality": "FMCIR",
+      "fees": "$47.77",
+      "opentime": "8:18 AM",
+      "closetime": "6:41 PM",
+      "patient": "Batsheva Katte"
+   },
+   "FR15 9152 3207 67FZ QOVI OHUU T81": {
+      "speciality": "RKDA",
+      "fees": "$60.68",
+      "opentime": "8:34 AM",
+      "closetime": "9:05 PM",
+      "patient": "Yvonne Nansom"
+   },
+   "LV71 YFBH XVPW YDNK MIMW S": {
+      "speciality": "RNR^E",
+      "fees": "$99.96",
+      "opentime": "8:11 AM",
+      "closetime": "10:35 PM",
+      "patient": "Aggi Pifford"
+   },
+   "HU77 5357 8767 4087 4722 2794 4709": {
+      "speciality": "IFN",
+      "fees": "$46.01",
+      "opentime": "9:47 AM",
+      "closetime": "10:57 PM",
+      "patient": "Grover Nowakowski"
+   },
+   "KZ94 2145 BOTE T8YF BN2C": {
+      "speciality": "INSI",
+      "fees": "$30.56",
+      "opentime": "8:34 AM",
+      "closetime": "9:15 PM",
+      "patient": "Giuseppe Sidden"
+   },
+   "LV66 YAQY DGOJ X7DY E5QC M": {
+      "speciality": "RDC",
+      "fees": "$36.91",
+      "opentime": "8:06 AM",
+      "closetime": "8:52 PM",
+      "patient": "Rusty Nutley"
+   },
+   "GL08 4670 6847 7898 08": {
+      "speciality": "HTLF",
+      "fees": "$57.10",
+      "opentime": "9:28 AM",
+      "closetime": "6:17 PM",
+      "patient": "Sidoney Tourry"
+   },
+   "IT13 B607 1529 270A BMZC ZLH6 75Z": {
+      "speciality": "HTLD",
+      "fees": "$89.31",
+      "opentime": "9:31 AM",
+      "closetime": "6:16 PM",
+      "patient": "Kelcy Mulhall"
+   },
+   "SK77 0488 3900 8337 3104 8337": {
+      "speciality": "NYMX",
+      "fees": "$80.59",
+      "opentime": "8:01 AM",
+      "closetime": "9:36 PM",
+      "patient": "Lillian Camilleri"
+   },
+   "SI66 8408 0718 0694 927": {
+      "speciality": "PFK",
+      "fees": "$72.41",
+      "opentime": "9:57 AM",
+      "closetime": "9:09 PM",
+      "patient": "Ddene Doleman"
+   },
+   "MK76 965H CQHH 5WI3 H79": {
+      "speciality": "TMHC",
+      "fees": "$31.43",
+      "opentime": "9:03 AM",
+      "closetime": "10:23 PM",
+      "patient": "Emmalynn Ameer-Beg"
+   },
+   "CH93 5337 1RAN DNY8 N9II C": {
+      "speciality": "QHC",
+      "fees": "$84.83",
+      "opentime": "9:54 AM",
+      "closetime": "7:55 PM",
+      "patient": "Germana D'eye"
+   },
+   "GE49 FW52 0037 4056 0958 62": {
+      "speciality": "PH",
+      "fees": "$59.10",
+      "opentime": "9:02 AM",
+      "closetime": "9:42 PM",
+      "patient": "Delly Abelevitz"
+   },
+   "KW65 JTHN CT7R FB6A 4ZYE WLBN PXWH CD": {
+      "speciality": "PEY",
+      "fees": "$47.97",
+      "opentime": "9:50 AM",
+      "closetime": "7:16 PM",
+      "patient": "Antonin Pantry"
+   },
+   "BR52 2564 4843 4636 0630 2433 394W A": {
+      "speciality": "GTT",
+      "fees": "$88.44",
+      "opentime": "8:59 AM",
+      "closetime": "8:05 PM",
+      "patient": "Kizzee Defraine"
+   },
+   "MU93 MYMD 4661 1810 0336 0534 723Y IA": {
+      "speciality": "PKG",
+      "fees": "$97.56",
+      "opentime": "9:55 AM",
+      "closetime": "10:47 PM",
+      "patient": "Fredericka Mayoral"
+   },
+   "MU22 AQAS 5856 3859 4351 2628 551O LZ": {
+      "speciality": "ISRL",
+      "fees": "$77.93",
+      "opentime": "9:49 AM",
+      "closetime": "10:15 PM",
+      "patient": "Jodi Kelberer"
+   },
+   "FR06 6381 0508 42JS FMOW 0JHU 528": {
+      "speciality": "GRMN",
+      "fees": "$82.76",
+      "opentime": "8:50 AM",
+      "closetime": "7:04 PM",
+      "patient": "Conny Slegg"
+   },
+   "FR35 5028 1351 32QV D89O L1BW 800": {
+      "speciality": "MCR",
+      "fees": "$84.79",
+      "opentime": "8:17 AM",
+      "closetime": "6:17 PM",
+      "patient": "Jarad Ketch"
+   },
+   "BR80 7359 2147 1140 5060 5246 474X K": {
+      "speciality": "PF",
+      "fees": "$95.68",
+      "opentime": "8:01 AM",
+      "closetime": "10:25 PM",
+      "patient": "Heddi Drezzer"
+   },
+   "IL34 9140 2119 5114 1216 656": {
+      "speciality": "OKSB",
+      "fees": "$37.59",
+      "opentime": "9:06 AM",
+      "closetime": "6:02 PM",
+      "patient": "Adiana Annear"
+   },
+   "SE38 2849 1840 2826 3878 1207": {
+      "speciality": "VEC",
+      "fees": "$60.10",
+      "opentime": "9:21 AM",
+      "closetime": "6:40 PM",
+      "patient": "Mariel Ghirardi"
+   },
+   "KZ78 906D DCEB FYZK TWKK": {
+      "speciality": "EVH",
+      "fees": "$94.20",
+      "opentime": "8:44 AM",
+      "closetime": "9:38 PM",
+      "patient": "Edlin Runsey"
+   },
+   "BA18 7556 5874 2703 2830": {
+      "speciality": "LKSD",
+      "fees": "$89.68",
+      "opentime": "8:43 AM",
+      "closetime": "10:51 PM",
+      "patient": "Cassie Hegdonne"
+   },
+   "FR62 9224 2392 90SB JYMZ JRSI Y28": {
+      "speciality": "SHPG",
+      "fees": "$70.19",
+      "opentime": "9:17 AM",
+      "closetime": "9:59 PM",
+      "patient": "Eugenie Romaynes"
+   },
+   "FR32 5251 0054 06DP QSS1 Z26Z E71": {
+      "speciality": "TAYD",
+      "fees": "$58.04",
+      "opentime": "9:27 AM",
+      "closetime": "8:06 PM",
+      "patient": "Byrann Zouch"
+   },
+   "GR10 4296 338S UNXU 7T6E NDDX LBI": {
+      "speciality": "MPB",
+      "fees": "$50.01",
+      "opentime": "9:09 AM",
+      "closetime": "8:02 PM",
+      "patient": "Torre Dislee"
+   },
+   "BE79 4663 4520 1080": {
+      "speciality": "LQDT",
+      "fees": "$58.61",
+      "opentime": "8:59 AM",
+      "closetime": "6:50 PM",
+      "patient": "Bron Diglin"
+   },
+   "FR95 2308 5933 158I K1PH 8E8W G23": {
+      "speciality": "SHO",
+      "fees": "$44.18",
+      "opentime": "9:57 AM",
+      "closetime": "10:56 PM",
+      "patient": "Dorthy MacCambridge"
+   },
+   "FR29 6995 1345 849U DLKU EHTH A40": {
+      "speciality": "GRA",
+      "fees": "$79.32",
+      "opentime": "9:36 AM",
+      "closetime": "9:58 PM",
+      "patient": "Gottfried Roistone"
+   },
+   "RS97 4643 8361 4259 4136 58": {
+      "speciality": "FFBCW",
+      "fees": "$74.27",
+      "opentime": "8:23 AM",
+      "closetime": "7:40 PM",
+      "patient": "Clerissa Denekamp"
+   },
+   "DE19 2059 0673 9609 4493 52": {
+      "speciality": "CHFN",
+      "fees": "$83.33",
+      "opentime": "8:23 AM",
+      "closetime": "10:07 PM",
+      "patient": "Everard Dilston"
+   },
+   "BA71 3056 8416 4305 7914": {
+      "speciality": "MPW",
+      "fees": "$75.47",
+      "opentime": "8:16 AM",
+      "closetime": "10:28 PM",
+      "patient": "Nial Musprat"
+   },
+   "FR35 7177 3522 96UH 4RIP WICH 541": {
+      "speciality": "MHO",
+      "fees": "$83.42",
+      "opentime": "9:24 AM",
+      "closetime": "7:36 PM",
+      "patient": "Jorgan Fishley"
+   },
+   "AE15 2213 1061 1466 2972 948": {
+      "speciality": "GOLD",
+      "fees": "$48.51",
+      "opentime": "9:05 AM",
+      "closetime": "7:49 PM",
+      "patient": "Bentley Sutcliffe"
+   },
+   "CZ43 9081 3756 6527 8544 5638": {
+      "speciality": "SVA",
+      "fees": "$44.22",
+      "opentime": "9:47 AM",
+      "closetime": "6:23 PM",
+      "patient": "Rab Chubb"
+   },
+   "MR24 0693 2164 7675 1993 5870 192": {
+      "speciality": "APC",
+      "fees": "$96.74",
+      "opentime": "8:16 AM",
+      "closetime": "6:33 PM",
+      "patient": "Samaria Quigg"
+   },
+   "SK38 2445 4976 1677 9122 7154": {
+      "speciality": "BTEC",
+      "fees": "$56.67",
+      "opentime": "8:04 AM",
+      "closetime": "6:58 PM",
+      "patient": "Amy Quig"
+   },
+   "TR78 5143 6Z0P 5MUU OAZ2 BF5K TQ": {
+      "speciality": "WU",
+      "fees": "$79.36",
+      "opentime": "9:14 AM",
+      "closetime": "10:29 PM",
+      "patient": "Neville Cartmel"
+   },
+   "GI13 YSBH ZFBK K9SG G416 QDO": {
+      "speciality": "CLRBW",
+      "fees": "$99.48",
+      "opentime": "9:31 AM",
+      "closetime": "6:23 PM",
+      "patient": "Peyter Gelardi"
+   },
+   "IL51 8987 8357 9710 2493 592": {
+      "speciality": "VRNA",
+      "fees": "$71.29",
+      "opentime": "8:00 AM",
+      "closetime": "8:43 PM",
+      "patient": "Luke Asplin"
+   },
+   "FR24 2715 4222 16RJ CI4E FZAR H07": {
+      "speciality": "CCOI",
+      "fees": "$76.05",
+      "opentime": "8:05 AM",
+      "closetime": "9:31 PM",
+      "patient": "Bucky Greenset"
+   },
+   "FR60 2755 7917 84YT SRDX 6RRR S01": {
+      "speciality": "HPE",
+      "fees": "$56.26",
+      "opentime": "8:35 AM",
+      "closetime": "6:34 PM",
+      "patient": "Seana Stilling"
+   },
+   "HU82 8484 1419 0251 3268 0025 4110": {
+      "speciality": "ITG",
+      "fees": "$44.59",
+      "opentime": "8:11 AM",
+      "closetime": "6:01 PM",
+      "patient": "Eustace McJury"
+   },
+   "IE50 FXEM 2123 3101 3333 80": {
+      "speciality": "SINO",
+      "fees": "$94.30",
+      "opentime": "8:40 AM",
+      "closetime": "10:05 PM",
+      "patient": "Morie Siward"
+   },
+   "VG31 FDDD 8820 8031 8260 4926": {
+      "speciality": "DRH",
+      "fees": "$54.11",
+      "opentime": "8:34 AM",
+      "closetime": "8:59 PM",
+      "patient": "Sada Oneil"
+   },
+   "RS51 9019 9084 8912 1761 18": {
+      "speciality": "WPG^I",
+      "fees": "$79.53",
+      "opentime": "9:05 AM",
+      "closetime": "8:19 PM",
+      "patient": "Anson Chantillon"
+   },
+   "BH19 OIZX 9SPX RIPR SCUF BM": {
+      "speciality": "MUC",
+      "fees": "$90.10",
+      "opentime": "8:55 AM",
+      "closetime": "10:24 PM",
+      "patient": "Collette Matyushenko"
+   },
+   "IS74 0178 5810 9555 4334 1611 97": {
+      "speciality": "GNVC",
+      "fees": "$77.18",
+      "opentime": "8:03 AM",
+      "closetime": "8:20 PM",
+      "patient": "Florinda Devanny"
+   },
+   "AL34 3619 9239 K0FU XAOS TKQS ADKM": {
+      "speciality": "NXEO",
+      "fees": "$94.62",
+      "opentime": "8:10 AM",
+      "closetime": "6:38 PM",
+      "patient": "Jeri Roblin"
+   },
+   "BA17 4597 6469 4914 1224": {
+      "speciality": "BPL",
+      "fees": "$72.97",
+      "opentime": "8:11 AM",
+      "closetime": "8:47 PM",
+      "patient": "Walden Witard"
+   },
+   "FI48 1208 9326 3363 07": {
+      "speciality": "MTBCP",
+      "fees": "$81.97",
+      "opentime": "8:49 AM",
+      "closetime": "7:37 PM",
+      "patient": "Letisha Housley"
+   },
+   "AE93 5616 5683 6949 8234 481": {
+      "speciality": "HUBS",
+      "fees": "$46.59",
+      "opentime": "9:36 AM",
+      "closetime": "8:41 PM",
+      "patient": "Leontyne Bachanski"
+   },
+   "VG88 CUYQ 4889 0323 7772 2401": {
+      "speciality": "X",
+      "fees": "$71.53",
+      "opentime": "9:24 AM",
+      "closetime": "9:34 PM",
+      "patient": "Lynsey Crissil"
+   },
+   "AL67 7687 2143 HOF5 RFQG HX0A T6C0": {
+      "speciality": "ACCO",
+      "fees": "$87.91",
+      "opentime": "9:14 AM",
+      "closetime": "10:12 PM",
+      "patient": "Leighton Goldstein"
+   },
+   "DK58 8482 2887 1721 03": {
+      "speciality": "STRS",
+      "fees": "$84.69",
+      "opentime": "8:21 AM",
+      "closetime": "8:28 PM",
+      "patient": "Chrisy Peirone"
+   },
+   "MU98 WAWL 6205 7490 2360 5651 304K HQ": {
+      "speciality": "GWRE",
+      "fees": "$85.55",
+      "opentime": "8:47 AM",
+      "closetime": "10:49 PM",
+      "patient": "Erina Harding"
+   },
+   "BE05 4402 4063 9333": {
+      "speciality": "NGS",
+      "fees": "$84.03",
+      "opentime": "8:33 AM",
+      "closetime": "10:30 PM",
+      "patient": "Nicolis Castellini"
+   },
+   "SE41 4332 1762 0037 5069 4816": {
+      "speciality": "SIX",
+      "fees": "$87.03",
+      "opentime": "8:36 AM",
+      "closetime": "9:59 PM",
+      "patient": "Demetri Lissaman"
+   },
+   "FO48 6603 1007 2778 11": {
+      "speciality": "IEX",
+      "fees": "$61.06",
+      "opentime": "9:19 AM",
+      "closetime": "6:16 PM",
+      "patient": "Gilburt Shatliff"
+   },
+   "FR42 2320 6798 11T2 X97C XT4C R83": {
+      "speciality": "DEL",
+      "fees": "$91.57",
+      "opentime": "9:19 AM",
+      "closetime": "9:50 PM",
+      "patient": "Rivy McGeoch"
+   },
+   "DK97 4527 0966 7269 78": {
+      "speciality": "MMAC",
+      "fees": "$54.66",
+      "opentime": "8:19 AM",
+      "closetime": "6:09 PM",
+      "patient": "Emylee Burborough"
+   },
+   "DE04 7860 2853 5627 0497 43": {
+      "speciality": "DIS",
+      "fees": "$66.08",
+      "opentime": "8:31 AM",
+      "closetime": "9:15 PM",
+      "patient": "Guglielma Fernez"
+   },
+   "AZ70 ZFJU CFOF MHH8 UJTC WVAV GNIY": {
+      "speciality": "SGH",
+      "fees": "$74.02",
+      "opentime": "8:21 AM",
+      "closetime": "10:36 PM",
+      "patient": "Norma Menhci"
+   },
+   "FR06 5513 1565 45JK GKSU UREC R33": {
+      "speciality": "PIE",
+      "fees": "$61.36",
+      "opentime": "9:49 AM",
+      "closetime": "10:31 PM",
+      "patient": "Addie Prando"
+   },
+   "ES75 3706 3951 6777 8927 5965": {
+      "speciality": "OMAM",
+      "fees": "$40.28",
+      "opentime": "8:09 AM",
+      "closetime": "7:00 PM",
+      "patient": "Estelle Drinkwater"
+   },
+   "PS87 YFCA 01C6 HLQW ZGYR IQHI 5OVV A": {
+      "speciality": "INVA",
+      "fees": "$87.70",
+      "opentime": "8:24 AM",
+      "closetime": "6:05 PM",
+      "patient": "Raff Durran"
+   },
+   "TR18 7782 1V02 TWW3 BUHX IDNI LF": {
+      "speciality": "UCBA",
+      "fees": "$58.83",
+      "opentime": "9:59 AM",
+      "closetime": "10:03 PM",
+      "patient": "Samara McColm"
+   },
+   "LB45 3624 IYDO 0HIF DJ7X HM3K 2VIQ": {
+      "speciality": "FLN",
+      "fees": "$33.63",
+      "opentime": "8:26 AM",
+      "closetime": "6:07 PM",
+      "patient": "Vince Hoodlass"
+   },
+   "RO47 LZJA T0PD LTOX XFCU NJB3": {
+      "speciality": "LGCYO",
+      "fees": "$40.92",
+      "opentime": "9:10 AM",
+      "closetime": "9:33 PM",
+      "patient": "Elijah Laux"
+   },
+   "FR28 6322 5409 07HB AMTZ 3AKL P27": {
+      "speciality": "LTRPB",
+      "fees": "$60.80",
+      "opentime": "9:55 AM",
+      "closetime": "7:20 PM",
+      "patient": "Faith Pechell"
+   },
+   "NO24 7027 7099 068": {
+      "speciality": "OASM",
+      "fees": "$90.07",
+      "opentime": "8:29 AM",
+      "closetime": "7:13 PM",
+      "patient": "Gabby Renachowski"
+   },
+   "GL41 0297 9256 6414 34": {
+      "speciality": "CVE",
+      "fees": "$57.15",
+      "opentime": "8:17 AM",
+      "closetime": "9:07 PM",
+      "patient": "Tillie Spiers"
+   },
+   "FR27 5518 6432 07MV NWBX RSTQ K03": {
+      "speciality": "SHBI",
+      "fees": "$90.67",
+      "opentime": "9:24 AM",
+      "closetime": "10:11 PM",
+      "patient": "Gayla Sicely"
+   },
+   "CH11 9881 0QB9 F4NP I57V R": {
+      "speciality": "CREG",
+      "fees": "$97.42",
+      "opentime": "8:24 AM",
+      "closetime": "7:47 PM",
+      "patient": "Laverna Looker"
+   },
+   "AD35 7621 7864 PFE4 C4MW GTWA": {
+      "speciality": "AMZN",
+      "fees": "$78.25",
+      "opentime": "8:02 AM",
+      "closetime": "7:32 PM",
+      "patient": "Valentino Aldie"
+   },
+   "GE08 KU19 7385 3721 9229 52": {
+      "speciality": "SCCO",
+      "fees": "$69.77",
+      "opentime": "9:16 AM",
+      "closetime": "9:01 PM",
+      "patient": "Fred Lecount"
+   },
+   "GB81 OLKZ 7995 1732 8803 97": {
+      "speciality": "OMAA",
+      "fees": "$58.98",
+      "opentime": "9:39 AM",
+      "closetime": "6:20 PM",
+      "patient": "Dela Dyter"
+   },
+   "IE46 RXQS 1909 6144 3192 03": {
+      "speciality": "AZRX",
+      "fees": "$92.28",
+      "opentime": "9:01 AM",
+      "closetime": "8:17 PM",
+      "patient": "Westleigh Sambath"
+   },
+   "FR29 4243 7543 46IP WTCQ 6XOX P54": {
+      "speciality": "CHSP^A.CL",
+      "fees": "$32.94",
+      "opentime": "9:41 AM",
+      "closetime": "6:45 PM",
+      "patient": "Eddi Consterdine"
+   },
+   "ES32 2053 1108 0073 0398 8151": {
+      "speciality": "XRAY",
+      "fees": "$77.48",
+      "opentime": "9:39 AM",
+      "closetime": "7:37 PM",
+      "patient": "Teirtza Gallifont"
+   },
+   "LT43 6275 2674 8871 9840": {
+      "speciality": "AXL",
+      "fees": "$89.03",
+      "opentime": "8:13 AM",
+      "closetime": "7:19 PM",
+      "patient": "Hodge Long"
+   },
+   "KW46 NWFC SDCJ IQ5Q QWC2 CFKK CTLT GW": {
+      "speciality": "WFC^Q",
+      "fees": "$99.82",
+      "opentime": "9:05 AM",
+      "closetime": "9:34 PM",
+      "patient": "Jenelle Brede"
+   },
+   "FR06 6908 0980 09KA HQHU DUW1 S25": {
+      "speciality": "CECO",
+      "fees": "$76.59",
+      "opentime": "8:11 AM",
+      "closetime": "8:09 PM",
+      "patient": "Eulalie Jarrelt"
+   },
+   "LU95 458A QY7Z 06KQ VT7W": {
+      "speciality": "SKYW",
+      "fees": "$54.33",
+      "opentime": "9:08 AM",
+      "closetime": "6:02 PM",
+      "patient": "Rowney Hariot"
+   },
+   "HU77 3567 4766 6631 8929 1446 9571": {
+      "speciality": "SBRA",
+      "fees": "$70.48",
+      "opentime": "9:18 AM",
+      "closetime": "10:22 PM",
+      "patient": "Martie Angus"
+   },
+   "IL02 2574 2163 1010 5083 877": {
+      "speciality": "CMP",
+      "fees": "$52.25",
+      "opentime": "9:03 AM",
+      "closetime": "8:52 PM",
+      "patient": "Lynelle Moneti"
+   },
+   "FR10 3052 5489 30KJ CZGX C4XH P70": {
+      "speciality": "JEQ",
+      "fees": "$78.75",
+      "opentime": "9:20 AM",
+      "closetime": "6:26 PM",
+      "patient": "Lucius Risborough"
+   },
+   "HR19 9135 3041 2255 2574 6": {
+      "speciality": "ROST",
+      "fees": "$71.64",
+      "opentime": "8:05 AM",
+      "closetime": "10:21 PM",
+      "patient": "Brittni Junifer"
+   },
+   "GI50 YPXX 0VTA GKB6 DIA8 EW2": {
+      "speciality": "MBVX",
+      "fees": "$78.41",
+      "opentime": "8:43 AM",
+      "closetime": "8:38 PM",
+      "patient": "Winona Enric"
+   },
+   "BH11 ASVL 0GFQ WA6U ND6E MM": {
+      "speciality": "EAI",
+      "fees": "$44.57",
+      "opentime": "8:52 AM",
+      "closetime": "8:11 PM",
+      "patient": "Bram Swindley"
+   },
+   "LU57 3434 RTHQ CX2S 0O5A": {
+      "speciality": "AMAG",
+      "fees": "$77.81",
+      "opentime": "8:45 AM",
+      "closetime": "7:40 PM",
+      "patient": "Dagny Kevlin"
+   },
+   "FR89 9030 2284 87JA O7RD Z3XQ 442": {
+      "speciality": "MD",
+      "fees": "$46.55",
+      "opentime": "9:02 AM",
+      "closetime": "10:15 PM",
+      "patient": "Melinda Fulleylove"
+   },
+   "VG60 NAZE 7926 9914 2284 8213": {
+      "speciality": "HIHO",
+      "fees": "$31.76",
+      "opentime": "9:34 AM",
+      "closetime": "8:19 PM",
+      "patient": "Suzette Loukes"
+   },
+   "SA93 24Y8 XT2Z DROM DANE 9VOS": {
+      "speciality": "CNP",
+      "fees": "$87.59",
+      "opentime": "9:53 AM",
+      "closetime": "8:38 PM",
+      "patient": "Maryanna Bohlens"
+   },
+   "ME67 8681 8064 3823 4772 68": {
+      "speciality": "HA",
+      "fees": "$40.96",
+      "opentime": "9:00 AM",
+      "closetime": "8:43 PM",
+      "patient": "Georgi Lyffe"
+   },
+   "RO41 WQBQ 6DRQ KZK2 ZMM1 4ITU": {
+      "speciality": "GSHTW",
+      "fees": "$77.52",
+      "opentime": "8:31 AM",
+      "closetime": "9:53 PM",
+      "patient": "Ainsley Farfolomeev"
+   },
+   "IT93 P794 8739 7588 29IH JNZV HFG": {
+      "speciality": "VEAC",
+      "fees": "$44.68",
+      "opentime": "8:40 AM",
+      "closetime": "6:28 PM",
+      "patient": "Joete Pratty"
+   },
+   "CR22 0527 7083 0456 9988 5": {
+      "speciality": "FCX",
+      "fees": "$68.73",
+      "opentime": "9:16 AM",
+      "closetime": "8:22 PM",
+      "patient": "Cassy McCoid"
+   },
+   "FR45 8467 9086 02QZ REOE SAYX U83": {
+      "speciality": "MFSF",
+      "fees": "$85.42",
+      "opentime": "9:55 AM",
+      "closetime": "6:44 PM",
+      "patient": "Micah St. Hill"
+   },
+   "BE69 1677 4802 0319": {
+      "speciality": "FLWS",
+      "fees": "$37.82",
+      "opentime": "9:29 AM",
+      "closetime": "9:50 PM",
+      "patient": "Roland Roache"
+   },
+   "SA58 423T YHNG ZGYW DWQN MOLZ": {
+      "speciality": "VGM",
+      "fees": "$39.27",
+      "opentime": "8:53 AM",
+      "closetime": "8:00 PM",
+      "patient": "Ronna Simmig"
+   },
+   "CH51 3845 7YNG KLTW A2PQ U": {
+      "speciality": "MELR",
+      "fees": "$50.22",
+      "opentime": "8:05 AM",
+      "closetime": "10:40 PM",
+      "patient": "Taffy Nockolds"
+   },
+   "BE60 3225 9015 5762": {
+      "speciality": "FRO",
+      "fees": "$76.63",
+      "opentime": "9:48 AM",
+      "closetime": "10:21 PM",
+      "patient": "Xerxes Spendlove"
+   },
+   "DO45 IZ4R 4036 1560 5498 4193 4078": {
+      "speciality": "RACE",
+      "fees": "$85.37",
+      "opentime": "8:41 AM",
+      "closetime": "7:25 PM",
+      "patient": "Suzy Eddowis"
+   },
+   "FR47 5758 9113 39LC TXGN SIBC E61": {
+      "speciality": "GTIM",
+      "fees": "$64.91",
+      "opentime": "9:32 AM",
+      "closetime": "8:09 PM",
+      "patient": "Erroll Gothard"
+   },
+   "VG15 IWON 2548 0708 9153 6539": {
+      "speciality": "CDI",
+      "fees": "$62.37",
+      "opentime": "8:53 AM",
+      "closetime": "9:54 PM",
+      "patient": "Danell Rieme"
+   },
+   "FR46 4245 2856 55V6 WTDC OYYC A44": {
+      "speciality": "GSUM",
+      "fees": "$98.09",
+      "opentime": "8:03 AM",
+      "closetime": "8:15 PM",
+      "patient": "Sheilakathryn Coulling"
+   },
+   "NO75 5058 6579 561": {
+      "speciality": "LGCYP",
+      "fees": "$54.12",
+      "opentime": "8:02 AM",
+      "closetime": "10:25 PM",
+      "patient": "Chelsae Trembath"
+   },
+   "FR65 0672 2644 76QO VAEE VFIZ P72": {
+      "speciality": "IMPV",
+      "fees": "$98.21",
+      "opentime": "9:21 AM",
+      "closetime": "8:46 PM",
+      "patient": "Ambros MacDermid"
+   },
+   "LI29 5499 39GU RXKD 7MYU 1": {
+      "speciality": "HRMNU",
+      "fees": "$88.47",
+      "opentime": "8:11 AM",
+      "closetime": "9:48 PM",
+      "patient": "Sharyl Yurshev"
+   },
+   "IS31 0477 0493 5354 9673 4502 42": {
+      "speciality": "LRCX",
+      "fees": "$36.77",
+      "opentime": "8:01 AM",
+      "closetime": "6:19 PM",
+      "patient": "Lisetta Dressel"
+   },
+   "FR65 6398 8351 53PY X7FX O20M K25": {
+      "speciality": "DBVT",
+      "fees": "$90.83",
+      "opentime": "8:00 AM",
+      "closetime": "10:28 PM",
+      "patient": "Myrta Eady"
+   },
+   "LV43 FXPJ OFYW EZ9J II7M X": {
+      "speciality": "PCMI",
+      "fees": "$37.87",
+      "opentime": "9:39 AM",
+      "closetime": "10:36 PM",
+      "patient": "Rosita Giabuzzi"
+   },
+   "MK60 983T MNPJ 9E3Z C09": {
+      "speciality": "TGTX",
+      "fees": "$80.45",
+      "opentime": "9:10 AM",
+      "closetime": "9:42 PM",
+      "patient": "Krispin Sharer"
+   },
+   "MD81 DCFJ WJXA YTU7 3PQX QA7E": {
+      "speciality": "AMZN",
+      "fees": "$54.90",
+      "opentime": "9:28 AM",
+      "closetime": "7:56 PM",
+      "patient": "Fabiano Yakobovicz"
+   },
+   "RO52 YKEG RVLW GHAG ZNZS LXMW": {
+      "speciality": "CATY",
+      "fees": "$70.61",
+      "opentime": "9:08 AM",
+      "closetime": "10:18 PM",
+      "patient": "Susie Powles"
+   },
+   "FR69 7654 0495 06TY BCW5 SFOJ F60": {
+      "speciality": "MDLQ",
+      "fees": "$52.06",
+      "opentime": "9:48 AM",
+      "closetime": "10:51 PM",
+      "patient": "Eleanor Buckler"
+   },
+   "IL06 0438 2252 5771 0615 798": {
+      "speciality": "AFMD",
+      "fees": "$33.62",
+      "opentime": "8:10 AM",
+      "closetime": "10:38 PM",
+      "patient": "Bartolomeo Fronks"
+   },
+   "PK63 SDRG POBB O7BE 1QUG EJC5": {
+      "speciality": "COVS",
+      "fees": "$86.12",
+      "opentime": "8:15 AM",
+      "closetime": "8:11 PM",
+      "patient": "Frannie Jeanequin"
+   },
+   "LV18 ITXY 2RT5 L11D TOJ9 I": {
+      "speciality": "TSLX",
+      "fees": "$70.02",
+      "opentime": "8:19 AM",
+      "closetime": "6:13 PM",
+      "patient": "Morlee Hulmes"
+   },
+   "FR16 3534 3067 62AE OPY3 SWPT A39": {
+      "speciality": "MGNX",
+      "fees": "$95.31",
+      "opentime": "8:02 AM",
+      "closetime": "8:56 PM",
+      "patient": "Sigismondo Auchinleck"
+   },
+   "IT23 X262 9655 954F XIMW PZ0C TDY": {
+      "speciality": "BH",
+      "fees": "$68.75",
+      "opentime": "8:01 AM",
+      "closetime": "6:26 PM",
+      "patient": "Teddy Trobey"
+   },
+   "GL74 7272 6153 9563 10": {
+      "speciality": "AHT^D",
+      "fees": "$95.12",
+      "opentime": "9:03 AM",
+      "closetime": "8:44 PM",
+      "patient": "Karola Brombell"
+   },
+   "IS27 7986 5175 6571 8139 4940 91": {
+      "speciality": "WPC",
+      "fees": "$86.67",
+      "opentime": "9:10 AM",
+      "closetime": "9:19 PM",
+      "patient": "Hillary Bordman"
+   },
+   "FR95 7834 7388 15J7 UIVW GMCH Y46": {
+      "speciality": "AN",
+      "fees": "$44.20",
+      "opentime": "8:39 AM",
+      "closetime": "10:09 PM",
+      "patient": "Cory Zecchii"
+   },
+   "LI04 6928 12WW HUQQ HJKN Q": {
+      "speciality": "CFI",
+      "fees": "$84.96",
+      "opentime": "8:53 AM",
+      "closetime": "10:21 PM",
+      "patient": "Iris Beurich"
+   },
+   "LU76 561D WR2I 9LES ZPPH": {
+      "speciality": "NAZ",
+      "fees": "$84.06",
+      "opentime": "9:31 AM",
+      "closetime": "7:36 PM",
+      "patient": "See Stailey"
+   },
+   "FR87 0673 6186 25G2 ULEO 5NEP L38": {
+      "speciality": "NX",
+      "fees": "$52.57",
+      "opentime": "9:43 AM",
+      "closetime": "6:54 PM",
+      "patient": "Shalna Plewman"
+   },
+   "CY39 2915 0415 YMKK WIB3 8I3E VDWO": {
+      "speciality": "SIMO",
+      "fees": "$67.87",
+      "opentime": "8:50 AM",
+      "closetime": "9:30 PM",
+      "patient": "Maryellen Thoms"
+   },
+   "MU71 GOJE 6176 9987 1897 3104 884M WN": {
+      "speciality": "KFY",
+      "fees": "$89.83",
+      "opentime": "8:04 AM",
+      "closetime": "8:00 PM",
+      "patient": "Dehlia Timby"
+   },
+   "DE16 6933 8021 3397 8950 36": {
+      "speciality": "KRO",
+      "fees": "$78.05",
+      "opentime": "8:27 AM",
+      "closetime": "9:21 PM",
+      "patient": "Alena Pawlett"
+   },
+   "FO92 3069 5649 6578 52": {
+      "speciality": "MERC",
+      "fees": "$93.27",
+      "opentime": "8:29 AM",
+      "closetime": "9:59 PM",
+      "patient": "Thadeus Kuhnhardt"
+   },
+   "CZ92 8053 4219 5756 7012 4211": {
+      "speciality": "RMBS",
+      "fees": "$99.76",
+      "opentime": "9:27 AM",
+      "closetime": "7:58 PM",
+      "patient": "Lani Haggar"
+   },
+   "FR17 4773 3577 75U4 JZ2F EEQP 632": {
+      "speciality": "GPRK",
+      "fees": "$63.57",
+      "opentime": "8:43 AM",
+      "closetime": "8:03 PM",
+      "patient": "Garek Keig"
+   },
+   "FR26 5237 2710 32RE LA3S 4MHR J44": {
+      "speciality": "BSQR",
+      "fees": "$95.44",
+      "opentime": "9:18 AM",
+      "closetime": "9:29 PM",
+      "patient": "Aline Bonny"
+   },
+   "RS82 8285 0438 4439 0391 47": {
+      "speciality": "ICUI",
+      "fees": "$75.47",
+      "opentime": "9:05 AM",
+      "closetime": "9:15 PM",
+      "patient": "Rachel Perry"
+   },
+   "SE67 4446 3519 7151 1538 6436": {
+      "speciality": "WYIGW",
+      "fees": "$80.51",
+      "opentime": "8:44 AM",
+      "closetime": "10:48 PM",
+      "patient": "Vasilis Hesey"
+   },
+   "MT47 CHOB 2173 7GYO LK7S 1QOI 8M2L 7IN": {
+      "speciality": "PF",
+      "fees": "$86.91",
+      "opentime": "8:19 AM",
+      "closetime": "6:05 PM",
+      "patient": "Hershel Tooth"
+   },
+   "AE85 6314 2203 9874 1754 037": {
+      "speciality": "RM",
+      "fees": "$39.55",
+      "opentime": "9:11 AM",
+      "closetime": "9:27 PM",
+      "patient": "Amata Erratt"
+   },
+   "KW39 ZLCL TNWB CRKU 9SAY EVVK I44V U5": {
+      "speciality": "PBSK",
+      "fees": "$99.62",
+      "opentime": "8:08 AM",
+      "closetime": "8:17 PM",
+      "patient": "Franzen Primrose"
+   },
+   "FR72 9658 8648 295E XIMY 9A5O E94": {
+      "speciality": "CART",
+      "fees": "$88.00",
+      "opentime": "8:35 AM",
+      "closetime": "9:27 PM",
+      "patient": "Lon Matches"
+   },
+   "GL49 2775 7141 5967 61": {
+      "speciality": "CID",
+      "fees": "$71.06",
+      "opentime": "9:41 AM",
+      "closetime": "6:49 PM",
+      "patient": "Zara Boutflour"
+   },
+   "CY73 5118 6044 05EH 0NWD X0NR OX0T": {
+      "speciality": "INSM",
+      "fees": "$60.05",
+      "opentime": "9:00 AM",
+      "closetime": "6:43 PM",
+      "patient": "Hanny Baudesson"
+   },
+   "TR21 8642 3UCF NXKF RB6S EYPG 1S": {
+      "speciality": "BC",
+      "fees": "$90.75",
+      "opentime": "9:12 AM",
+      "closetime": "10:11 PM",
+      "patient": "Sheri Denver"
+   },
+   "PK83 ZNEK 6DXL LQ7M YWW9 ZGYF": {
+      "speciality": "JAZZ",
+      "fees": "$95.32",
+      "opentime": "8:47 AM",
+      "closetime": "9:22 PM",
+      "patient": "Missie McClements"
+   },
+   "AD97 8020 1175 FYWC IF6X 0XI6": {
+      "speciality": "WEC",
+      "fees": "$46.22",
+      "opentime": "8:41 AM",
+      "closetime": "10:49 PM",
+      "patient": "Nanete Florio"
+   },
+   "AZ85 BOQU L1ER P18E PKAD 3PAO MAFF": {
+      "speciality": "FOMX",
+      "fees": "$45.66",
+      "opentime": "8:35 AM",
+      "closetime": "10:14 PM",
+      "patient": "Gigi McCready"
+   },
+   "CY13 9084 2629 TFKU AO5N PH5P YTNK": {
+      "speciality": "SOHO",
+      "fees": "$48.88",
+      "opentime": "9:44 AM",
+      "closetime": "8:02 PM",
+      "patient": "Konstanze Brookbank"
+   },
+   "MT93 WWJM 0858 9EMP MAQS 440J 6FFP 3UF": {
+      "speciality": "TFX",
+      "fees": "$79.48",
+      "opentime": "9:18 AM",
+      "closetime": "8:40 PM",
+      "patient": "Cinnamon Audley"
+   },
+   "FR16 7632 2053 38IP RYQ6 7GKV V35": {
+      "speciality": "KODK",
+      "fees": "$55.81",
+      "opentime": "9:36 AM",
+      "closetime": "9:42 PM",
+      "patient": "Tanya Humbles"
+   },
+   "AD45 0832 9822 4Z8C LAL7 NKJC": {
+      "speciality": "DYSL",
+      "fees": "$84.34",
+      "opentime": "8:29 AM",
+      "closetime": "10:52 PM",
+      "patient": "Marley Fust"
+   },
+   "MK11 914L PBNZ 6KR2 J02": {
+      "speciality": "VSAR",
+      "fees": "$96.76",
+      "opentime": "9:23 AM",
+      "closetime": "7:17 PM",
+      "patient": "Darbee Dumblton"
+   },
+   "MD18 BDB2 1WUL GRGO ZNHU FPIC": {
+      "speciality": "MIC",
+      "fees": "$89.44",
+      "opentime": "9:28 AM",
+      "closetime": "6:32 PM",
+      "patient": "Adan Esherwood"
+   },
+   "GR76 0021 420V QMNE AIOM ZJEW JQT": {
+      "speciality": "NUE",
+      "fees": "$91.18",
+      "opentime": "9:25 AM",
+      "closetime": "7:26 PM",
+      "patient": "Osmond Haydon"
+   },
+   "NL58 WVDX 1410 4284 57": {
+      "speciality": "ABBV",
+      "fees": "$79.96",
+      "opentime": "9:17 AM",
+      "closetime": "8:07 PM",
+      "patient": "Grete McAllister"
+   },
+   "BA18 3284 4755 1537 2798": {
+      "speciality": "YHOO",
+      "fees": "$67.11",
+      "opentime": "8:29 AM",
+      "closetime": "8:21 PM",
+      "patient": "Leonora Youdell"
+   },
+   "DE86 4082 8369 9246 3601 69": {
+      "speciality": "TESO",
+      "fees": "$88.28",
+      "opentime": "9:13 AM",
+      "closetime": "7:55 PM",
+      "patient": "Garvey Tofts"
+   },
+   "CH03 0222 3ICK 4LED VNBY G": {
+      "speciality": "BSMX",
+      "fees": "$70.11",
+      "opentime": "8:08 AM",
+      "closetime": "7:33 PM",
+      "patient": "Raynard Klement"
+   },
+   "FR38 2424 5963 911X EFJD QNRO 681": {
+      "speciality": "NHTC",
+      "fees": "$74.20",
+      "opentime": "9:09 AM",
+      "closetime": "6:39 PM",
+      "patient": "Karola Camellini"
+   },
+   "CZ18 5427 6591 8306 3758 0434": {
+      "speciality": "PPT",
+      "fees": "$89.08",
+      "opentime": "9:11 AM",
+      "closetime": "7:18 PM",
+      "patient": "Shanta Marnes"
+   },
+   "FR46 5134 1172 89VZ JJJM 3R3N G59": {
+      "speciality": "TOWN",
+      "fees": "$59.09",
+      "opentime": "9:20 AM",
+      "closetime": "7:24 PM",
+      "patient": "Avrit Hobble"
+   },
+   "NL30 OWEY 6891 7239 29": {
+      "speciality": "HOLX",
+      "fees": "$31.95",
+      "opentime": "8:57 AM",
+      "closetime": "9:39 PM",
+      "patient": "Melli Friedlos"
+   },
+   "GB77 TGFM 4951 3789 4593 19": {
+      "speciality": "FATE",
+      "fees": "$66.77",
+      "opentime": "8:56 AM",
+      "closetime": "6:26 PM",
+      "patient": "Alvira Scarlet"
+   },
+   "MK72 412J ISMR 6ETO C75": {
+      "speciality": "VRTS",
+      "fees": "$77.06",
+      "opentime": "9:41 AM",
+      "closetime": "8:00 PM",
+      "patient": "Tomaso Solomonides"
+   },
+   "FR62 5749 4056 55SA K4MR 0WIF O84": {
+      "speciality": "PNW",
+      "fees": "$63.07",
+      "opentime": "9:25 AM",
+      "closetime": "10:48 PM",
+      "patient": "Hanna Bradford"
+   },
+   "HR76 3968 1556 2758 1713 8": {
+      "speciality": "JEQ",
+      "fees": "$79.10",
+      "opentime": "8:28 AM",
+      "closetime": "9:20 PM",
+      "patient": "Thorny Allitt"
+   },
+   "DE03 9225 6802 2064 7091 75": {
+      "speciality": "ARNC^B",
+      "fees": "$66.90",
+      "opentime": "8:54 AM",
+      "closetime": "10:41 PM",
+      "patient": "Laraine Serridge"
+   },
+   "FR93 7942 0936 43HH I8LY CVIT P44": {
+      "speciality": "NTG",
+      "fees": "$34.46",
+      "opentime": "9:54 AM",
+      "closetime": "8:30 PM",
+      "patient": "Pegeen Pooke"
+   },
+   "BA15 4411 6347 7276 4228": {
+      "speciality": "MOGLC",
+      "fees": "$30.27",
+      "opentime": "9:34 AM",
+      "closetime": "6:50 PM",
+      "patient": "Gabbie Haffenden"
+   },
+   "DE74 7892 4001 1538 1961 92": {
+      "speciality": "ATHM",
+      "fees": "$97.25",
+      "opentime": "8:52 AM",
+      "closetime": "10:57 PM",
+      "patient": "Jacquenetta Stretton"
+   },
+   "FO13 2771 5728 0089 42": {
+      "speciality": "OVLY",
+      "fees": "$41.41",
+      "opentime": "8:23 AM",
+      "closetime": "6:44 PM",
+      "patient": "Barbara-anne Borgnol"
+   },
+   "AZ61 QODQ UKPX 9D8D IWOL 6EHI JLON": {
+      "speciality": "ACXM",
+      "fees": "$57.98",
+      "opentime": "9:22 AM",
+      "closetime": "6:38 PM",
+      "patient": "Trisha Hitschke"
+   },
+   "MR04 0915 7006 2511 9265 1002 446": {
+      "speciality": "JEQ",
+      "fees": "$96.91",
+      "opentime": "8:48 AM",
+      "closetime": "6:17 PM",
+      "patient": "Kendra Jurick"
+   },
+   "FR79 8823 6433 917F ZRPF VPHP 457": {
+      "speciality": "GDL",
+      "fees": "$46.30",
+      "opentime": "9:28 AM",
+      "closetime": "6:35 PM",
+      "patient": "Flory MacCardle"
+   },
+   "LB88 8046 GRER WI1Z X5LR OUPV ETJV": {
+      "speciality": "NHLDW",
+      "fees": "$53.58",
+      "opentime": "8:12 AM",
+      "closetime": "8:51 PM",
+      "patient": "Thorstein Duprey"
+   },
+   "SI94 1600 2670 9823 435": {
+      "speciality": "MUE",
+      "fees": "$39.95",
+      "opentime": "8:15 AM",
+      "closetime": "9:37 PM",
+      "patient": "Mohandas Arderne"
+   },
+   "BA87 6406 7961 2621 2620": {
+      "speciality": "KYE",
+      "fees": "$40.51",
+      "opentime": "8:29 AM",
+      "closetime": "10:26 PM",
+      "patient": "Noella McGuffog"
+   },
+   "NL65 FBYB 3368 5633 62": {
+      "speciality": "SNPS",
+      "fees": "$35.72",
+      "opentime": "8:00 AM",
+      "closetime": "6:42 PM",
+      "patient": "Josiah Dumbrill"
+   },
+   "RO52 LKVF U0GV 9DXF 56NF SRIZ": {
+      "speciality": "RSO^B",
+      "fees": "$52.21",
+      "opentime": "8:25 AM",
+      "closetime": "6:37 PM",
+      "patient": "Lorrie Smallpeace"
+   },
+   "SE89 9533 1759 2899 8303 7659": {
+      "speciality": "CGG",
+      "fees": "$34.51",
+      "opentime": "8:15 AM",
+      "closetime": "10:07 PM",
+      "patient": "Krystalle Blick"
+   },
+   "SI61 0079 1769 1849 013": {
+      "speciality": "ROYT",
+      "fees": "$80.14",
+      "opentime": "8:27 AM",
+      "closetime": "10:55 PM",
+      "patient": "Derk Tomney"
+   },
+   "CY87 5384 5804 JP8A NLYO IUBO 0MT3": {
+      "speciality": "SNY",
+      "fees": "$87.66",
+      "opentime": "8:35 AM",
+      "closetime": "6:07 PM",
+      "patient": "Diana Fann"
+   },
+   "FR17 9189 7693 773F LMRX MJSC 391": {
+      "speciality": "HOME",
+      "fees": "$36.79",
+      "opentime": "9:03 AM",
+      "closetime": "10:19 PM",
+      "patient": "Tanhya Wardall"
+   },
+   "FR18 7054 5274 85XK MXEP EXAV U59": {
+      "speciality": "ENBL",
+      "fees": "$37.67",
+      "opentime": "9:09 AM",
+      "closetime": "9:35 PM",
+      "patient": "Nickolai Rossander"
+   },
+   "CR10 4526 3474 2917 7674 4": {
+      "speciality": "FARM",
+      "fees": "$54.71",
+      "opentime": "9:42 AM",
+      "closetime": "10:33 PM",
+      "patient": "Winnah Comoletti"
+   },
+   "SK83 6065 6198 4955 4240 7407": {
+      "speciality": "NATI",
+      "fees": "$38.70",
+      "opentime": "8:15 AM",
+      "closetime": "7:45 PM",
+      "patient": "Joell Pusill"
+   },
+   "RS77 7256 9657 1294 6077 18": {
+      "speciality": "NOVT",
+      "fees": "$77.63",
+      "opentime": "9:55 AM",
+      "closetime": "6:14 PM",
+      "patient": "Corrinne Westgate"
+   },
+   "MR19 9956 8757 2735 1431 0704 736": {
+      "speciality": "WIA",
+      "fees": "$83.10",
+      "opentime": "8:51 AM",
+      "closetime": "7:15 PM",
+      "patient": "Abraham Litzmann"
+   },
+   "BR71 5191 8465 0745 6395 2523 252H N": {
+      "speciality": "SWIR",
+      "fees": "$61.55",
+      "opentime": "8:02 AM",
+      "closetime": "6:11 PM",
+      "patient": "Padraig Gunning"
+   },
+   "MT50 YLFM 3282 6V4V KPEV K76P KBXB 7NG": {
+      "speciality": "ASH",
+      "fees": "$40.41",
+      "opentime": "9:01 AM",
+      "closetime": "7:22 PM",
+      "patient": "Benedicta Nise"
+   },
+   "LI25 4288 9NQL Q7WX FQE0 S": {
+      "speciality": "BVXVW",
+      "fees": "$56.61",
+      "opentime": "9:10 AM",
+      "closetime": "6:33 PM",
+      "patient": "Leelah Harbottle"
+   },
+   "FI18 9689 8152 5180 98": {
+      "speciality": "RNR^C",
+      "fees": "$92.92",
+      "opentime": "9:23 AM",
+      "closetime": "8:36 PM",
+      "patient": "Wallace Coole"
+   },
+   "SM19 O807 1150 792F YFEC P7W4 DTI": {
+      "speciality": "CPTA",
+      "fees": "$50.46",
+      "opentime": "9:15 AM",
+      "closetime": "8:45 PM",
+      "patient": "Bradley Denney"
+   },
+   "MK29 702H UQSO H1FA Q75": {
+      "speciality": "INBK",
+      "fees": "$97.97",
+      "opentime": "9:38 AM",
+      "closetime": "9:20 PM",
+      "patient": "Meris Hammelberg"
+   },
+   "IE07 FUML 1959 7668 4923 42": {
+      "speciality": "CIDM",
+      "fees": "$64.92",
+      "opentime": "9:11 AM",
+      "closetime": "9:04 PM",
+      "patient": "Baudoin Bondley"
+   },
+   "FR79 4114 3145 64BC XK1Z UFIR X08": {
+      "speciality": "TPIV",
+      "fees": "$49.84",
+      "opentime": "8:50 AM",
+      "closetime": "10:50 PM",
+      "patient": "Yancey MacAloren"
+   },
+   "MC74 7189 1637 71IN TCK8 707G E30": {
+      "speciality": "FTXR",
+      "fees": "$97.86",
+      "opentime": "9:22 AM",
+      "closetime": "8:21 PM",
+      "patient": "Regina Clackers"
+   },
+   "FR44 6503 4041 871A OCPJ KFA1 392": {
+      "speciality": "ATXI",
+      "fees": "$51.25",
+      "opentime": "8:54 AM",
+      "closetime": "8:21 PM",
+      "patient": "Antonietta Pinare"
+   },
+   "AZ52 QRLW ZO0O L0FE 4QND GGMA QFPG": {
+      "speciality": "FNLC",
+      "fees": "$79.72",
+      "opentime": "8:53 AM",
+      "closetime": "7:01 PM",
+      "patient": "Moritz Soans"
+   },
+   "KZ18 349Y 4SSH 92XG EYSX": {
+      "speciality": "NBHC",
+      "fees": "$95.81",
+      "opentime": "9:27 AM",
+      "closetime": "8:08 PM",
+      "patient": "Marget Glanders"
+   },
+   "DE61 9509 9867 1671 7084 14": {
+      "speciality": "MCS",
+      "fees": "$79.49",
+      "opentime": "9:01 AM",
+      "closetime": "10:22 PM",
+      "patient": "Kaye Domesday"
+   },
+   "FR56 1703 6192 74PC GIMT TLOS B83": {
+      "speciality": "MLNK",
+      "fees": "$70.02",
+      "opentime": "8:33 AM",
+      "closetime": "8:40 PM",
+      "patient": "Paolina Cork"
+   },
+   "MK48 967D CODL SSFO Z10": {
+      "speciality": "MER^P",
+      "fees": "$89.13",
+      "opentime": "8:41 AM",
+      "closetime": "9:27 PM",
+      "patient": "Jan Andrieu"
+   },
+   "MU48 ZDVV 1469 1024 9317 3346 025J PC": {
+      "speciality": "CMLS",
+      "fees": "$60.68",
+      "opentime": "8:55 AM",
+      "closetime": "6:57 PM",
+      "patient": "Fin Blackford"
+   },
+   "FR95 4570 3280 68KD 9M3B AAJX H99": {
+      "speciality": "LMOS",
+      "fees": "$39.89",
+      "opentime": "9:38 AM",
+      "closetime": "8:14 PM",
+      "patient": "Tamara Serrurier"
+   },
+   "IL65 3335 6954 0569 1188 923": {
+      "speciality": "LBTYK",
+      "fees": "$32.40",
+      "opentime": "9:45 AM",
+      "closetime": "8:44 PM",
+      "patient": "Fannie Cattel"
+   },
+   "MR41 3383 4740 4735 9216 6964 317": {
+      "speciality": "SRET",
+      "fees": "$73.62",
+      "opentime": "9:52 AM",
+      "closetime": "9:48 PM",
+      "patient": "Duncan Bonelle"
+   },
+   "PL71 3228 2905 3031 4300 9757 1655": {
+      "speciality": "FLOW",
+      "fees": "$91.60",
+      "opentime": "9:38 AM",
+      "closetime": "10:03 PM",
+      "patient": "Nesta Avraam"
+   },
+   "MK60 979F YITX VDQV F89": {
+      "speciality": "AMSF",
+      "fees": "$32.45",
+      "opentime": "9:15 AM",
+      "closetime": "8:53 PM",
+      "patient": "Jackie Mearns"
+   },
+   "BR56 1158 2220 2447 1145 0890 564O G": {
+      "speciality": "SILC",
+      "fees": "$58.58",
+      "opentime": "9:30 AM",
+      "closetime": "8:24 PM",
+      "patient": "Luisa Beckley"
+   },
+   "FR74 2583 6436 33QR B5IK TRNF I96": {
+      "speciality": "PCSB",
+      "fees": "$76.08",
+      "opentime": "9:33 AM",
+      "closetime": "7:20 PM",
+      "patient": "Adan Sture"
+   },
+   "LV52 UQVT 4KVQ I2SP TZHR X": {
+      "speciality": "FLGT",
+      "fees": "$51.13",
+      "opentime": "9:51 AM",
+      "closetime": "9:25 PM",
+      "patient": "Margalo Sunnex"
+   },
+   "HR68 5014 9628 0370 7728 2": {
+      "speciality": "ARDC",
+      "fees": "$75.72",
+      "opentime": "8:06 AM",
+      "closetime": "8:18 PM",
+      "patient": "Rosaleen Beardshaw"
+   },
+   "LB16 4671 GUYI UVJK HNIB PHQX GAFR": {
+      "speciality": "PZRX",
+      "fees": "$72.81",
+      "opentime": "8:36 AM",
+      "closetime": "9:43 PM",
+      "patient": "Babb Klimschak"
+   },
+   "GI65 UGXS EJDM IU6F CMXV VQW": {
+      "speciality": "ETH",
+      "fees": "$81.56",
+      "opentime": "8:55 AM",
+      "closetime": "10:00 PM",
+      "patient": "Katlin Pratley"
+   },
+   "FR83 1356 5720 23VW SURW ELLB 284": {
+      "speciality": "TRNO",
+      "fees": "$79.01",
+      "opentime": "9:34 AM",
+      "closetime": "9:26 PM",
+      "patient": "Pierre Jilliss"
+   },
+   "ES97 3954 3984 6030 3944 1650": {
+      "speciality": "CUDA",
+      "fees": "$88.64",
+      "opentime": "8:51 AM",
+      "closetime": "10:03 PM",
+      "patient": "Martin Voaden"
+   },
+   "PT43 3685 2051 9010 8280 4703 7": {
+      "speciality": "SRV",
+      "fees": "$41.44",
+      "opentime": "8:43 AM",
+      "closetime": "9:20 PM",
+      "patient": "Randolf Gateland"
+   },
+   "FR06 2025 8485 25PV 3IXR UF51 M07": {
+      "speciality": "TWOU",
+      "fees": "$62.13",
+      "opentime": "9:54 AM",
+      "closetime": "8:53 PM",
+      "patient": "Kerianne Loughran"
+   },
+   "FO85 5516 6247 8668 61": {
+      "speciality": "TEAR",
+      "fees": "$41.63",
+      "opentime": "9:00 AM",
+      "closetime": "10:14 PM",
+      "patient": "Lynea Hamsson"
+   },
+   "HR07 5778 0609 4697 7192 1": {
+      "speciality": "G",
+      "fees": "$88.01",
+      "opentime": "9:34 AM",
+      "closetime": "9:14 PM",
+      "patient": "Emalee Hennemann"
+   },
+   "KZ73 417D 20XD 8QSS 4GTC": {
+      "speciality": "CHKR",
+      "fees": "$75.36",
+      "opentime": "8:41 AM",
+      "closetime": "10:57 PM",
+      "patient": "Issy Fackrell"
+   },
+   "ME06 3182 8727 8372 6345 82": {
+      "speciality": "ATOM",
+      "fees": "$69.73",
+      "opentime": "9:26 AM",
+      "closetime": "8:09 PM",
+      "patient": "Clerkclaude Seckington"
+   },
+   "FR15 1021 0586 95QE 3RWF DCPG O44": {
+      "speciality": "ZTR",
+      "fees": "$50.07",
+      "opentime": "9:16 AM",
+      "closetime": "7:57 PM",
+      "patient": "Marla Brugger"
+   },
+   "RO28 MNBY 0ZHF YCH3 7HXO XEBT": {
+      "speciality": "JMU",
+      "fees": "$56.96",
+      "opentime": "8:59 AM",
+      "closetime": "7:38 PM",
+      "patient": "Bendite Blowers"
+   },
+   "HR71 9192 6470 8469 7968 3": {
+      "speciality": "POR",
+      "fees": "$82.71",
+      "opentime": "9:32 AM",
+      "closetime": "7:07 PM",
+      "patient": "Dilan Allardyce"
+   },
+   "MU75 MJAS 2215 8618 6471 2220 171Z PR": {
+      "speciality": "PJC",
+      "fees": "$73.07",
+      "opentime": "9:28 AM",
+      "closetime": "6:53 PM",
+      "patient": "Abbie Tower"
+   },
+   "HR45 7264 6634 8569 1456 7": {
+      "speciality": "MFT",
+      "fees": "$58.09",
+      "opentime": "8:02 AM",
+      "closetime": "9:58 PM",
+      "patient": "Goober Parmenter"
+   },
+   "DE03 0676 9019 9485 2535 21": {
+      "speciality": "CIO^A",
+      "fees": "$67.21",
+      "opentime": "9:31 AM",
+      "closetime": "7:02 PM",
+      "patient": "Willa Rosenstock"
+   },
+   "MR31 9992 4397 1695 4315 1709 668": {
+      "speciality": "VTWO",
+      "fees": "$49.12",
+      "opentime": "9:54 AM",
+      "closetime": "8:02 PM",
+      "patient": "Quintana Burnham"
+   },
+   "CZ65 9307 9668 0100 3616 8466": {
+      "speciality": "CHRS",
+      "fees": "$93.12",
+      "opentime": "9:49 AM",
+      "closetime": "10:42 PM",
+      "patient": "Mart Stile"
+   },
+   "FR07 9225 6339 09UB O1V8 RVNS V71": {
+      "speciality": "OIIM",
+      "fees": "$49.28",
+      "opentime": "8:21 AM",
+      "closetime": "8:08 PM",
+      "patient": "Marianna Whardley"
+   },
+   "AZ26 TYBM J3KV 9PM1 DUQV 0PAA 9U1D": {
+      "speciality": "MDIV",
+      "fees": "$69.68",
+      "opentime": "8:42 AM",
+      "closetime": "8:35 PM",
+      "patient": "Jodie Lead"
+   },
+   "PK78 NLDH F07S BCL8 17KT S4TP": {
+      "speciality": "AMRB",
+      "fees": "$41.48",
+      "opentime": "9:06 AM",
+      "closetime": "9:28 PM",
+      "patient": "Wileen Laurenson"
+   },
+   "MD63 PZPG HMDI JJFC FLAJ FOGI": {
+      "speciality": "PRAH",
+      "fees": "$41.92",
+      "opentime": "9:02 AM",
+      "closetime": "10:01 PM",
+      "patient": "Patrice Ovenden"
+   },
+   "CH10 4210 5LVZ BHPD NYON H": {
+      "speciality": "BIOL",
+      "fees": "$91.12",
+      "opentime": "8:26 AM",
+      "closetime": "6:27 PM",
+      "patient": "Camila Canacott"
+   },
+   "LV65 CWDQ 7SLM ZTZL CJEX E": {
+      "speciality": "MPVD",
+      "fees": "$95.18",
+      "opentime": "9:34 AM",
+      "closetime": "7:21 PM",
+      "patient": "Carol-jean Joubert"
+   },
+   "SA45 63UP F9HU LTA1 Q8I7 UV4F": {
+      "speciality": "HYLS",
+      "fees": "$85.90",
+      "opentime": "8:04 AM",
+      "closetime": "6:13 PM",
+      "patient": "Terese Austing"
+   },
+   "BA47 1109 9070 9366 2808": {
+      "speciality": "ISD",
+      "fees": "$71.61",
+      "opentime": "8:13 AM",
+      "closetime": "9:48 PM",
+      "patient": "Minta Chancellor"
+   },
+   "NO69 7316 3337 623": {
+      "speciality": "FRP",
+      "fees": "$64.07",
+      "opentime": "8:02 AM",
+      "closetime": "10:17 PM",
+      "patient": "Marcelo Bakhrushin"
+   },
+   "TR22 7138 1MN9 9PTF JUKM 67HQ SX": {
+      "speciality": "GMS",
+      "fees": "$59.05",
+      "opentime": "9:45 AM",
+      "closetime": "8:12 PM",
+      "patient": "Katha Benediktsson"
+   },
+   "AZ42 SPOS QXTM RKJX BJPM RIZH MNCJ": {
+      "speciality": "VTTI",
+      "fees": "$36.89",
+      "opentime": "9:09 AM",
+      "closetime": "10:53 PM",
+      "patient": "Anders Sorensen"
+   },
+   "MD94 VVVA HPKV 5BHG EYJO BCPM": {
+      "speciality": "FINX",
+      "fees": "$69.38",
+      "opentime": "8:16 AM",
+      "closetime": "7:36 PM",
+      "patient": "Shaina Blais"
+   },
+   "CZ42 8321 8089 7935 7411 4263": {
+      "speciality": "USATP",
+      "fees": "$94.51",
+      "opentime": "9:12 AM",
+      "closetime": "8:38 PM",
+      "patient": "Daria Brognot"
+   },
+   "HU50 2046 1464 4545 0514 9318 6085": {
+      "speciality": "LGCY",
+      "fees": "$93.61",
+      "opentime": "9:10 AM",
+      "closetime": "7:55 PM",
+      "patient": "Friederike Deverille"
+   },
+   "IL93 3675 9627 7700 6810 375": {
+      "speciality": "PCN",
+      "fees": "$52.17",
+      "opentime": "8:37 AM",
+      "closetime": "8:19 PM",
+      "patient": "Balduin Vannet"
+   },
+   "LT97 6311 1971 8717 0601": {
+      "speciality": "APPS",
+      "fees": "$63.25",
+      "opentime": "9:10 AM",
+      "closetime": "8:36 PM",
+      "patient": "Allis Pearman"
+   },
+   "LV23 NUKR 9DYP 8AIU LJOC I": {
+      "speciality": "CHDN",
+      "fees": "$71.84",
+      "opentime": "9:18 AM",
+      "closetime": "8:39 PM",
+      "patient": "Sissie Nottingham"
+   },
+   "PL84 5644 0259 1153 3484 5014 6227": {
+      "speciality": "MTOR",
+      "fees": "$39.65",
+      "opentime": "8:06 AM",
+      "closetime": "10:39 PM",
+      "patient": "Miller Filipson"
+   },
+   "FR16 2014 4147 64YR RM9H 625X M80": {
+      "speciality": "CUK",
+      "fees": "$65.52",
+      "opentime": "8:07 AM",
+      "closetime": "9:55 PM",
+      "patient": "Sheeree Sandercock"
+   },
+   "FI55 6881 9759 0822 09": {
+      "speciality": "FSCFL",
+      "fees": "$95.57",
+      "opentime": "8:57 AM",
+      "closetime": "8:00 PM",
+      "patient": "Shea Murkus"
+   },
+   "AT67 9422 2810 1274 2571": {
+      "speciality": "BNED",
+      "fees": "$56.40",
+      "opentime": "9:01 AM",
+      "closetime": "7:35 PM",
+      "patient": "Atlante Littrell"
+   },
+   "RS58 5347 3992 2393 2247 02": {
+      "speciality": "PXLW",
+      "fees": "$60.28",
+      "opentime": "8:32 AM",
+      "closetime": "10:14 PM",
+      "patient": "Sigmund Saylor"
+   },
+   "KW73 ERLJ GXFF ZTGX M7AY TQ85 MMB6 AW": {
+      "speciality": "KTF",
+      "fees": "$47.93",
+      "opentime": "9:38 AM",
+      "closetime": "7:21 PM",
+      "patient": "Hedvig Louiset"
+   },
+   "MC58 3765 1291 21NQ KEHA ZLFA J78": {
+      "speciality": "NFBK",
+      "fees": "$46.27",
+      "opentime": "9:38 AM",
+      "closetime": "8:37 PM",
+      "patient": "Glennie Jacobbe"
+   },
+   "MT89 MFLK 7513 1HOP XJIV 819W XA9S 7BN": {
+      "speciality": "CB",
+      "fees": "$33.48",
+      "opentime": "9:54 AM",
+      "closetime": "7:44 PM",
+      "patient": "Hope Greenacre"
+   },
+   "DE64 7674 5657 9418 0300 34": {
+      "speciality": "TX",
+      "fees": "$75.37",
+      "opentime": "9:36 AM",
+      "closetime": "6:38 PM",
+      "patient": "Russ Acuna"
+   },
+   "MR50 5021 5140 4707 4961 6710 657": {
+      "speciality": "MOH",
+      "fees": "$48.01",
+      "opentime": "8:09 AM",
+      "closetime": "8:48 PM",
+      "patient": "Austin Belcham"
+   },
+   "FR96 8104 8018 074S ESDR QSR1 Z02": {
+      "speciality": "BID",
+      "fees": "$42.81",
+      "opentime": "9:08 AM",
+      "closetime": "7:07 PM",
+      "patient": "Babbette Ellesworth"
+   },
+   "AD21 9852 1524 HESJ BUHV SNCQ": {
+      "speciality": "CTBI",
+      "fees": "$83.51",
+      "opentime": "9:39 AM",
+      "closetime": "10:26 PM",
+      "patient": "Silvana Easterby"
+   },
+   "LI28 6811 4LWV XSLU 5QLK X": {
+      "speciality": "PSA^V",
+      "fees": "$90.67",
+      "opentime": "9:14 AM",
+      "closetime": "8:29 PM",
+      "patient": "Faythe Bickerstaff"
+   },
+   "FR05 1072 6401 626G BS6G 7DOQ C04": {
+      "speciality": "MNST",
+      "fees": "$35.90",
+      "opentime": "9:48 AM",
+      "closetime": "10:56 PM",
+      "patient": "Alfred Obern"
+   },
+   "RO93 JMZU BZE8 ARMB OKAW IGV8": {
+      "speciality": "AGD",
+      "fees": "$69.86",
+      "opentime": "9:24 AM",
+      "closetime": "8:35 PM",
+      "patient": "Emmott Malcolmson"
+   },
+   "LU38 173W SNFW OHTP 9XNG": {
+      "speciality": "PPSI",
+      "fees": "$87.49",
+      "opentime": "9:07 AM",
+      "closetime": "7:36 PM",
+      "patient": "Sanders Anderl"
+   },
+   "FR84 5459 1600 527B KBUU HPOI O60": {
+      "speciality": "PTIE",
+      "fees": "$44.63",
+      "opentime": "9:02 AM",
+      "closetime": "9:58 PM",
+      "patient": "Michelle Flatman"
+   },
+   "BH60 LVWH FIVS JZPH PP0I WZ": {
+      "speciality": "PZC",
+      "fees": "$94.84",
+      "opentime": "8:27 AM",
+      "closetime": "7:07 PM",
+      "patient": "Sayer Lishmund"
+   },
+   "FR95 2044 4839 16B5 XQFX JQKC O77": {
+      "speciality": "RNVA",
+      "fees": "$99.93",
+      "opentime": "9:54 AM",
+      "closetime": "6:34 PM",
+      "patient": "Bethanne Leneve"
+   },
+   "FR73 8295 5917 82YL UQXF Q5OH W05": {
+      "speciality": "RAS^C",
+      "fees": "$74.46",
+      "opentime": "9:21 AM",
+      "closetime": "8:39 PM",
+      "patient": "Paulita Taillard"
+   },
+   "FR94 1796 8053 19KX NXAA ZQQJ Y26": {
+      "speciality": "CYTXW",
+      "fees": "$96.27",
+      "opentime": "9:42 AM",
+      "closetime": "6:42 PM",
+      "patient": "Bank Housaman"
+   },
+   "VG07 UQZO 5180 9873 9182 0674": {
+      "speciality": "IHG",
+      "fees": "$91.28",
+      "opentime": "8:09 AM",
+      "closetime": "8:51 PM",
+      "patient": "Deborah Jerrams"
+   },
+   "FR04 5501 2255 99NG GXCH E1AN L56": {
+      "speciality": "FEM",
+      "fees": "$52.46",
+      "opentime": "8:57 AM",
+      "closetime": "7:09 PM",
+      "patient": "Alvy Davidovic"
+   },
+   "GI32 KILU XXHW MYGQ GP9J FFL": {
+      "speciality": "MINDP",
+      "fees": "$51.53",
+      "opentime": "8:05 AM",
+      "closetime": "10:18 PM",
+      "patient": "Wynn Burgwin"
+   },
+   "KW50 ZIUP MOAP 73WH T3Z6 8QZF 1CVE MW": {
+      "speciality": "HSBC",
+      "fees": "$62.97",
+      "opentime": "8:53 AM",
+      "closetime": "6:40 PM",
+      "patient": "Joshia Hugk"
+   },
+   "AZ51 RHTU V0LX XFAF FAEL 5W4K TLUL": {
+      "speciality": "QUIK",
+      "fees": "$70.34",
+      "opentime": "9:31 AM",
+      "closetime": "8:01 PM",
+      "patient": "Dalt Sidwick"
+   },
+   "HU13 5728 5684 7568 3013 6108 3791": {
+      "speciality": "RATE",
+      "fees": "$53.34",
+      "opentime": "8:01 AM",
+      "closetime": "8:12 PM",
+      "patient": "Mitch Ablitt"
+   },
+   "AZ77 TIME V6XF 4F4T G1IO CXW1 VR2N": {
+      "speciality": "JMF",
+      "fees": "$68.35",
+      "opentime": "9:41 AM",
+      "closetime": "8:24 PM",
+      "patient": "Rice Neno"
+   },
+   "FR59 3450 1986 90BZ GQCD O4W4 X80": {
+      "speciality": "PBBI",
+      "fees": "$55.74",
+      "opentime": "9:39 AM",
+      "closetime": "8:48 PM",
+      "patient": "Anders Childs"
+   },
+   "VG33 HIGU 1502 3189 7564 3354": {
+      "speciality": "AGEN",
+      "fees": "$61.96",
+      "opentime": "9:48 AM",
+      "closetime": "7:37 PM",
+      "patient": "Hedvige Hamlyn"
+   },
+   "ES45 6751 2746 6614 2696 0500": {
+      "speciality": "FPH",
+      "fees": "$55.83",
+      "opentime": "9:40 AM",
+      "closetime": "9:53 PM",
+      "patient": "Agnella Serchwell"
+   },
+   "DK05 3835 7486 3427 41": {
+      "speciality": "TYG",
+      "fees": "$60.51",
+      "opentime": "8:46 AM",
+      "closetime": "7:59 PM",
+      "patient": "Grissel Bittlestone"
+   },
+   "EE60 2559 9248 7045 8884": {
+      "speciality": "TVE",
+      "fees": "$45.85",
+      "opentime": "9:17 AM",
+      "closetime": "10:54 PM",
+      "patient": "Feodora Heaney"
+   },
+   "LB90 1755 W9F0 EPT2 6ODF SQUR YKQT": {
+      "speciality": "FPL",
+      "fees": "$97.06",
+      "opentime": "9:29 AM",
+      "closetime": "6:52 PM",
+      "patient": "Lolita Gerger"
+   },
+   "CZ58 7814 3524 2394 3314 8079": {
+      "speciality": "FRC^D",
+      "fees": "$33.46",
+      "opentime": "8:08 AM",
+      "closetime": "9:39 PM",
+      "patient": "Marquita Dowyer"
+   },
+   "VG08 LSBH 6602 4368 9435 1995": {
+      "speciality": "ELECU",
+      "fees": "$40.93",
+      "opentime": "8:19 AM",
+      "closetime": "6:19 PM",
+      "patient": "Linnie Quoit"
+   },
+   "FR47 5927 5736 85TO QFOC AX5U Y39": {
+      "speciality": "ESGE",
+      "fees": "$46.90",
+      "opentime": "8:48 AM",
+      "closetime": "7:33 PM",
+      "patient": "Dallon Firbank"
+   },
+   "PS26 IZCX INNB 8PS8 CNC9 WEVH E0OF E": {
+      "speciality": "ABUS",
+      "fees": "$88.58",
+      "opentime": "8:01 AM",
+      "closetime": "9:31 PM",
+      "patient": "Forester Molian"
+   },
+   "LI68 1052 2CWS JA2J EYTO 7": {
+      "speciality": "STT^E",
+      "fees": "$74.81",
+      "opentime": "9:23 AM",
+      "closetime": "6:19 PM",
+      "patient": "Kathy Worthy"
+   },
+   "IE89 PZDF 4497 6548 5766 71": {
+      "speciality": "ABDC",
+      "fees": "$39.07",
+      "opentime": "8:58 AM",
+      "closetime": "6:19 PM",
+      "patient": "Halli Manuello"
+   },
+   "CY81 1939 0564 9W34 VEPB MWKX LS9Q": {
+      "speciality": "ELECW",
+      "fees": "$89.77",
+      "opentime": "8:17 AM",
+      "closetime": "7:47 PM",
+      "patient": "Ted Jojic"
+   },
+   "PT84 7275 1787 1889 9219 0761 7": {
+      "speciality": "CPTA",
+      "fees": "$56.12",
+      "opentime": "9:40 AM",
+      "closetime": "8:45 PM",
+      "patient": "Merrel Vallerine"
+   },
+   "CR32 8749 1214 8519 7793 8": {
+      "speciality": "AXR",
+      "fees": "$69.73",
+      "opentime": "9:19 AM",
+      "closetime": "8:46 PM",
+      "patient": "Allistir Ainsworth"
+   },
+   "FR92 1260 4050 300R 9SKR 9O3Z M64": {
+      "speciality": "CBL^E",
+      "fees": "$99.61",
+      "opentime": "8:01 AM",
+      "closetime": "7:55 PM",
+      "patient": "Berne Spring"
+   },
+   "GR10 2336 499R Q28Q RUIR ASCN HRL": {
+      "speciality": "JASN",
+      "fees": "$71.22",
+      "opentime": "9:11 AM",
+      "closetime": "9:24 PM",
+      "patient": "Teddie Purchase"
+   },
+   "PT13 7840 2466 2076 5916 3952 3": {
+      "speciality": "NBHC",
+      "fees": "$55.94",
+      "opentime": "9:15 AM",
+      "closetime": "10:13 PM",
+      "patient": "Emilie Gwinnel"
+   },
+   "FR71 3913 1247 07WX QFCP TJZO 572": {
+      "speciality": "NYMT",
+      "fees": "$59.44",
+      "opentime": "9:06 AM",
+      "closetime": "8:10 PM",
+      "patient": "Roth Tezure"
+   },
+   "IL36 0542 3873 4811 4066 747": {
+      "speciality": "TWMC",
+      "fees": "$99.37",
+      "opentime": "8:45 AM",
+      "closetime": "9:00 PM",
+      "patient": "Nerte Reubbens"
+   },
+   "AE86 4320 8308 0162 0181 432": {
+      "speciality": "PSTB",
+      "fees": "$45.81",
+      "opentime": "8:13 AM",
+      "closetime": "6:46 PM",
+      "patient": "Cecile Phifer"
+   },
+   "LB60 1149 XJUO 9JUQ FMKG LY38 LLR5": {
+      "speciality": "CLA.CL",
+      "fees": "$79.23",
+      "opentime": "9:22 AM",
+      "closetime": "7:04 PM",
+      "patient": "Lothaire Lednor"
+   },
+   "LI60 4902 48EK CKQB ODPQ F": {
+      "speciality": "NTRP",
+      "fees": "$49.59",
+      "opentime": "9:55 AM",
+      "closetime": "8:22 PM",
+      "patient": "Sena Jaume"
+   },
+   "RO49 PBEQ 71GR HDRA 6LBK 1I3C": {
+      "speciality": "KED",
+      "fees": "$74.16",
+      "opentime": "8:23 AM",
+      "closetime": "9:20 PM",
+      "patient": "Benton Durrand"
+   },
+   "IS63 3416 5464 5334 7364 0774 86": {
+      "speciality": "IZEA",
+      "fees": "$58.73",
+      "opentime": "9:00 AM",
+      "closetime": "6:42 PM",
+      "patient": "Corri Jewitt"
+   },
+   "VG93 NQSZ 1572 9888 0653 1436": {
+      "speciality": "COP",
+      "fees": "$51.36",
+      "opentime": "8:09 AM",
+      "closetime": "10:33 PM",
+      "patient": "Zorina Hallyburton"
+   },
+   "FR11 9988 5155 27DL SGFI 5M5K J79": {
+      "speciality": "UEIC",
+      "fees": "$34.73",
+      "opentime": "8:28 AM",
+      "closetime": "9:17 PM",
+      "patient": "Alwyn Giovanizio"
+   },
+   "FR74 9569 1204 997G YFFC EHGF L14": {
+      "speciality": "NCMI",
+      "fees": "$37.53",
+      "opentime": "9:56 AM",
+      "closetime": "8:05 PM",
+      "patient": "Tami Reape"
+   },
+   "TR04 6324 6IY3 UYAK WHNY PLNP 1Z": {
+      "speciality": "KOOL",
+      "fees": "$57.48",
+      "opentime": "9:41 AM",
+      "closetime": "6:27 PM",
+      "patient": "Erda Balnave"
+   },
+   "PL24 5951 9075 7967 3956 9121 6183": {
+      "speciality": "RYAM^A",
+      "fees": "$56.63",
+      "opentime": "9:13 AM",
+      "closetime": "6:23 PM",
+      "patient": "Brina MacKimmie"
+   },
+   "AE42 0263 7751 9558 4707 081": {
+      "speciality": "SNDE",
+      "fees": "$53.86",
+      "opentime": "8:55 AM",
+      "closetime": "9:26 PM",
+      "patient": "Abie Millwater"
+   },
+   "BE49 3204 0995 0689": {
+      "speciality": "KMPR",
+      "fees": "$35.44",
+      "opentime": "9:55 AM",
+      "closetime": "8:37 PM",
+      "patient": "Babara Grigs"
+   },
+   "GE37 PT06 1417 3370 2120 62": {
+      "speciality": "NR",
+      "fees": "$82.26",
+      "opentime": "8:33 AM",
+      "closetime": "10:34 PM",
+      "patient": "Clemence Phelp"
+   },
+   "GB91 AOIP 5711 5681 8094 16": {
+      "speciality": "HSC",
+      "fees": "$39.05",
+      "opentime": "8:27 AM",
+      "closetime": "9:53 PM",
+      "patient": "Marcellina Hiscoe"
+   },
+   "RS19 0240 1979 0188 7289 37": {
+      "speciality": "WRK",
+      "fees": "$68.11",
+      "opentime": "9:39 AM",
+      "closetime": "7:45 PM",
+      "patient": "Virgil Dimitriou"
+   },
+   "IE03 HJZZ 3947 9742 7010 69": {
+      "speciality": "JE^A",
+      "fees": "$48.85",
+      "opentime": "8:23 AM",
+      "closetime": "6:49 PM",
+      "patient": "Galen Churn"
+   },
+   "PK69 LJYI L8KU H3AP PLHK GEWB": {
+      "speciality": "PIO",
+      "fees": "$90.31",
+      "opentime": "8:16 AM",
+      "closetime": "10:54 PM",
+      "patient": "Cleon Cumesky"
+   },
+   "BR06 1723 1665 8904 3617 9422 784Q O": {
+      "speciality": "HCSG",
+      "fees": "$36.84",
+      "opentime": "8:03 AM",
+      "closetime": "6:23 PM",
+      "patient": "Kassey Normanville"
+   },
+   "FR68 3025 4041 85BU ULRO HS9J R04": {
+      "speciality": "SCHN",
+      "fees": "$69.27",
+      "opentime": "9:23 AM",
+      "closetime": "10:23 PM",
+      "patient": "Hamish Chaplain"
+   },
+   "FR32 3003 1815 37PE PMOH JPTV W72": {
+      "speciality": "CHT",
+      "fees": "$60.28",
+      "opentime": "8:32 AM",
+      "closetime": "7:27 PM",
+      "patient": "Jacqueline Sparshott"
+   },
+   "GR98 6348 835G JTGY CYKV DUFX UPJ": {
+      "speciality": "CLF",
+      "fees": "$77.50",
+      "opentime": "9:32 AM",
+      "closetime": "9:53 PM",
+      "patient": "Rowan Fremantle"
+   },
+   "HR51 8337 4872 5526 3018 1": {
+      "speciality": "BMRN",
+      "fees": "$83.51",
+      "opentime": "9:55 AM",
+      "closetime": "9:48 PM",
+      "patient": "Alvy Collibear"
+   },
+   "BH63 IEGH Q3PL AJGE S2C0 RO": {
+      "speciality": "AGFS",
+      "fees": "$87.54",
+      "opentime": "8:12 AM",
+      "closetime": "10:58 PM",
+      "patient": "Daryl Birchett"
+   },
+   "FR66 3325 8000 16B4 9TVE HCSP S74": {
+      "speciality": "KTH",
+      "fees": "$49.45",
+      "opentime": "8:42 AM",
+      "closetime": "7:41 PM",
+      "patient": "Claribel Wadforth"
+   },
+   "FO41 2563 3505 9951 07": {
+      "speciality": "PRIM",
+      "fees": "$68.65",
+      "opentime": "8:16 AM",
+      "closetime": "9:02 PM",
+      "patient": "Tony Mingey"
+   },
+   "BG89 DDRL 1460 04WG RQAH IX": {
+      "speciality": "ABEOW",
+      "fees": "$93.38",
+      "opentime": "9:23 AM",
+      "closetime": "7:18 PM",
+      "patient": "Fraze Jayes"
+   },
+   "KW74 KEWO QC2H PBZL L7TT EXEO KU7Y VK": {
+      "speciality": "STAR^G",
+      "fees": "$46.98",
+      "opentime": "8:03 AM",
+      "closetime": "7:54 PM",
+      "patient": "Ralf Dugood"
+   },
+   "NL50 QVLP 0758 8036 26": {
+      "speciality": "DXTR",
+      "fees": "$72.07",
+      "opentime": "8:35 AM",
+      "closetime": "9:32 PM",
+      "patient": "Gabie Gilder"
+   },
+   "CR08 7727 6521 6288 1414 2": {
+      "speciality": "GPK",
+      "fees": "$85.28",
+      "opentime": "8:41 AM",
+      "closetime": "10:00 PM",
+      "patient": "Bentlee Oloshkin"
+   },
+   "MC38 0011 8891 10FU NERL R3LS V34": {
+      "speciality": "EBF",
+      "fees": "$57.96",
+      "opentime": "9:32 AM",
+      "closetime": "8:24 PM",
+      "patient": "Edmon Hembry"
+   },
+   "FR94 5447 2442 65GD N090 0U8T L93": {
+      "speciality": "ZIONW",
+      "fees": "$32.22",
+      "opentime": "9:48 AM",
+      "closetime": "8:55 PM",
+      "patient": "Joannes Alexsandrev"
+   },
+   "HR51 8899 7878 0821 2260 6": {
+      "speciality": "OLD",
+      "fees": "$84.46",
+      "opentime": "8:55 AM",
+      "closetime": "9:01 PM",
+      "patient": "Loree Fairtlough"
+   },
+   "FR68 9679 6253 97JT AYFK E2IU P61": {
+      "speciality": "FLT",
+      "fees": "$65.74",
+      "opentime": "9:10 AM",
+      "closetime": "10:06 PM",
+      "patient": "Glen Slyde"
+   },
+   "MK47 616X M1TQ H3TD U68": {
+      "speciality": "BRK.A",
+      "fees": "$55.70",
+      "opentime": "8:14 AM",
+      "closetime": "9:56 PM",
+      "patient": "Ivory Bruckmann"
+   },
+   "SE48 4622 1247 9164 1806 5984": {
+      "speciality": "APLE",
+      "fees": "$69.64",
+      "opentime": "9:39 AM",
+      "closetime": "9:13 PM",
+      "patient": "Dolorita Harcarse"
+   },
+   "LU73 407W QR97 XN0O ML8I": {
+      "speciality": "MS^F",
+      "fees": "$95.19",
+      "opentime": "9:54 AM",
+      "closetime": "8:36 PM",
+      "patient": "Lanie Hebblethwaite"
+   },
+   "LT49 0403 9659 9216 4102": {
+      "speciality": "UCTT",
+      "fees": "$50.66",
+      "opentime": "8:31 AM",
+      "closetime": "7:26 PM",
+      "patient": "Mahalia Burg"
+   },
+   "BG67 BMYF 3016 65SF DWFN VY": {
+      "speciality": "KOOL",
+      "fees": "$71.06",
+      "opentime": "8:28 AM",
+      "closetime": "6:22 PM",
+      "patient": "Con Stonnell"
+   },
+   "GB84 RWLO 1771 4304 2740 14": {
+      "speciality": "FNBG",
+      "fees": "$52.16",
+      "opentime": "9:18 AM",
+      "closetime": "7:41 PM",
+      "patient": "Hayden Habergham"
+   },
+   "FO77 0510 3306 3573 12": {
+      "speciality": "AAN",
+      "fees": "$36.41",
+      "opentime": "8:24 AM",
+      "closetime": "7:44 PM",
+      "patient": "Davine Farington"
+   },
+   "LB67 9598 HEWS VSPQ JDPB 9P1G SD2U": {
+      "speciality": "MUI",
+      "fees": "$81.15",
+      "opentime": "9:50 AM",
+      "closetime": "8:47 PM",
+      "patient": "Stormi Macvain"
+   },
+   "GE84 YO75 4201 8113 9480 93": {
+      "speciality": "DS^B",
+      "fees": "$32.58",
+      "opentime": "9:45 AM",
+      "closetime": "7:24 PM",
+      "patient": "Lauryn Crus"
+   },
+   "FR11 4967 7149 42LU KXXN DCWP I62": {
+      "speciality": "ATHN",
+      "fees": "$78.01",
+      "opentime": "9:23 AM",
+      "closetime": "10:03 PM",
+      "patient": "Sher Tremayle"
+   },
+   "GR63 9095 149I MTYJ TYHB EJU3 VTO": {
+      "speciality": "ADM",
+      "fees": "$55.29",
+      "opentime": "9:01 AM",
+      "closetime": "10:09 PM",
+      "patient": "Dewitt Smidmor"
+   },
+   "BG87 TKQN 1897 35SL B4JW RO": {
+      "speciality": "VALE.P",
+      "fees": "$90.34",
+      "opentime": "9:03 AM",
+      "closetime": "10:19 PM",
+      "patient": "Garnet Stow"
+   },
+   "TN41 9840 6049 0768 9004 5827": {
+      "speciality": "CHRW",
+      "fees": "$75.15",
+      "opentime": "8:03 AM",
+      "closetime": "9:16 PM",
+      "patient": "Burgess Stoffersen"
+   },
+   "AT24 9361 5641 6388 6441": {
+      "speciality": "ZGNX",
+      "fees": "$52.64",
+      "opentime": "9:02 AM",
+      "closetime": "9:04 PM",
+      "patient": "Maritsa Saice"
+   },
+   "BA60 3453 6865 4690 9839": {
+      "speciality": "EMCF",
+      "fees": "$81.32",
+      "opentime": "8:22 AM",
+      "closetime": "9:20 PM",
+      "patient": "Gonzales Denson"
+   },
+   "BH16 KSVI K3HD ABZM S7YG 5U": {
+      "speciality": "CHY",
+      "fees": "$77.28",
+      "opentime": "9:42 AM",
+      "closetime": "8:26 PM",
+      "patient": "Phil Lezemere"
+   },
+   "CY02 4916 7268 9VBJ H2MH HCYQ NPCD": {
+      "speciality": "ENTA",
+      "fees": "$40.06",
+      "opentime": "8:57 AM",
+      "closetime": "8:41 PM",
+      "patient": "Willie Strelitzer"
+   },
+   "IS03 8255 4514 2863 8378 7061 71": {
+      "speciality": "STLR",
+      "fees": "$44.96",
+      "opentime": "8:07 AM",
+      "closetime": "8:00 PM",
+      "patient": "Allyson Crosswaite"
+   },
+   "TR32 2175 5NBK 9FOJ DZ20 VISX UX": {
+      "speciality": "SNHY",
+      "fees": "$63.85",
+      "opentime": "9:07 AM",
+      "closetime": "7:00 PM",
+      "patient": "Jaclin Castenda"
+   },
+   "RO03 QBHW 8LB1 5IRG D29P E9QG": {
+      "speciality": "LNT",
+      "fees": "$99.29",
+      "opentime": "8:05 AM",
+      "closetime": "8:13 PM",
+      "patient": "Gibb Cooke"
+   },
+   "DK51 5400 6396 3472 32": {
+      "speciality": "ILMN",
+      "fees": "$70.49",
+      "opentime": "9:42 AM",
+      "closetime": "7:57 PM",
+      "patient": "Mommy Shurlock"
+   },
+   "FO46 4360 3391 3304 67": {
+      "speciality": "ON",
+      "fees": "$99.73",
+      "opentime": "8:58 AM",
+      "closetime": "7:19 PM",
+      "patient": "Kennedy Eddie"
+   },
+   "DO47 QMW0 2328 9245 5792 3157 7453": {
+      "speciality": "DGAS",
+      "fees": "$91.86",
+      "opentime": "8:55 AM",
+      "closetime": "7:11 PM",
+      "patient": "Ingrim Sloey"
+   },
+   "BR28 5435 3756 1878 3309 7014 465T N": {
+      "speciality": "GOODO",
+      "fees": "$36.20",
+      "opentime": "8:48 AM",
+      "closetime": "7:50 PM",
+      "patient": "Marcos Darkott"
+   },
+   "FR74 3463 2217 01VD FXHV VB0V L08": {
+      "speciality": "SCG",
+      "fees": "$82.71",
+      "opentime": "9:29 AM",
+      "closetime": "9:31 PM",
+      "patient": "Peta Bowne"
+   },
+   "FR61 7686 3513 12HP 11CX ZDCO B61": {
+      "speciality": "FSCFL",
+      "fees": "$97.21",
+      "opentime": "9:48 AM",
+      "closetime": "6:04 PM",
+      "patient": "Raimondo Lillford"
+   },
+   "FR68 0949 7648 05Q9 DZZJ XW7C I78": {
+      "speciality": "WFC^T",
+      "fees": "$63.65",
+      "opentime": "9:31 AM",
+      "closetime": "10:00 PM",
+      "patient": "Felike Flaxon"
+   },
+   "ME75 4429 0412 3316 5607 21": {
+      "speciality": "CLSD",
+      "fees": "$30.82",
+      "opentime": "8:24 AM",
+      "closetime": "7:14 PM",
+      "patient": "Claudianus Klug"
+   },
+   "MC85 0581 5117 93JJ F7TA 5WYZ E56": {
+      "speciality": "PEG",
+      "fees": "$33.84",
+      "opentime": "8:59 AM",
+      "closetime": "10:18 PM",
+      "patient": "Fidelity Frier"
+   },
+   "FR83 8082 3014 517I CDIK LUKO E21": {
+      "speciality": "FCH^A",
+      "fees": "$70.79",
+      "opentime": "8:05 AM",
+      "closetime": "6:35 PM",
+      "patient": "Flint Belamy"
+   },
+   "MR59 0247 9736 9212 7133 7582 964": {
+      "speciality": "SWP",
+      "fees": "$93.51",
+      "opentime": "8:34 AM",
+      "closetime": "6:21 PM",
+      "patient": "Barnett Whitfield"
+   },
+   "AZ80 ZKNG 1D2K Q9DT D8ZV QX2N BN7W": {
+      "speciality": "GBLIZ",
+      "fees": "$47.57",
+      "opentime": "8:13 AM",
+      "closetime": "7:13 PM",
+      "patient": "Aguie Creevy"
+   },
+   "FR09 0133 2425 43RI SVLF PARP K96": {
+      "speciality": "CPE^A",
+      "fees": "$95.80",
+      "opentime": "8:34 AM",
+      "closetime": "8:37 PM",
+      "patient": "Poul Wain"
+   },
+   "PT20 6240 3550 9033 7528 9895 2": {
+      "speciality": "EVBS",
+      "fees": "$35.76",
+      "opentime": "8:57 AM",
+      "closetime": "6:09 PM",
+      "patient": "Norri Riccelli"
+   },
+   "GE13 IK78 9896 7713 8244 43": {
+      "speciality": "REGI",
+      "fees": "$90.82",
+      "opentime": "9:42 AM",
+      "closetime": "8:41 PM",
+      "patient": "Wilek Vuitte"
+   },
+   "GE77 RX94 2232 4706 7172 89": {
+      "speciality": "HSEB",
+      "fees": "$75.87",
+      "opentime": "9:48 AM",
+      "closetime": "8:40 PM",
+      "patient": "Travis Philpin"
+   },
+   "AD68 2011 9929 YBXE DAKS XDPV": {
+      "speciality": "NICE",
+      "fees": "$84.97",
+      "opentime": "9:31 AM",
+      "closetime": "7:29 PM",
+      "patient": "Kippy Tourry"
+   },
+   "MR91 9041 4676 9620 4348 2491 560": {
+      "speciality": "ICD",
+      "fees": "$42.66",
+      "opentime": "9:22 AM",
+      "closetime": "7:45 PM",
+      "patient": "Gram Skillicorn"
+   },
+   "BE23 0890 3512 8022": {
+      "speciality": "SWKS",
+      "fees": "$35.66",
+      "opentime": "8:31 AM",
+      "closetime": "7:27 PM",
+      "patient": "Annadiane Islep"
+   },
+   "PT09 8696 1964 6039 5451 0037 2": {
+      "speciality": "CYCC",
+      "fees": "$73.28",
+      "opentime": "9:42 AM",
+      "closetime": "10:47 PM",
+      "patient": "Donna Tunney"
+   },
+   "BR24 2412 7926 1941 0117 8638 114T 8": {
+      "speciality": "QPACW",
+      "fees": "$74.80",
+      "opentime": "9:15 AM",
+      "closetime": "6:42 PM",
+      "patient": "Almeda Muck"
+   },
+   "DE96 6762 8588 8154 8355 80": {
+      "speciality": "BBBY",
+      "fees": "$77.40",
+      "opentime": "8:37 AM",
+      "closetime": "7:20 PM",
+      "patient": "Petronilla Rehor"
+   },
+   "IE81 WVEW 9651 0452 5447 79": {
+      "speciality": "AMKR",
+      "fees": "$51.75",
+      "opentime": "8:45 AM",
+      "closetime": "9:07 PM",
+      "patient": "Deedee Gartan"
+   },
+   "CY59 3463 6642 F5SQ IYZH IJAM TA94": {
+      "speciality": "MFIN",
+      "fees": "$81.62",
+      "opentime": "8:05 AM",
+      "closetime": "10:33 PM",
+      "patient": "Sayres Lowde"
+   },
+   "BE52 3445 5653 1660": {
+      "speciality": "MOS",
+      "fees": "$76.73",
+      "opentime": "8:05 AM",
+      "closetime": "10:19 PM",
+      "patient": "Lola Winterburn"
+   },
+   "BH29 LVEL YCCM 4UDS KNV4 JH": {
+      "speciality": "VUSE",
+      "fees": "$58.15",
+      "opentime": "8:29 AM",
+      "closetime": "7:39 PM",
+      "patient": "Eva Clousley"
+   },
+   "SA41 71UC QDFN YJNI AIKS PFTS": {
+      "speciality": "COF^G",
+      "fees": "$67.62",
+      "opentime": "8:58 AM",
+      "closetime": "6:51 PM",
+      "patient": "Olly Krelle"
+   },
+   "TR15 5685 9S4T MAOU 4UHJ WVOO 62": {
+      "speciality": "PFLT",
+      "fees": "$81.25",
+      "opentime": "8:30 AM",
+      "closetime": "10:38 PM",
+      "patient": "Leeanne Palffrey"
+   },
+   "IT65 O741 2150 8198 DNOT J4QX U1H": {
+      "speciality": "CA",
+      "fees": "$84.39",
+      "opentime": "9:50 AM",
+      "closetime": "7:48 PM",
+      "patient": "Caesar Revens"
+   },
+   "LV48 LHWQ PBSH RZME OGKO D": {
+      "speciality": "FIBK",
+      "fees": "$91.10",
+      "opentime": "9:17 AM",
+      "closetime": "9:32 PM",
+      "patient": "Nathanial Currin"
+   },
+   "FR50 9752 7709 90JD 5QLP K1BS U96": {
+      "speciality": "BRKS",
+      "fees": "$98.29",
+      "opentime": "9:44 AM",
+      "closetime": "10:01 PM",
+      "patient": "Jakie Biasotti"
+   },
+   "ES64 2275 0507 8317 7690 9433": {
+      "speciality": "ARI^A",
+      "fees": "$40.13",
+      "opentime": "8:56 AM",
+      "closetime": "9:45 PM",
+      "patient": "Myrvyn Damarell"
+   },
+   "SA55 64UL S5VP Y5KG ELMX 6ZLY": {
+      "speciality": "RGEN",
+      "fees": "$57.18",
+      "opentime": "9:28 AM",
+      "closetime": "7:59 PM",
+      "patient": "Tanny Boeter"
+   },
+   "RO16 TCAO 4CKC NVOS U1BQ 3T7M": {
+      "speciality": "OMAA",
+      "fees": "$51.41",
+      "opentime": "9:09 AM",
+      "closetime": "6:01 PM",
+      "patient": "Martyn Coard"
+   },
+   "FR36 3041 5234 69TT 3GTM LDES 513": {
+      "speciality": "MCHI",
+      "fees": "$73.50",
+      "opentime": "8:52 AM",
+      "closetime": "7:01 PM",
+      "patient": "Lyndsie Bruce"
+   },
+   "FO64 2749 6839 8538 51": {
+      "speciality": "AN",
+      "fees": "$84.89",
+      "opentime": "9:48 AM",
+      "closetime": "7:35 PM",
+      "patient": "Angelica Antonignetti"
+   },
+   "PT74 7061 6700 7236 1062 6805 7": {
+      "speciality": "NNDM",
+      "fees": "$91.49",
+      "opentime": "9:29 AM",
+      "closetime": "7:17 PM",
+      "patient": "Byrom Seals"
+   },
+   "FI10 5983 1649 6348 57": {
+      "speciality": "FLC",
+      "fees": "$67.72",
+      "opentime": "9:43 AM",
+      "closetime": "9:03 PM",
+      "patient": "Susanetta Maudsley"
+   },
+   "MR31 2053 0806 4509 4976 0986 276": {
+      "speciality": "BBY",
+      "fees": "$57.74",
+      "opentime": "9:57 AM",
+      "closetime": "8:34 PM",
+      "patient": "Othelia Wigg"
+   },
+   "MK10 378P H0V6 HYYU A73": {
+      "speciality": "SMBK",
+      "fees": "$84.71",
+      "opentime": "9:29 AM",
+      "closetime": "7:08 PM",
+      "patient": "Andy Maynell"
+   },
+   "LB63 2752 OF7A TARM YWAX WJMH 0G5R": {
+      "speciality": "IDLB",
+      "fees": "$36.32",
+      "opentime": "8:59 AM",
+      "closetime": "10:44 PM",
+      "patient": "Claiborn Featley"
+   },
+   "AZ57 OUUV 99BJ OIEA HQXH 1TMM JAT5": {
+      "speciality": "BAC^W",
+      "fees": "$84.13",
+      "opentime": "8:23 AM",
+      "closetime": "10:51 PM",
+      "patient": "Starlene Masterson"
+   },
+   "FR79 7881 6916 84DS UDOU JOYH V70": {
+      "speciality": "AER",
+      "fees": "$72.64",
+      "opentime": "8:49 AM",
+      "closetime": "9:42 PM",
+      "patient": "Harri Deave"
+   },
+   "LU03 616J PLOR ISXA 5MSV": {
+      "speciality": "BITA",
+      "fees": "$62.86",
+      "opentime": "9:14 AM",
+      "closetime": "9:23 PM",
+      "patient": "Dieter Rozier"
+   },
+   "AT91 7218 1383 3826 5720": {
+      "speciality": "FCFS",
+      "fees": "$48.92",
+      "opentime": "9:02 AM",
+      "closetime": "7:22 PM",
+      "patient": "Thebault Castree"
+   },
+   "PS96 CNMB ANTF UYIL G5E7 9HKL 4RUG 3": {
+      "speciality": "CII",
+      "fees": "$36.47",
+      "opentime": "9:14 AM",
+      "closetime": "10:05 PM",
+      "patient": "Sonni Heineke"
+   },
+   "PL67 2760 4908 5030 0776 7233 6037": {
+      "speciality": "SFUN",
+      "fees": "$57.00",
+      "opentime": "9:10 AM",
+      "closetime": "9:20 PM",
+      "patient": "Valaree Savery"
+   },
+   "FR17 4439 5903 03EW KQKP TYLV 762": {
+      "speciality": "MUX",
+      "fees": "$78.55",
+      "opentime": "9:54 AM",
+      "closetime": "7:44 PM",
+      "patient": "Austin Corson"
+   },
+   "FR40 3784 9632 758B BIBL LC5G W74": {
+      "speciality": "ANW",
+      "fees": "$55.28",
+      "opentime": "8:19 AM",
+      "closetime": "7:09 PM",
+      "patient": "Florina Reboul"
+   },
+   "LI70 6310 8QJS OJ2K SBRC C": {
+      "speciality": "EGOV",
+      "fees": "$66.66",
+      "opentime": "9:45 AM",
+      "closetime": "7:02 PM",
+      "patient": "Kearney Hryncewicz"
+   },
+   "NL49 PBMT 0748 7586 18": {
+      "speciality": "MITL",
+      "fees": "$91.84",
+      "opentime": "8:16 AM",
+      "closetime": "7:40 PM",
+      "patient": "Paulette Juzek"
+   },
+   "ES86 1391 8062 3146 3002 1153": {
+      "speciality": "CRCM",
+      "fees": "$63.21",
+      "opentime": "9:39 AM",
+      "closetime": "10:24 PM",
+      "patient": "Glynn Sonley"
+   },
+   "IT30 D661 8539 726A N8YX KDWC PDS": {
+      "speciality": "FRP",
+      "fees": "$67.84",
+      "opentime": "8:17 AM",
+      "closetime": "6:46 PM",
+      "patient": "Shell Surmeyers"
+   },
+   "PK07 TUDT FRZF V2G8 AKR9 M8G7": {
+      "speciality": "GENE",
+      "fees": "$80.98",
+      "opentime": "8:35 AM",
+      "closetime": "7:46 PM",
+      "patient": "Nealson Jezard"
+   },
+   "GR85 7118 257X IYHM 4J0O P7XZ SQP": {
+      "speciality": "ATRI",
+      "fees": "$31.81",
+      "opentime": "8:36 AM",
+      "closetime": "6:14 PM",
+      "patient": "Sidney Kermannes"
+   },
+   "FR59 1452 3464 88WZ W3PO WHCI C41": {
+      "speciality": "OIBR.C",
+      "fees": "$68.46",
+      "opentime": "9:54 AM",
+      "closetime": "9:20 PM",
+      "patient": "Rochella Eplett"
+   },
+   "MU49 QGLR 9758 4747 5260 2699 774T HS": {
+      "speciality": "VVPR",
+      "fees": "$51.09",
+      "opentime": "9:56 AM",
+      "closetime": "9:43 PM",
+      "patient": "Jeremie Cottisford"
+   },
+   "KW36 VKOH VS91 AD8I BBQK OUBV GPVF 5W": {
+      "speciality": "BMCH",
+      "fees": "$57.92",
+      "opentime": "8:29 AM",
+      "closetime": "7:05 PM",
+      "patient": "Marcelle Blackboro"
+   },
+   "CY91 0771 8423 U8TJ 2V08 X48Y 1WAL": {
+      "speciality": "CTLT",
+      "fees": "$97.48",
+      "opentime": "8:17 AM",
+      "closetime": "9:37 PM",
+      "patient": "Tybie Warwick"
+   },
+   "VG34 DSBS 8854 6966 9889 1781": {
+      "speciality": "UVV",
+      "fees": "$53.61",
+      "opentime": "9:48 AM",
+      "closetime": "8:48 PM",
+      "patient": "Tedra Cregg"
+   },
+   "GB32 MOYW 4772 8363 0556 94": {
+      "speciality": "CTRV",
+      "fees": "$94.75",
+      "opentime": "9:46 AM",
+      "closetime": "8:34 PM",
+      "patient": "Robbie Skipperbottom"
+   },
+   "FI39 5490 3372 7041 21": {
+      "speciality": "SQM",
+      "fees": "$33.19",
+      "opentime": "8:09 AM",
+      "closetime": "7:13 PM",
+      "patient": "Micheal Loxston"
+   },
+   "ME81 5155 6239 0786 3642 86": {
+      "speciality": "SXI",
+      "fees": "$98.18",
+      "opentime": "8:40 AM",
+      "closetime": "8:47 PM",
+      "patient": "Sybil Timblett"
+   },
+   "FR47 0046 0237 17NX EX9A S6WD W24": {
+      "speciality": "TLI",
+      "fees": "$66.26",
+      "opentime": "9:41 AM",
+      "closetime": "8:50 PM",
+      "patient": "Raye MacDougal"
+   },
+   "FR58 2591 5224 01BH PFQW GRIX R18": {
+      "speciality": "MSCA",
+      "fees": "$43.40",
+      "opentime": "8:55 AM",
+      "closetime": "9:25 PM",
+      "patient": "Carie Huffy"
+   },
+   "GR81 0368 946R GJKD BUVX FDXX NQT": {
+      "speciality": "DHG",
+      "fees": "$72.31",
+      "opentime": "8:47 AM",
+      "closetime": "6:58 PM",
+      "patient": "Jeffrey Felstead"
+   },
+   "FR41 6641 9467 32FL 54XU CRBB 955": {
+      "speciality": "COMT",
+      "fees": "$57.21",
+      "opentime": "9:26 AM",
+      "closetime": "10:46 PM",
+      "patient": "Mignon Fulks"
+   },
+   "BR50 8092 8305 4126 5782 7763 005Y S": {
+      "speciality": "MNTX",
+      "fees": "$82.36",
+      "opentime": "9:48 AM",
+      "closetime": "9:46 PM",
+      "patient": "Ara Braikenridge"
+   },
+   "PK71 OSWC W9VM PQWJ TZHS WOF9": {
+      "speciality": "CAMT",
+      "fees": "$96.72",
+      "opentime": "9:56 AM",
+      "closetime": "9:14 PM",
+      "patient": "Karena Gerardeaux"
+   },
+   "NL68 WXVG 6494 2721 15": {
+      "speciality": "ASTC",
+      "fees": "$58.35",
+      "opentime": "8:45 AM",
+      "closetime": "7:03 PM",
+      "patient": "Vaclav Morten"
+   },
+   "HU24 0994 2461 7721 3620 5246 8249": {
+      "speciality": "ABIL",
+      "fees": "$59.44",
+      "opentime": "9:57 AM",
+      "closetime": "8:40 PM",
+      "patient": "Adela Giff"
+   },
+   "CH44 1489 72WZ CAFX HAMI Z": {
+      "speciality": "DGLD",
+      "fees": "$31.39",
+      "opentime": "9:53 AM",
+      "closetime": "6:50 PM",
+      "patient": "Skippie Christal"
+   },
+   "FR14 4909 1985 68LO KXBW GQRH E10": {
+      "speciality": "GFI",
+      "fees": "$81.28",
+      "opentime": "8:39 AM",
+      "closetime": "10:24 PM",
+      "patient": "Carlyle Quilter"
+   },
+   "CZ52 6423 3578 7226 9828 3715": {
+      "speciality": "BSD",
+      "fees": "$42.18",
+      "opentime": "9:38 AM",
+      "closetime": "6:17 PM",
+      "patient": "Gabi Pettet"
+   },
+   "MK80 917S R1HQ KQY5 T66": {
+      "speciality": "SKOR",
+      "fees": "$31.03",
+      "opentime": "8:32 AM",
+      "closetime": "10:39 PM",
+      "patient": "Roberto Joel"
+   },
+   "GR49 9531 379C 04QS ZZEZ INOY YKK": {
+      "speciality": "PRTY",
+      "fees": "$54.41",
+      "opentime": "9:48 AM",
+      "closetime": "6:01 PM",
+      "patient": "Colan Meneely"
+   },
+   "FR40 5691 4423 26SL 3POD ELZL O03": {
+      "speciality": "PRGO",
+      "fees": "$84.09",
+      "opentime": "8:05 AM",
+      "closetime": "9:12 PM",
+      "patient": "Sharia MacEveley"
+   },
+   "SM93 M099 4955 176X XJJF TOBH PGV": {
+      "speciality": "IVH",
+      "fees": "$90.08",
+      "opentime": "9:27 AM",
+      "closetime": "6:38 PM",
+      "patient": "Catherine Brambill"
+   },
+   "LV48 FVZR E9PY K3ZK SYGF C": {
+      "speciality": "BHVN",
+      "fees": "$76.14",
+      "opentime": "8:19 AM",
+      "closetime": "6:29 PM",
+      "patient": "Omero Dyke"
+   },
+   "GI15 LCHN TZ27 XUV1 HVS9 AJR": {
+      "speciality": "ZIV",
+      "fees": "$56.17",
+      "opentime": "8:40 AM",
+      "closetime": "8:12 PM",
+      "patient": "Garfield Lambarton"
+   },
+   "GE23 KP56 2801 4962 3192 62": {
+      "speciality": "ENSG",
+      "fees": "$74.31",
+      "opentime": "8:12 AM",
+      "closetime": "7:31 PM",
+      "patient": "Stearne London"
+   },
+   "VG61 JERJ 0047 1408 3839 6272": {
+      "speciality": "LQ",
+      "fees": "$92.38",
+      "opentime": "9:30 AM",
+      "closetime": "6:51 PM",
+      "patient": "Markos Beamish"
+   },
+   "AL43 4474 1817 4WHN 95LO YMP2 MB7M": {
+      "speciality": "PDI",
+      "fees": "$48.27",
+      "opentime": "9:37 AM",
+      "closetime": "8:21 PM",
+      "patient": "Pepillo Eisikowitch"
+   },
+   "FR45 7352 7469 82OC DPCB 3P8N Z90": {
+      "speciality": "NFEC",
+      "fees": "$37.52",
+      "opentime": "8:24 AM",
+      "closetime": "6:33 PM",
+      "patient": "Lionel Weekes"
+   },
+   "FR49 8501 8695 190X VHV9 ZCOM B70": {
+      "speciality": "CLFD",
+      "fees": "$63.09",
+      "opentime": "8:04 AM",
+      "closetime": "8:41 PM",
+      "patient": "Andrej McCrow"
+   },
+   "IE63 PBLD 9717 0028 6449 36": {
+      "speciality": "CRD.B",
+      "fees": "$34.95",
+      "opentime": "8:57 AM",
+      "closetime": "6:40 PM",
+      "patient": "Peri Tavinor"
+   },
+   "FI70 1287 0121 3146 98": {
+      "speciality": "IAC",
+      "fees": "$77.61",
+      "opentime": "9:15 AM",
+      "closetime": "7:55 PM",
+      "patient": "Pepillo Bainbridge"
+   },
+   "FR96 5628 3910 67OO NSSR 6LGD O93": {
+      "speciality": "XNET",
+      "fees": "$37.36",
+      "opentime": "9:22 AM",
+      "closetime": "8:08 PM",
+      "patient": "Jo Rodgers"
+   },
+   "GT33 CDGH HHAX DPM5 4RC2 A75X FMHN": {
+      "speciality": "VRTS",
+      "fees": "$90.80",
+      "opentime": "9:18 AM",
+      "closetime": "10:09 PM",
+      "patient": "Menard Pattenden"
+   },
+   "DE32 7574 6980 7715 1476 26": {
+      "speciality": "ADVM",
+      "fees": "$34.57",
+      "opentime": "8:32 AM",
+      "closetime": "10:41 PM",
+      "patient": "Aurora Eunson"
+   },
+   "KZ98 2038 KBZZ 7H03 V5NK": {
+      "speciality": "AMH^C",
+      "fees": "$63.07",
+      "opentime": "8:24 AM",
+      "closetime": "7:03 PM",
+      "patient": "Kirby Abendroth"
+   },
+   "DK34 3678 0975 6665 53": {
+      "speciality": "JDD",
+      "fees": "$53.60",
+      "opentime": "9:15 AM",
+      "closetime": "9:41 PM",
+      "patient": "Ewen Veazey"
+   },
+   "CH91 3623 3FUJ UZ2E HCAV W": {
+      "speciality": "WBK",
+      "fees": "$90.22",
+      "opentime": "8:26 AM",
+      "closetime": "10:05 PM",
+      "patient": "Zak Barnet"
+   },
+   "LT57 1527 6557 6618 8129": {
+      "speciality": "YUM",
+      "fees": "$86.34",
+      "opentime": "8:07 AM",
+      "closetime": "6:26 PM",
+      "patient": "Frederic Pigden"
+   },
+   "ES94 1787 5709 8413 6248 2889": {
+      "speciality": "ACRS",
+      "fees": "$38.98",
+      "opentime": "9:41 AM",
+      "closetime": "6:59 PM",
+      "patient": "Shelly Thorns"
+   },
+   "FR21 0444 6888 93XQ J4PJ REXD M11": {
+      "speciality": "MBUU",
+      "fees": "$43.29",
+      "opentime": "8:27 AM",
+      "closetime": "9:21 PM",
+      "patient": "Julee Waddilove"
+   },
+   "AL83 4145 7938 5URB YYNF R398 OYNL": {
+      "speciality": "PCI",
+      "fees": "$42.03",
+      "opentime": "8:27 AM",
+      "closetime": "10:25 PM",
+      "patient": "Thorny Threadgould"
+   },
+   "FI41 4635 4659 0175 84": {
+      "speciality": "NBL",
+      "fees": "$57.05",
+      "opentime": "8:19 AM",
+      "closetime": "9:02 PM",
+      "patient": "Cherise Haslum"
+   },
+   "FO11 2989 9406 6020 46": {
+      "speciality": "BYFC",
+      "fees": "$89.23",
+      "opentime": "9:18 AM",
+      "closetime": "8:23 PM",
+      "patient": "Liane Hempel"
+   },
+   "FR59 8760 8764 52A5 9WZE O8VK V90": {
+      "speciality": "FOGO",
+      "fees": "$36.95",
+      "opentime": "8:40 AM",
+      "closetime": "6:52 PM",
+      "patient": "Georgina Ateggart"
+   },
+   "DO13 B6PA 4166 4463 1294 6604 8771": {
+      "speciality": "CBAK",
+      "fees": "$75.21",
+      "opentime": "8:27 AM",
+      "closetime": "6:47 PM",
+      "patient": "Joyce Sare"
+   },
+   "DO55 BWXX 9267 9079 1790 2539 9007": {
+      "speciality": "AXARW",
+      "fees": "$94.52",
+      "opentime": "9:17 AM",
+      "closetime": "8:58 PM",
+      "patient": "Danie Saffer"
+   },
+   "SA16 79XM APEQ 9AED K3HX GJCX": {
+      "speciality": "COR^A",
+      "fees": "$49.12",
+      "opentime": "8:40 AM",
+      "closetime": "10:38 PM",
+      "patient": "Rooney Kevane"
+   },
+   "RS59 2080 0968 4783 5491 87": {
+      "speciality": "RIG",
+      "fees": "$93.59",
+      "opentime": "8:21 AM",
+      "closetime": "9:47 PM",
+      "patient": "Griff Tows"
+   },
+   "HR44 6082 8933 1180 7702 6": {
+      "speciality": "WMK",
+      "fees": "$73.92",
+      "opentime": "9:15 AM",
+      "closetime": "9:48 PM",
+      "patient": "Randene Sauter"
+   },
+   "AT77 9344 8939 7360 8356": {
+      "speciality": "JPM.WS",
+      "fees": "$36.55",
+      "opentime": "8:53 AM",
+      "closetime": "7:31 PM",
+      "patient": "Miquela Drury"
+   },
+   "BR84 2548 8313 8910 0932 1392 356P R": {
+      "speciality": "BML^J",
+      "fees": "$73.83",
+      "opentime": "9:00 AM",
+      "closetime": "7:31 PM",
+      "patient": "Udall Loveguard"
+   },
+   "FR11 2954 1366 09NO 1BPB V7ZJ S03": {
+      "speciality": "ATGE",
+      "fees": "$88.24",
+      "opentime": "8:27 AM",
+      "closetime": "7:48 PM",
+      "patient": "Dilan Theis"
+   },
+   "MD74 QNGM ELPJ KE1K SS7B 6SWI": {
+      "speciality": "BHVN",
+      "fees": "$78.59",
+      "opentime": "9:04 AM",
+      "closetime": "10:46 PM",
+      "patient": "Jeannine Andreev"
+   },
+   "TR48 5641 5PEQ ZFVN UG09 HKVP CH": {
+      "speciality": "AXAS",
+      "fees": "$34.75",
+      "opentime": "8:49 AM",
+      "closetime": "7:37 PM",
+      "patient": "Christine Arenson"
+   },
+   "GR52 8730 341E 9JXC AIKX GZT8 KZY": {
+      "speciality": "SLG^I",
+      "fees": "$67.34",
+      "opentime": "9:50 AM",
+      "closetime": "9:21 PM",
+      "patient": "Art Harsum"
+   },
+   "BG09 CEXA 7471 91LS 8HYY 2W": {
+      "speciality": "FCB",
+      "fees": "$53.19",
+      "opentime": "8:58 AM",
+      "closetime": "9:56 PM",
+      "patient": "Bessy Pickavant"
+   },
+   "DK14 5545 5120 3964 88": {
+      "speciality": "AI^B",
+      "fees": "$71.13",
+      "opentime": "8:35 AM",
+      "closetime": "7:42 PM",
+      "patient": "Wayne Dosedale"
+   },
+   "FI61 4949 8913 9886 09": {
+      "speciality": "PINC",
+      "fees": "$40.62",
+      "opentime": "9:56 AM",
+      "closetime": "10:00 PM",
+      "patient": "Therine Reboul"
+   },
+   "DO11 UJ2Q 3267 1836 2745 3915 4755": {
+      "speciality": "ON",
+      "fees": "$92.17",
+      "opentime": "8:24 AM",
+      "closetime": "6:58 PM",
+      "patient": "Russ Cranton"
+   },
+   "PL58 0066 4632 8777 0422 2052 2875": {
+      "speciality": "AIG.WS",
+      "fees": "$49.09",
+      "opentime": "9:48 AM",
+      "closetime": "10:05 PM",
+      "patient": "Nigel Trasler"
+   },
+   "ES89 0775 3427 0342 1837 7742": {
+      "speciality": "HPE",
+      "fees": "$55.84",
+      "opentime": "9:35 AM",
+      "closetime": "8:22 PM",
+      "patient": "Keriann Hedderly"
+   },
+   "HR53 3764 1742 5287 4140 0": {
+      "speciality": "MAIN",
+      "fees": "$88.69",
+      "opentime": "9:24 AM",
+      "closetime": "7:29 PM",
+      "patient": "Mikael Mulcahy"
+   },
+   "FR86 9992 4739 098Q H4VL 6GM0 957": {
+      "speciality": "SRTSW",
+      "fees": "$80.83",
+      "opentime": "9:43 AM",
+      "closetime": "8:23 PM",
+      "patient": "Cordelia Comsty"
+   },
+   "FR21 3378 6308 32UU KEAH DOQ5 B44": {
+      "speciality": "TLI",
+      "fees": "$77.57",
+      "opentime": "9:25 AM",
+      "closetime": "9:02 PM",
+      "patient": "Sebastiano Lerwell"
+   },
+   "RO82 WKGA MCLD EPZZ YKAS M7VL": {
+      "speciality": "LFGR",
+      "fees": "$41.83",
+      "opentime": "9:34 AM",
+      "closetime": "10:39 PM",
+      "patient": "Mason Hellsdon"
+   },
+   "HR89 0297 2892 1627 7867 1": {
+      "speciality": "FTA",
+      "fees": "$36.79",
+      "opentime": "8:49 AM",
+      "closetime": "7:55 PM",
+      "patient": "Minne Gatiss"
+   },
+   "CZ83 1672 1152 5184 4363 8247": {
+      "speciality": "APRI",
+      "fees": "$31.60",
+      "opentime": "9:10 AM",
+      "closetime": "8:00 PM",
+      "patient": "Jaquelin Duester"
+   },
+   "FR69 0141 2864 08WX GE0Z WBFK Z60": {
+      "speciality": "TMST",
+      "fees": "$47.50",
+      "opentime": "9:05 AM",
+      "closetime": "10:58 PM",
+      "patient": "Sallyanne Leveridge"
+   },
+   "FR28 4624 4034 63MA 60ML XDZ1 Q90": {
+      "speciality": "JPS",
+      "fees": "$59.70",
+      "opentime": "8:22 AM",
+      "closetime": "8:24 PM",
+      "patient": "Davita Sheehan"
+   },
+   "MR85 4655 8898 1980 8127 0460 776": {
+      "speciality": "RBS^L",
+      "fees": "$76.76",
+      "opentime": "9:31 AM",
+      "closetime": "9:43 PM",
+      "patient": "Gregory Brewse"
+   },
+   "IL92 9149 3531 6297 9757 447": {
+      "speciality": "SYRS",
+      "fees": "$99.33",
+      "opentime": "9:14 AM",
+      "closetime": "7:55 PM",
+      "patient": "Brianne Tregenza"
+   },
+   "PS87 JJFF TKAV BD1Y NW6B C0CJ EVBS Z": {
+      "speciality": "CPG",
+      "fees": "$31.72",
+      "opentime": "8:16 AM",
+      "closetime": "6:15 PM",
+      "patient": "Grantham Krink"
+   },
+   "GB70 QAIF 6987 3712 5282 77": {
+      "speciality": "COF^G",
+      "fees": "$82.63",
+      "opentime": "9:06 AM",
+      "closetime": "9:32 PM",
+      "patient": "Dall Peverell"
+   },
+   "PT37 3615 7179 1478 8504 4148 8": {
+      "speciality": "SSNC",
+      "fees": "$41.02",
+      "opentime": "9:14 AM",
+      "closetime": "7:07 PM",
+      "patient": "Jobi Tellenbroker"
+   },
+   "FR26 5186 9216 18SR 4KKV IXHR 393": {
+      "speciality": "BCBP",
+      "fees": "$69.38",
+      "opentime": "9:45 AM",
+      "closetime": "6:40 PM",
+      "patient": "Micaela Fontes"
+   },
+   "FR93 8467 8409 65IN JZJK BVR0 T57": {
+      "speciality": "DVMT",
+      "fees": "$37.28",
+      "opentime": "8:56 AM",
+      "closetime": "6:40 PM",
+      "patient": "Jefferson Petroulis"
+   },
+   "CH29 8493 5X6L LMKI DVZO K": {
+      "speciality": "DKT",
+      "fees": "$90.96",
+      "opentime": "9:44 AM",
+      "closetime": "7:50 PM",
+      "patient": "Cornall Thunder"
+   },
+   "FR33 8177 9276 56PS Z2SG UGVF A51": {
+      "speciality": "ORN",
+      "fees": "$45.81",
+      "opentime": "8:22 AM",
+      "closetime": "9:39 PM",
+      "patient": "Gordan Gudeman"
+   },
+   "LI44 7202 8ZZS 3KXH M5J0 O": {
+      "speciality": "BF.B",
+      "fees": "$32.07",
+      "opentime": "8:48 AM",
+      "closetime": "6:33 PM",
+      "patient": "Jo-anne Tandey"
+   },
+   "SI80 1143 8682 2795 952": {
+      "speciality": "EHI",
+      "fees": "$30.22",
+      "opentime": "8:22 AM",
+      "closetime": "9:44 PM",
+      "patient": "Sella O'Rourke"
+   },
+   "AZ43 DQBR IH0D MPSP CT4K JQLN UNIL": {
+      "speciality": "DXYN",
+      "fees": "$77.55",
+      "opentime": "8:03 AM",
+      "closetime": "10:05 PM",
+      "patient": "Eleanore Burland"
+   },
+   "FR08 2274 7071 540L KHTH AA8W O16": {
+      "speciality": "KYN^F",
+      "fees": "$35.93",
+      "opentime": "9:03 AM",
+      "closetime": "10:34 PM",
+      "patient": "Marne Naire"
+   },
+   "NO74 2861 2617 358": {
+      "speciality": "INBKL",
+      "fees": "$59.56",
+      "opentime": "9:41 AM",
+      "closetime": "9:17 PM",
+      "patient": "Sascha Readitt"
+   },
+   "FR73 9337 8385 31BU FEWW FPAY 179": {
+      "speciality": "TDIV",
+      "fees": "$57.58",
+      "opentime": "9:43 AM",
+      "closetime": "10:17 PM",
+      "patient": "Meridel Costock"
+   },
+   "LI56 8109 0QNT 6RZD HRDF L": {
+      "speciality": "VSAR",
+      "fees": "$56.86",
+      "opentime": "9:03 AM",
+      "closetime": "6:40 PM",
+      "patient": "Monro Silcox"
+   },
+   "GI29 CAFZ VOR7 SYBJ HNX7 YST": {
+      "speciality": "BLMN",
+      "fees": "$67.12",
+      "opentime": "9:25 AM",
+      "closetime": "10:03 PM",
+      "patient": "Karlene Shere"
+   },
+   "CY15 9402 1903 KYKT DVMB 2I8J WCEI": {
+      "speciality": "JSYN",
+      "fees": "$95.00",
+      "opentime": "9:06 AM",
+      "closetime": "6:53 PM",
+      "patient": "Terri Brend"
+   },
+   "FR38 8654 5264 56KC U0TC 6IRW 698": {
+      "speciality": "MLAB",
+      "fees": "$55.90",
+      "opentime": "9:37 AM",
+      "closetime": "8:05 PM",
+      "patient": "Halley Hardwidge"
+   },
+   "HR91 1169 4355 9431 0331 7": {
+      "speciality": "ARMK",
+      "fees": "$57.22",
+      "opentime": "8:11 AM",
+      "closetime": "6:39 PM",
+      "patient": "Rosmunda Foreman"
+   },
+   "AT98 0580 7827 2441 8415": {
+      "speciality": "KW",
+      "fees": "$43.43",
+      "opentime": "9:33 AM",
+      "closetime": "9:43 PM",
+      "patient": "Marena Farbrother"
+   },
+   "ES16 3846 5109 8617 1984 7542": {
+      "speciality": "GSHTW",
+      "fees": "$74.00",
+      "opentime": "8:42 AM",
+      "closetime": "7:50 PM",
+      "patient": "Neala Waller-Bridge"
+   },
+   "BG08 NWSB 3002 23CV SCC2 MG": {
+      "speciality": "GSUM",
+      "fees": "$64.06",
+      "opentime": "9:23 AM",
+      "closetime": "6:29 PM",
+      "patient": "Ade Somerscales"
+   },
+   "ME02 1777 3740 7289 2053 65": {
+      "speciality": "AMSC",
+      "fees": "$71.46",
+      "opentime": "9:00 AM",
+      "closetime": "9:22 PM",
+      "patient": "Quintus Dawks"
+   },
+   "MT32 WUOM 1892 0BZ2 SWGH SBLQ ZFNA 1LJ": {
+      "speciality": "CASC",
+      "fees": "$56.85",
+      "opentime": "9:31 AM",
+      "closetime": "7:06 PM",
+      "patient": "Veronika Tebbe"
+   },
+   "DO87 VPXJ 2317 1726 9206 8714 2645": {
+      "speciality": "JFR",
+      "fees": "$95.95",
+      "opentime": "8:09 AM",
+      "closetime": "8:46 PM",
+      "patient": "Wynny Fearne"
+   },
+   "SI22 5491 8918 4208 828": {
+      "speciality": "WFC^W",
+      "fees": "$80.96",
+      "opentime": "8:27 AM",
+      "closetime": "10:07 PM",
+      "patient": "Jared Tregea"
+   },
+   "FR57 9986 8012 01NI AK7V UKOP 020": {
+      "speciality": "BLW",
+      "fees": "$60.28",
+      "opentime": "8:28 AM",
+      "closetime": "6:43 PM",
+      "patient": "Gaelan MacBey"
+   },
+   "FR02 5901 7781 88ZQ YRAT ZVHB W23": {
+      "speciality": "CSGP",
+      "fees": "$97.79",
+      "opentime": "8:10 AM",
+      "closetime": "9:38 PM",
+      "patient": "Fran Bosson"
+   },
+   "AL43 5493 5782 4CQJ Y5HP YSZH FQCQ": {
+      "speciality": "BSD",
+      "fees": "$96.30",
+      "opentime": "9:46 AM",
+      "closetime": "6:50 PM",
+      "patient": "Darci Wimpress"
+   },
+   "FR61 5273 3202 68NH QMHV LTGO 988": {
+      "speciality": "OESX",
+      "fees": "$74.11",
+      "opentime": "9:26 AM",
+      "closetime": "6:56 PM",
+      "patient": "Carolin Bakes"
+   },
+   "LT84 4936 4083 0796 4237": {
+      "speciality": "SLVO",
+      "fees": "$83.88",
+      "opentime": "8:59 AM",
+      "closetime": "10:26 PM",
+      "patient": "Joyce Thyng"
+   },
+   "IE89 ZLNK 6645 7754 2854 22": {
+      "speciality": "LOGM",
+      "fees": "$53.55",
+      "opentime": "8:07 AM",
+      "closetime": "8:46 PM",
+      "patient": "Daniela Dunlop"
+   },
+   "BG26 XCTY 7551 50EX 1KRA ZT": {
+      "speciality": "EBSB",
+      "fees": "$95.11",
+      "opentime": "9:46 AM",
+      "closetime": "9:33 PM",
+      "patient": "Harrison Bengough"
+   },
+   "FR37 4270 3334 56DR DCVA Y8GG E85": {
+      "speciality": "CRTN",
+      "fees": "$36.81",
+      "opentime": "9:25 AM",
+      "closetime": "7:46 PM",
+      "patient": "Cello Dobrovsky"
+   },
+   "GI11 VFDJ QXKW VFNP JZD3 III": {
+      "speciality": "ANH^A",
+      "fees": "$84.24",
+      "opentime": "9:01 AM",
+      "closetime": "9:14 PM",
+      "patient": "Rockwell Hanse"
+   },
+   "GI70 ZQCC EA9X KIGY BPHV MZS": {
+      "speciality": "IBN",
+      "fees": "$77.70",
+      "opentime": "8:54 AM",
+      "closetime": "9:39 PM",
+      "patient": "Janek Cheine"
+   },
+   "ES45 6157 0826 2958 3982 1760": {
+      "speciality": "LBAI",
+      "fees": "$65.06",
+      "opentime": "9:01 AM",
+      "closetime": "10:00 PM",
+      "patient": "Armando Helleckas"
+   },
+   "PK11 BDNR BA89 YQTB 18AH KECY": {
+      "speciality": "RATE",
+      "fees": "$65.24",
+      "opentime": "8:36 AM",
+      "closetime": "9:16 PM",
+      "patient": "Mommy Ternott"
+   },
+   "AD03 2566 7687 VXPH QQ7H ITP1": {
+      "speciality": "MDRX",
+      "fees": "$99.93",
+      "opentime": "9:22 AM",
+      "closetime": "8:35 PM",
+      "patient": "Denni Gauson"
+   },
+   "FR45 3061 6043 53MJ OOY2 MLVJ D03": {
+      "speciality": "SYRS",
+      "fees": "$83.04",
+      "opentime": "9:45 AM",
+      "closetime": "7:29 PM",
+      "patient": "Rochella Roads"
+   },
+   "SI81 0545 3358 6071 353": {
+      "speciality": "RDCM",
+      "fees": "$74.41",
+      "opentime": "9:17 AM",
+      "closetime": "9:18 PM",
+      "patient": "Kippie Sunnucks"
+   },
+   "GE25 IH95 8365 2423 8910 11": {
+      "speciality": "ZAYO",
+      "fees": "$80.67",
+      "opentime": "9:46 AM",
+      "closetime": "8:00 PM",
+      "patient": "Gradeigh Morot"
+   },
+   "ES90 0434 0948 2113 4603 5714": {
+      "speciality": "TCO",
+      "fees": "$55.18",
+      "opentime": "9:50 AM",
+      "closetime": "6:30 PM",
+      "patient": "Gabi Lamberts"
+   },
+   "FR18 2121 2570 649Z OQ00 APWD N74": {
+      "speciality": "PMTS",
+      "fees": "$35.25",
+      "opentime": "8:22 AM",
+      "closetime": "10:43 PM",
+      "patient": "Kessiah Cornelisse"
+   },
+   "BA34 3787 9972 3743 8289": {
+      "speciality": "USPH",
+      "fees": "$38.97",
+      "opentime": "9:28 AM",
+      "closetime": "9:58 PM",
+      "patient": "Levi Merit"
+   },
+   "DO89 WKFP 2455 2770 8811 3070 2205": {
+      "speciality": "APRI",
+      "fees": "$97.26",
+      "opentime": "8:15 AM",
+      "closetime": "10:24 PM",
+      "patient": "Dorothy Haggus"
+   },
+   "IS46 5761 1975 8956 2645 5823 50": {
+      "speciality": "ADX",
+      "fees": "$38.00",
+      "opentime": "9:59 AM",
+      "closetime": "10:48 PM",
+      "patient": "Erin Peirpoint"
+   },
+   "BG83 DVBK 8617 58EP CUWV GF": {
+      "speciality": "AWR",
+      "fees": "$47.19",
+      "opentime": "8:27 AM",
+      "closetime": "8:34 PM",
+      "patient": "Harp Surmon"
+   },
+   "SM16 B200 2958 132H TIIS M0XW JQU": {
+      "speciality": "RELV",
+      "fees": "$90.42",
+      "opentime": "9:38 AM",
+      "closetime": "10:20 PM",
+      "patient": "Melinda Woodrup"
+   },
+   "LI83 6386 35LV EITB 6WWW J": {
+      "speciality": "SAEX",
+      "fees": "$88.32",
+      "opentime": "8:40 AM",
+      "closetime": "9:06 PM",
+      "patient": "Calypso Cowmeadow"
+   },
+   "SA97 43HB V6BQ SPIX TINW CGIO": {
+      "speciality": "AED",
+      "fees": "$63.18",
+      "opentime": "9:31 AM",
+      "closetime": "9:46 PM",
+      "patient": "Elita Thurlborn"
+   },
+   "RO93 ILSX P36G 7DPL VRA5 G9BS": {
+      "speciality": "PDBC",
+      "fees": "$57.20",
+      "opentime": "9:13 AM",
+      "closetime": "8:52 PM",
+      "patient": "Selby Holdall"
+   },
+   "BE17 7538 1375 7534": {
+      "speciality": "SBCP",
+      "fees": "$70.71",
+      "opentime": "8:12 AM",
+      "closetime": "6:42 PM",
+      "patient": "Eddi Ellerey"
+   },
+   "ES42 0505 2983 6266 4555 8725": {
+      "speciality": "CBPX",
+      "fees": "$94.46",
+      "opentime": "8:16 AM",
+      "closetime": "8:14 PM",
+      "patient": "Iseabal Reynolds"
+   },
+   "BH27 GTRK 5SRC 1U1D NTNI UZ": {
+      "speciality": "MTW",
+      "fees": "$72.04",
+      "opentime": "8:19 AM",
+      "closetime": "6:56 PM",
+      "patient": "Donaugh Kowalski"
+   },
+   "FR93 8986 2991 05P7 K6CR PPWE Z49": {
+      "speciality": "KTWO",
+      "fees": "$45.46",
+      "opentime": "9:44 AM",
+      "closetime": "10:21 PM",
+      "patient": "Hubey Sitford"
+   },
+   "KW68 EHRH R6MG G2RU RUAS HAOC YI7G JG": {
+      "speciality": "NWS",
+      "fees": "$68.39",
+      "opentime": "8:56 AM",
+      "closetime": "10:37 PM",
+      "patient": "Ignacio Dahlman"
+   },
+   "FR40 2962 3319 82W6 2FKS SQUK 549": {
+      "speciality": "PRO",
+      "fees": "$77.88",
+      "opentime": "8:15 AM",
+      "closetime": "9:19 PM",
+      "patient": "Bank Gull"
+   },
+   "SE24 7498 5862 5700 9970 3021": {
+      "speciality": "BIG",
+      "fees": "$79.51",
+      "opentime": "9:58 AM",
+      "closetime": "9:20 PM",
+      "patient": "Caterina Beincken"
+   },
+   "NL24 YGAO 6535 4617 06": {
+      "speciality": "NSP",
+      "fees": "$44.45",
+      "opentime": "8:16 AM",
+      "closetime": "8:59 PM",
+      "patient": "Shandy Charkham"
+   },
+   "FO02 1536 5928 0958 77": {
+      "speciality": "IFMK",
+      "fees": "$95.72",
+      "opentime": "9:53 AM",
+      "closetime": "9:44 PM",
+      "patient": "Otha Purle"
+   },
+   "MC49 5428 2806 75RL WTT8 NSRW U93": {
+      "speciality": "COG",
+      "fees": "$30.40",
+      "opentime": "8:15 AM",
+      "closetime": "9:39 PM",
+      "patient": "Adler Knoton"
+   },
+   "FR95 0558 0840 69MA KAV6 M5AO K42": {
+      "speciality": "PUB",
+      "fees": "$98.99",
+      "opentime": "9:54 AM",
+      "closetime": "7:27 PM",
+      "patient": "Murielle Breukelman"
+   },
+   "KW09 RSYO HJRS UPV2 QDFK ASYM PV6L JF": {
+      "speciality": "CYRN",
+      "fees": "$58.28",
+      "opentime": "8:26 AM",
+      "closetime": "9:50 PM",
+      "patient": "Weber Toffolo"
+   },
+   "GE73 PW08 5567 1816 3726 43": {
+      "speciality": "NEWM",
+      "fees": "$34.20",
+      "opentime": "8:57 AM",
+      "closetime": "7:21 PM",
+      "patient": "Iggy Danford"
+   },
+   "BR41 0776 0654 6284 7510 4256 570E Q": {
+      "speciality": "PGR",
+      "fees": "$57.26",
+      "opentime": "8:22 AM",
+      "closetime": "9:20 PM",
+      "patient": "Samara Innes"
+   },
+   "TN91 2209 1838 8734 7435 8392": {
+      "speciality": "DLHC",
+      "fees": "$49.26",
+      "opentime": "8:09 AM",
+      "closetime": "7:32 PM",
+      "patient": "Susanne Borrow"
+   },
+   "CZ09 2933 0117 5301 8592 4091": {
+      "speciality": "TAP",
+      "fees": "$38.30",
+      "opentime": "9:39 AM",
+      "closetime": "9:17 PM",
+      "patient": "Rozele Franz-Schoninger"
+   },
+   "BH14 CRVV CXPB L7SQ TR2O 74": {
+      "speciality": "BBT^E",
+      "fees": "$97.18",
+      "opentime": "8:22 AM",
+      "closetime": "8:40 PM",
+      "patient": "Rafa Kinnon"
+   },
+   "NO90 4986 0944 989": {
+      "speciality": "SMFG",
+      "fees": "$95.43",
+      "opentime": "9:38 AM",
+      "closetime": "9:30 PM",
+      "patient": "Renault Effaunt"
+   },
+   "KW54 GIMN 5YBO 58NL YXY3 CBA6 BDZQ PV": {
+      "speciality": "KANG",
+      "fees": "$76.92",
+      "opentime": "8:09 AM",
+      "closetime": "9:36 PM",
+      "patient": "Vale Loreit"
+   },
+   "MT87 CATF 8887 21BK 0KLG CDBL 9TGN 70K": {
+      "speciality": "SSL",
+      "fees": "$44.72",
+      "opentime": "8:32 AM",
+      "closetime": "7:37 PM",
+      "patient": "Tera Skoate"
+   },
+   "SA70 15O0 9KQQ UVNE 8DOC JO3X": {
+      "speciality": "CORE",
+      "fees": "$32.49",
+      "opentime": "8:56 AM",
+      "closetime": "8:17 PM",
+      "patient": "Ashlee Elham"
+   },
+   "SM68 Q950 7084 9917 XEPR 3CVF DEV": {
+      "speciality": "MET^A",
+      "fees": "$78.37",
+      "opentime": "8:14 AM",
+      "closetime": "9:19 PM",
+      "patient": "Tonie Bogart"
+   },
+   "MT13 WSXI 0000 0IO1 PQIY HUKQ W8G8 RMH": {
+      "speciality": "MMD",
+      "fees": "$71.04",
+      "opentime": "9:03 AM",
+      "closetime": "6:47 PM",
+      "patient": "Jane Fosten"
+   },
+   "MU06 OUKV 8066 1924 7074 8835 909Y BM": {
+      "speciality": "CAVM",
+      "fees": "$71.97",
+      "opentime": "8:54 AM",
+      "closetime": "10:08 PM",
+      "patient": "Rudie Purver"
+   },
+   "EE63 4262 8219 5720 3919": {
+      "speciality": "JPM^G",
+      "fees": "$99.26",
+      "opentime": "9:19 AM",
+      "closetime": "9:28 PM",
+      "patient": "Tomlin Purrier"
+   },
+   "AT21 9443 7678 1577 8058": {
+      "speciality": "LPCN",
+      "fees": "$78.08",
+      "opentime": "9:22 AM",
+      "closetime": "9:44 PM",
+      "patient": "Townsend Itzkin"
+   },
+   "FR18 3778 9829 14OI LK45 7QI5 H99": {
+      "speciality": "RSG",
+      "fees": "$81.72",
+      "opentime": "9:37 AM",
+      "closetime": "8:29 PM",
+      "patient": "Karlis Barbosa"
+   },
+   "SI66 2965 7784 1500 640": {
+      "speciality": "ASPN",
+      "fees": "$92.53",
+      "opentime": "9:27 AM",
+      "closetime": "8:25 PM",
+      "patient": "Jacquelin Budden"
+   },
+   "NL16 YXTN 6168 1294 87": {
+      "speciality": "NS^A",
+      "fees": "$50.65",
+      "opentime": "9:31 AM",
+      "closetime": "9:28 PM",
+      "patient": "Bekki Creavin"
+   },
+   "KW17 GTCM 5AIE KZQE V1XK Y6FI 2NND DJ": {
+      "speciality": "IBB",
+      "fees": "$71.94",
+      "opentime": "8:46 AM",
+      "closetime": "10:42 PM",
+      "patient": "Tersina Dimitrie"
+   },
+   "DE83 3858 9067 5926 0281 84": {
+      "speciality": "SALT",
+      "fees": "$79.91",
+      "opentime": "9:22 AM",
+      "closetime": "8:24 PM",
+      "patient": "Ogden Haug"
+   },
+   "PK70 HDOA ACKG 4BYP 22DQ GZXB": {
+      "speciality": "ANTH",
+      "fees": "$70.11",
+      "opentime": "9:48 AM",
+      "closetime": "6:27 PM",
+      "patient": "Jacquetta Haggerstone"
+   },
+   "GB18 QUPQ 4809 7988 3018 61": {
+      "speciality": "HK",
+      "fees": "$33.69",
+      "opentime": "9:45 AM",
+      "closetime": "8:48 PM",
+      "patient": "Erena Paulot"
+   },
+   "SK74 2392 8287 0321 4094 9224": {
+      "speciality": "NMI",
+      "fees": "$84.94",
+      "opentime": "9:24 AM",
+      "closetime": "10:56 PM",
+      "patient": "Jesse Olechnowicz"
+   },
+   "MR16 8924 4947 4083 4291 9729 193": {
+      "speciality": "SYT",
+      "fees": "$51.57",
+      "opentime": "8:45 AM",
+      "closetime": "8:02 PM",
+      "patient": "Web Easeman"
+   }
+}

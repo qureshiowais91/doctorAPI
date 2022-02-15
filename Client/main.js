@@ -1,10 +1,14 @@
-fetch("http://172.105.253.222:8000/doctors")
+const { jsonp } = require("express/lib/response");
+
+fetch("http://localhost:5000/api/v1/profileInfo")
   .then((res) => res.json())
   .then((json) => {
     // how to access each value
-    document.write(JSON.stringify(json["data"]));
+    document.write(JSON.stringify(json["data"], ["identity"]));
   });
 
+
+// GET ALL  DOCTORE WITH J
 // fetch("http://172.105.253.22:8000/doctors/61cd8f95423169b69988e76d", {
 //   method: "DELETE",
 // })

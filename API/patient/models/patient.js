@@ -3,6 +3,7 @@ const { Schema } = mongoose;
 
 const patient = new Schema({
   profileID: { type: mongoose.Schema.Types.ObjectId, ref: "profileInfo" },
+  // doctores: [{ type: mongoose.Schema.Types.ObjectId, ref: "doctore" }],
   // Appointment Endpoint
   appointment: [
     {
@@ -16,7 +17,7 @@ const patient = new Schema({
       date: {
         type: String,
       },
-      doctor: { type: mongoose.Schema.Types.ObjectId, ref: "doctore" }, 
+      doctor: { type: mongoose.Schema.Types.ObjectId, ref: "doctore" },
     },
   ],
 });

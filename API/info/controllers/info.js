@@ -36,8 +36,7 @@ exports.getvalue = async (req, res, next) => {
 exports.createNew = async (req, res, next) => {
   try {
     const result = await info.create(req.body);
-     
-    
+
     // res.setHeader('Access-Control-Allow-Origin', '*');
     // res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
     // res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
@@ -62,7 +61,6 @@ exports.deleteValue = async (req, res, next) => {
 
     res.status(202).json({
       success: true,
-      status: deleted,
       data: result,
     });
     next();
