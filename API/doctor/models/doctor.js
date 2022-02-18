@@ -3,7 +3,7 @@ const { Schema } = mongoose;
 // Doctore 0
 // patient 1
 // med 2
-// lab 3
+// lab 3 
 const doctoreSchema = new Schema({
   profileID: { type: mongoose.Schema.Types.ObjectId, ref: "profileInfo" },
   speciality: {
@@ -14,7 +14,7 @@ const doctoreSchema = new Schema({
   },
   fees: {
     type: String,
-    max: 50,
+    max: 50,                                                                                  
     trim: true,
     required: [true, "Please Add Speciality"],
   },

@@ -1,12 +1,26 @@
-const { jsonp } = require("express/lib/response");
 
-fetch("http://localhost:5000/api/v1/profileInfo")
+fetch("http://localhost:5000/api/v1/profileInfo/")
   .then((res) => res.json())
   .then((json) => {
     // how to access each value
-    document.write(JSON.stringify(json["data"], ["identity"]));
+    
+    info = JSON.parse(JSON.stringify(json["data"][0], ["identity"]));
+    info.identity;
+
+    if (1 == info.identity) {
+      console.log(true);
+    } else {
+      console.log(false);
+    }
   });
 
+// fetch("http://localhost:5000/api/v1/profileInfo")
+//   .then((res) => res.json())
+//   .then((data) => {
+//     // how to access each value
+//     info = JSON.parse(data);
+//     console.log(info.identity);
+//   });
 
 // GET ALL  DOCTORE WITH J
 // fetch("http://172.105.253.22:8000/doctors/61cd8f95423169b69988e76d", {
