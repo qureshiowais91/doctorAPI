@@ -51,20 +51,20 @@ exports.createNew = async (req, res, next) => {
   }
 };
 
-exports.deleteValue = async (req, res, next) => {
-  try {
-    await Doctor.findByIdAndRemove(req.params.id);
+// exports.deleteValue = async (req, res, next) => {
+//   try {
+//     await Doctor.findByIdAndRemove(req.params.id);
 
-    // res.setHeader('Access-Control-Allow-Origin', '*');
-    // res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
-    // res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
+//     // res.setHeader('Access-Control-Allow-Origin', '*');
+//     // res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Accept');
+//     // res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
 
-    res.status(202).json({
-      success: true,
-      data: [],
-    });
-    next();
-  } catch (error) {
-    console.log(error);
-  }
-};
+//     res.status(202).json({
+//       success: true,
+//       data: [],
+//     });
+//     next();
+//   } catch (error) {
+//     console.log(error);
+//   }
+// };
